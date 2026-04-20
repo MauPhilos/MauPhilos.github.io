@@ -2,8 +2,8 @@
 layout: post
 title: CLAUDE.md 底层逻辑全解析：从注入机制到最佳实践
 categories: [AI,CLAUDE]
-description: some word here
-keywords: keyword1, keyword2
+description: 解析 CLAUDE.md 的底层逻辑、注入机制与最佳实践，帮助你快速理解 Claude 的配置思路。
+keywords: CLAUDE.md, Claude, Anthropic, prompt engineering, best practices
 mermaid: false
 sequence: false
 flow: false
