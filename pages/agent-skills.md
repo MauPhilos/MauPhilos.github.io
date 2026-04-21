@@ -12,7 +12,6 @@ permalink: /agent-skills/
 </p>
 
 {% assign summary = site.data.agentskills.summary %}
-{% assign scenarios = site.data.agentskills.scenarios %}
 {% assign curated = site.data.agentskills.curated %}
 
 ## 站点概览
@@ -30,11 +29,11 @@ permalink: /agent-skills/
 
 ## 热门场景
 
-{% if scenarios and scenarios.size > 0 %}
+{% if curated and curated.size > 0 %}
 <ul>
-  {% for item in scenarios limit: 24 %}
+  {% for item in curated %}
     <li>
-      <a href="{{ item.local_url | relative_url }}">{{ item.name }}</a>
+      <a href="{{ item.local_url | relative_url }}">{{ item.title }}</a>
       <small style="color:#888;">（来源：<a href="{{ item.source_url }}" target="_blank" rel="noopener">原站</a>）</small>
     </li>
   {% endfor %}
