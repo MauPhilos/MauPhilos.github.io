@@ -3,7 +3,6 @@ name: Sync Agent Skills Hub
 on:
   workflow_dispatch:
   schedule:
-    # 每 8 小时一次；避开整点，减少排队概率
     - cron: "17 */8 * * *"
 
 permissions:
@@ -22,41 +21,227 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch and normalize data
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Fetch and build data
         run: |
           mkdir -p _data/agentskills
+
           python <<'PY'
-          import json, os, urllib.request
+          import json
+          import os
+          import re
+          from datetime import datetime, timezone
+          from urllib.parse import urljoin, urlparse
+
+          import requests
+          from bs4 import BeautifulSoup
 
           BASE = "https://agentskillshub.top"
 
-          endpoints = {
-              "stats.json": f"{BASE}/api/stats",
-              "trending.json": f"{BASE}/api/trending",
-              "top-rated.json": f"{BASE}/api/top-rated",
-              "landing.json": f"{BASE}/api/landing",
+          session = requests.Session()
+          session.headers.update({
+              "User-Agent": "MauPhilos-AgentSkills-Sync/1.0 (+https://ybot.top)"
+          })
+
+          def fetch_html(url: str) -> str:
+              r = session.get(url, timeout=30)
+              r.raise_for_status()
+              return r.text
+
+          def soup_of(url: str) -> BeautifulSoup:
+              return BeautifulSoup(fetch_html(url), "html.parser")
+
+          def text_lines(soup: BeautifulSoup):
+              return [x.strip() for x in soup.get_text("\n").splitlines() if x.strip()]
+
+          def parse_home_summary():
+              soup = soup_of(BASE + "/")
+              text = "\n".join(text_lines(soup))
+
+              tools_count = None
+              projects_count = None
+              scenarios_count = None
+              refresh_hours = None
+
+              m = re.search(r"Discover\s+([\d,]+)\+\s+AI Agent Tools", text, re.I)
+              if m:
+                  tools_count = m.group(1) + "+"
+
+              m = re.search(r"Tracking\s+([\d,]+)\+\s+projects\s+across\s+(\d+)\s+scenarios", text, re.I)
+              if m:
+                  projects_count = m.group(1) + "+"
+                  scenarios_count = m.group(2)
+
+              m = re.search(r"auto-updated every\s+(\d+)\s+hours", text, re.I)
+              if m:
+                  refresh_hours = m.group(1)
+
+              return {
+                  "tools_count": tools_count,
+                  "projects_count": projects_count,
+                  "scenarios_count": scenarios_count,
+                  "refresh_hours": refresh_hours,
+                  "source": BASE
+              }
+
+          def parse_best_scenarios():
+              soup = soup_of(BASE + "/best/")
+              items = []
+              seen = set()
+
+              for a in soup.select("a[href]"):
+                  href = a.get("href", "").strip()
+                  name = a.get_text(" ", strip=True).replace("→", "").strip()
+                  if not href or not name:
+                      continue
+
+                  full = urljoin(BASE, href)
+                  path = urlparse(full).path.rstrip("/")
+
+                  if not path.startswith("/best"):
+                      continue
+                  if path in ("/best", ""):
+                      continue
+                  if full in seen:
+                      continue
+                  if name in {"GitHub", "Home", "中文", "X"}:
+                      continue
+                  if len(name) < 2:
+                      continue
+
+                  seen.add(full)
+                  items.append({
+                      "name": name,
+                      "url": full
+                  })
+
+              return items
+
+          def parse_scenario_page(path: str):
+              url = BASE + path
+              soup = soup_of(url)
+              lines = text_lines(soup)
+              text = "\n".join(lines)
+
+              title = None
+              for h in soup.find_all(["h1", "title"]):
+                  t = h.get_text(" ", strip=True)
+                  if t:
+                      title = t
+                      break
+              if not title:
+                  title = path.strip("/").split("/")[-1].replace("-", " ").title()
+
+              quick_pick = {}
+              qp = re.search(
+                  r"Quick Pick\s*—\s*If you only pick one, go with\s+(.+?)\s+★\s*([^\s]+)\s*—\s*(.+)",
+                  text,
+                  re.I
+              )
+              if qp:
+                  quick_pick = {
+                      "name": qp.group(1).strip(),
+                      "stars": qp.group(2).strip(),
+                      "tagline": qp.group(3).strip()
+                  }
+
+              tools = []
+              i = 0
+              while i < len(lines):
+                  line = lines[i]
+                  m = re.match(r"^(\d+)\s+(.+?)\s+by\s+(.+)$", line)
+                  if m:
+                      rank, name, author = m.groups()
+                      stars = ""
+                      meta = ""
+                      description = ""
+
+                      j = i + 1
+                      while j < len(lines) and j < i + 8:
+                          nxt = lines[j]
+
+                          if re.match(r"^\d+\s+.+?\s+by\s+.+$", nxt):
+                              break
+                          if nxt.lower().startswith("comparison") or nxt.startswith("## Comparison"):
+                              break
+
+                          if nxt.startswith("★"):
+                              sm = re.match(r"^★\s*([^\s]+)\s*(.*)$", nxt)
+                              if sm:
+                                  stars = sm.group(1).strip()
+                                  meta = sm.group(2).strip()
+                          elif nxt not in {
+                              "View Details → GitHub →",
+                              "View Details →",
+                              "GitHub →"
+                          } and not nxt.startswith("##"):
+                              if not description and len(nxt) > 2:
+                                  description = nxt
+
+                          j += 1
+
+                      tools.append({
+                          "rank": int(rank),
+                          "name": name.strip(),
+                          "author": author.strip(),
+                          "stars": stars,
+                          "meta": meta,
+                          "description": description
+                      })
+                      i = j
+                      continue
+                  i += 1
+
+              return {
+                  "title": title,
+                  "url": url,
+                  "quick_pick": quick_pick,
+                  "tools": tools[:10]
+              }
+
+          summary = parse_home_summary()
+          scenarios = parse_best_scenarios()
+
+          curated_paths = [
+              "/best/prompt-engineering/",
+              "/best/browser-automation/",
+              "/best/workflow-automation/"
+          ]
+          curated = []
+          for p in curated_paths:
+              try:
+                  curated.append(parse_scenario_page(p))
+              except Exception as e:
+                  curated.append({
+                      "title": p.strip("/").split("/")[-1].replace("-", " ").title(),
+                      "url": BASE + p,
+                      "quick_pick": {},
+                      "tools": [],
+                      "error": str(e)
+                  })
+
+          meta = {
+              "source": BASE,
+              "updated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
           }
 
-          headers = {
-              "User-Agent": "MauPhilos-AgentSkills-Sync/1.0"
-          }
+          out_dir = "_data/agentskills"
+          os.makedirs(out_dir, exist_ok=True)
 
-          for filename, url in endpoints.items():
-              req = urllib.request.Request(url, headers=headers)
-              with urllib.request.urlopen(req, timeout=30) as resp:
-                  raw = resp.read().decode("utf-8")
-                  data = json.loads(raw)
-
-              with open(os.path.join("_data/agentskills", filename), "w", encoding="utf-8") as f:
+          for filename, data in {
+              "meta.json": meta,
+              "summary.json": summary,
+              "scenarios.json": scenarios,
+              "curated.json": curated,
+          }.items():
+              with open(os.path.join(out_dir, filename), "w", encoding="utf-8") as f:
                   json.dump(data, f, ensure_ascii=False, indent=2)
 
-          # 额外保存一份更新时间
-          meta = {
-              "source": "https://agentskillshub.top",
-              "updated_at_utc": __import__("datetime").datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-          }
-          with open("_data/agentskills/meta.json", "w", encoding="utf-8") as f:
-              json.dump(meta, f, ensure_ascii=False, indent=2)
+          print("Done. Files written to", out_dir)
           PY
 
       - name: Commit changes
@@ -64,8 +249,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _data/agentskills
-          git diff --cached --quiet || git commit -m "chore: sync AgentSkillsHub data"
+          git diff --cached --quiet || git commit -m "chore: sync AgentSkillsHub content"
 
       - name: Push changes
-        run: |
-          git push
+        run: git push
