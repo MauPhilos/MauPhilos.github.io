@@ -8,7 +8,6 @@ permalink: /agent-skills/
 
 <p>
 数据来源：
-<a href="https://agentskillshub.top/" target="_blank" rel="noopener">AgentSkillsHub</a><br>
 最近同步：{{ site.data.agentskills.meta.updated_at_utc }}
 </p>
 
@@ -35,7 +34,8 @@ permalink: /agent-skills/
 <ul>
   {% for item in scenarios limit: 24 %}
     <li>
-      <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a>
+      <a href="{{ item.local_url | relative_url }}">{{ item.name }}</a>
+      <small style="color:#888;">（来源：<a href="{{ item.source_url }}" target="_blank" rel="noopener">原站</a>）</small>
     </li>
   {% endfor %}
 </ul>
@@ -48,7 +48,7 @@ permalink: /agent-skills/
 {% if curated and curated.size > 0 %}
   {% for block in curated %}
     <h3>
-      <a href="{{ block.url }}" target="_blank" rel="noopener">{{ block.title }}</a>
+      <a href="{{ block.local_url | relative_url }}">{{ block.title }}</a>
     </h3>
 
     {% if block.quick_pick and block.quick_pick.name %}
@@ -73,6 +73,12 @@ permalink: /agent-skills/
           </li>
         {% endfor %}
       </ol>
+      <p>
+        <small>
+          页面入口：<a href="{{ block.local_url | relative_url }}">{{ block.local_url }}</a>　
+          来源：<a href="{{ block.source_url }}" target="_blank" rel="noopener">原站</a>
+        </small>
+      </p>
     {% else %}
       <p>这个场景暂时没有抓到条目。</p>
     {% endif %}
