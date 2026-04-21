@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "36.4k",
+        "stars": "36.5k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
-        "stars": "581",
+        "stars": "589",
         "meta": "Rust MCP Server",
         "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
@@ -589,7 +589,7 @@
         "rank": 7,
         "name": "page-agent",
         "author": "alibaba",
-        "stars": "17.2k",
+        "stars": "17.3k",
         "meta": "TypeScript MCP Server",
         "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
         "github_url": "https://github.com/alibaba/page-agent"
@@ -630,7 +630,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-github/",
     "quick_pick": {
       "name": "octocode-mcp",
-      "stars": "794",
+      "stars": "795",
       "tagline": "MCP server for semantic code research and context generation on real-time using",
       "github_url": "https://github.com/bgauryy/octocode-mcp"
     },
@@ -639,7 +639,7 @@
         "rank": 1,
         "name": "octocode-mcp",
         "author": "bgauryy",
-        "stars": "794",
+        "stars": "795",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere",
         "github_url": "https://github.com/bgauryy/octocode-mcp"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "skylos",
         "author": "duriantaco",
-        "stars": "413",
+        "stars": "414",
         "meta": "Python MCP Server",
         "description": "Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.",
         "github_url": "https://github.com/duriantaco/skylos"
@@ -901,7 +901,7 @@
         "rank": 7,
         "name": "claude-night-market",
         "author": "athola",
-        "stars": "258",
+        "stars": "259",
         "meta": "Python Claude Skill",
         "description": "19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation",
         "github_url": "https://github.com/athola/claude-night-market"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "8.2k",
+        "stars": "8.5k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "20.3k",
+        "stars": "20.4k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"

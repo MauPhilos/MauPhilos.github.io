@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/code-review/
   - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
 - <a href="https://github.com/josstei/maestro-gemini" target="_blank" rel="noopener"><strong>maestro-gemini</strong></a> by josstei · ★ 259 · JavaScript Agent Tool
   - Multi-agent orchestration extension for Gemini CLI — 22 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
-- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 258 · Python Claude Skill
+- <a href="https://github.com/athola/claude-night-market" target="_blank" rel="noopener"><strong>claude-night-market</strong></a> by athola · ★ 259 · Python Claude Skill
   - 19 production-ready Claude Code plugins: git workflows, code review, spec-driven development, architecture patterns, resource optimization, and multi-LLM delegation
 - <a href="https://github.com/alexfazio/plankton" target="_blank" rel="noopener"><strong>plankton</strong></a> by alexfazio · ★ 243 · Shell Agent Tool
   - Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations

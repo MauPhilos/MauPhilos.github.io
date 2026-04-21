@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/linshenkx/prompt-optimizer" target="_blank" rel="noopener"><strong>prompt-optimizer</strong></a> by linshenkx · ★ 26.6k · TypeScript Agent Tool
   - An AI prompt optimizer for writing better prompts and getting better AI results.
-- <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 20.3k · TypeScript LLM Plugin
+- <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 20.4k · TypeScript LLM Plugin
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
 - <a href="https://github.com/raga-ai-hub/RagaAI-Catalyst" target="_blank" rel="noopener"><strong>RagaAI-Catalyst</strong></a> by raga-ai-hub · ★ 16.1k · Python Agent Tool
   - Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view
