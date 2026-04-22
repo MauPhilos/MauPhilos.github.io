@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - 44 plug-and-play skills for OpenClaw — self-modifying AI agent with cron scheduling, security guardrails, persistent memory, knowledge graphs, and MCP health monitoring. Your agent teaches itself new behaviors during conversation.
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 810 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 95 · Python MCP Server
+- <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 102 · Python MCP Server
   - Persistent memory for AI coding agents
 - <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 51 · Python MCP Server
   - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.

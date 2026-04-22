@@ -20,7 +20,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
 - <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.1k · TypeScript MCP Server
   - Official Notion MCP Server
 - <a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> by suekou · ★ 863 · TypeScript MCP Server
-- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 57 · TypeScript MCP Server
+- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 67 · TypeScript MCP Server
   - Open source RAG tool for AI document search - connect GitHub, Notion, Google Drive and ask questions with cited answers. Self-hosted with Ollama/OpenAI/Claude.
 - <a href="https://github.com/alibaba/page-agent" target="_blank" rel="noopener"><strong>page-agent</strong></a> by alibaba · ★ 17.3k · TypeScript MCP Server
   - JavaScript in-page GUI agent. Control web interfaces with natural language.
