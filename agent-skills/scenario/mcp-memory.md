@@ -21,10 +21,10 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Persistent memory for AI coding agents
 - <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 51 · Python MCP Server
   - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
+- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 262 · TypeScript MCP Server
+  - Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.
 - <a href="https://github.com/aiming-lab/SimpleMem" target="_blank" rel="noopener"><strong>SimpleMem</strong></a> by aiming-lab · ★ 3.2k · Python MCP Server
   - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal
-- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 226 · TypeScript MCP Server
-  - Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.
 - <a href="https://github.com/iamtouchskyer/memex" target="_blank" rel="noopener"><strong>memex</strong></a> by iamtouchskyer · ★ 186 · TypeScript MCP Server
   - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - <a href="https://github.com/yantrikos/yantrikdb-server" target="_blank" rel="noopener"><strong>yantrikdb-server</strong></a> by yantrikos · ★ 114 · Python MCP Server

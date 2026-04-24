@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "native-devtools-mcp",
         "author": "sh3ll3x3c",
-        "stars": "73",
+        "stars": "74",
         "meta": "Rust MCP Server",
         "description": "MCP server for computer use & browser automation - screenshot, OCR, click, type, find_text, Chrome/Electron CDP, template matching. macOS, Windows & Android. Works with Claude, Cursor, and any MCP client.",
         "github_url": "https://github.com/sh3ll3x3c/native-devtools-mcp"
@@ -474,21 +474,21 @@
       },
       {
         "rank": 6,
+        "name": "swarmvault",
+        "author": "swarmclawai",
+        "stars": "262",
+        "meta": "TypeScript MCP Server",
+        "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
+        "github_url": "https://github.com/swarmclawai/swarmvault"
+      },
+      {
+        "rank": 7,
         "name": "SimpleMem",
         "author": "aiming-lab",
         "stars": "3.2k",
         "meta": "Python MCP Server",
         "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
         "github_url": "https://github.com/aiming-lab/SimpleMem"
-      },
-      {
-        "rank": 7,
-        "name": "swarmvault",
-        "author": "swarmclawai",
-        "stars": "226",
-        "meta": "TypeScript MCP Server",
-        "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
-        "github_url": "https://github.com/swarmclawai/swarmvault"
       },
       {
         "rank": 8,
@@ -616,9 +616,9 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "3.2k",
+        "stars": "3.3k",
         "meta": "TypeScript MCP Server",
-        "description": "The agent environment for long-horizon work, continuity, and self-evolution.",
+        "description": "The computer for you and your agent.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
       }
     ]
@@ -928,7 +928,7 @@
         "rank": 10,
         "name": "ring",
         "author": "LerianStudio",
-        "stars": "176",
+        "stars": "177",
         "meta": "Python Agent Tool",
         "description": "89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.",
         "github_url": "https://github.com/LerianStudio/ring"
@@ -987,7 +987,7 @@
         "rank": 5,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "33.4k",
+        "stars": "33.8k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "9.2k",
+        "stars": "9.4k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1030,12 +1030,12 @@
       },
       {
         "rank": 10,
-        "name": "9router",
-        "author": "decolua",
+        "name": "OpenMontage",
+        "author": "calesthio",
         "stars": "3.0k",
-        "meta": "JavaScript Codex Skill",
-        "description": "Connect All AI Code Tools (Claude Code, Cursor, Antigravity, Copilot, Codex, Gemini, OpenCode, Cline, OpenClaw...) to 40+ AI Providers & 100+ Models",
-        "github_url": "https://github.com/decolua/9router"
+        "meta": "Python Agent Tool",
+        "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+        "github_url": "https://github.com/calesthio/OpenMontage"
       }
     ]
   },
@@ -1213,7 +1213,7 @@
         "rank": 7,
         "name": "opik-openclaw",
         "author": "comet-ml",
-        "stars": "560",
+        "stars": "561",
         "meta": "TypeScript Codex Skill",
         "description": "🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.",
         "github_url": "https://github.com/comet-ml/opik-openclaw"
