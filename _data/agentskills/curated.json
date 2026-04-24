@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "36.9k",
+        "stars": "37.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
-        "stars": "611",
+        "stars": "614",
         "meta": "Rust MCP Server",
         "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
@@ -277,7 +277,7 @@
         "rank": 7,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
-        "stars": "79",
+        "stars": "92",
         "meta": "Python MCP Server",
         "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
@@ -958,7 +958,7 @@
       },
       {
         "rank": 2,
-        "name": "embeddedskills NEW",
+        "name": "embeddedskills",
         "author": "zhinkgit",
         "stars": "87",
         "meta": "Python Claude Skill",
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "4.4k",
+        "stars": "4.5k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate coding agents remotely from your phone, desktop and CLI",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1032,7 +1032,7 @@
         "rank": 10,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "3.0k",
+        "stars": "3.1k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"

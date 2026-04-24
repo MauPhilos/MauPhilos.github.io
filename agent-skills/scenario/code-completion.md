@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/code-completion/
 
 - <a href="https://github.com/kyaukyuai/gpt-all-star" target="_blank" rel="noopener"><strong>gpt-all-star</strong></a> by kyaukyuai · ★ 224 · Python Agent Tool
   - 🤖 AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
-- <a href="https://github.com/zhinkgit/embeddedskills" target="_blank" rel="noopener"><strong>embeddedskills NEW</strong></a> by zhinkgit · ★ 87 · Python Claude Skill
+- <a href="https://github.com/zhinkgit/embeddedskills" target="_blank" rel="noopener"><strong>embeddedskills</strong></a> by zhinkgit · ★ 87 · Python Claude Skill
   - An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.
 - <a href="https://github.com/attilaszasz/sdd-pilot" target="_blank" rel="noopener"><strong>sdd-pilot</strong></a> by attilaszasz · ★ 60 · JavaScript Codex Skill
   - Replace chaotic AI code generation with a disciplined, spec-driven workflow. SDD Pilot enforces structured development phases and quality gates, leveraging AI agents to conduct online research for best practices and plan your architecture before a single line of code is written.
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/code-completion/
   - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
 - <a href="https://github.com/olimorris/codecompanion.nvim" target="_blank" rel="noopener"><strong>codecompanion.nvim</strong></a> by olimorris · ★ 6.5k · Lua Agent Tool
   - ✨ AI Coding, Vim Style
-- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 4.4k · TypeScript Codex Skill
+- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 4.5k · TypeScript Codex Skill
   - Orchestrate coding agents remotely from your phone, desktop and CLI
-- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 3.0k · Python Agent Tool
+- <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 3.1k · Python Agent Tool
   - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
