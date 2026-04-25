@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Persistent memory for AI coding agents
 - <a href="https://github.com/Filippo-Venturini/ctxvault" target="_blank" rel="noopener"><strong>ctxvault</strong></a> by Filippo-Venturini · ★ 51 · Python MCP Server
   - Local memory infrastructure for AI agents. Store knowledge and skills in isolated vaults you compose, control and query.
-- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 262 · TypeScript MCP Server
+- <a href="https://github.com/swarmclawai/swarmvault" target="_blank" rel="noopener"><strong>swarmvault</strong></a> by swarmclawai · ★ 263 · TypeScript MCP Server
   - Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.
 - <a href="https://github.com/aiming-lab/SimpleMem" target="_blank" rel="noopener"><strong>SimpleMem</strong></a> by aiming-lab · ★ 3.2k · Python MCP Server
   - SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal

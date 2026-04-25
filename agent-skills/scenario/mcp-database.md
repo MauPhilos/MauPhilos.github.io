@@ -26,7 +26,7 @@ permalink: /agent-skills/scenario/mcp-database/
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP
 - <a href="https://github.com/mindsdb/mindsdb" target="_blank" rel="noopener"><strong>mindsdb</strong></a> by mindsdb · ★ 39.0k · Python MCP Server
-  - Query Engine for AI Analytics: Build self-reasoning agents across all your live data
+  - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - <a href="https://github.com/call518/MCP-PostgreSQL-Ops" target="_blank" rel="noopener"><strong>MCP-PostgreSQL-Ops</strong></a> by call518 · ★ 147 · Python MCP Server
   - 🔍Professional MCP server for PostgreSQL operations & monitoring: 30+ extension-independent tools for performance analysis, table bloat detection, autovacuum monitoring, schema introspection, and database management. Supports PostgreSQL 12+.
 - <a href="https://github.com/runekaagaard/mcp-alchemy" target="_blank" rel="noopener"><strong>mcp-alchemy</strong></a> by runekaagaard · ★ 395 · Python MCP Server

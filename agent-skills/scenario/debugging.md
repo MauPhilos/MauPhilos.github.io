@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/debugging/
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 285 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
-- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 204 · C++ MCP Server
+- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 205 · C++ MCP Server
   - PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
