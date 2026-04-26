@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/code-review/
   - Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations
 - <a href="https://github.com/Nayjest/Gito" target="_blank" rel="noopener"><strong>Gito</strong></a> by Nayjest · ★ 209 · Python Agent Tool
   - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
-- <a href="https://github.com/LerianStudio/ring" target="_blank" rel="noopener"><strong>ring</strong></a> by LerianStudio · ★ 177 · Python Agent Tool
-  - 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
+- <a href="https://github.com/tirth8205/code-review-graph" target="_blank" rel="noopener"><strong>code-review-graph</strong></a> by tirth8205 · ★ 12.3k · Python MCP Server
+  - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
