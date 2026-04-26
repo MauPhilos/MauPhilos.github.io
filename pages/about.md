@@ -22,6 +22,8 @@ permalink: /about/
 
 Maurilos，不只是一个名字，也是一种持续探索的态度。
 
+我的邮箱,如有问题可以和我联系. MLS.lab@hotmail.com
+
 
 
 ## 联系
@@ -30,7 +32,7 @@ Maurilos，不只是一个名字，也是一种持续探索的态度。
 {% for website in site.data.social %}
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
-{% if site.url contains 'ybot.top' %}
+{% if site.url contains 'MLS.lab@hotmail.com' %}
 <li>
 微信公众号：<br />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
