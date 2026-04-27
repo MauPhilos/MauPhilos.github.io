@@ -7,10 +7,12 @@ permalink: /agent-skills/scenario/debugging/
 # Best AI Agent Skills for Debugging in 2026
 
 ## Quick Pick
-<a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> · ★ 1.9k · Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps
+<a href="https://github.com/BerriAI/clerkie-cli" target="_blank" rel="noopener"><strong>clerkie-cli</strong></a> · ★ 97 · Clerkie-cli is a terminal tool that uses an LLM to help debug and troubleshoot c
 
 ## 工具列表
 
+- <a href="https://github.com/BerriAI/clerkie-cli" target="_blank" rel="noopener"><strong>clerkie-cli</strong></a> by BerriAI · ★ 97 · Python Agent Tool
+  - Clerkie-cli is a terminal tool that uses an LLM to help debug and troubleshoot coding errors in any programming language. It offers explanations, suggested fixes, guidance, alternative approaches, and code examples. It is useful for developers of all skill levels.
 - <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 1.9k · TypeScript MCP Server
   - Development platform to debug, chat, inspect, and evaluate MCP servers, MCP apps, and ChatGPT apps.
 - <a href="https://github.com/PaperDebugger/paperdebugger" target="_blank" rel="noopener"><strong>paperdebugger</strong></a> by PaperDebugger · ★ 1.4k · TypeScript MCP Server
@@ -25,9 +27,7 @@ permalink: /agent-skills/scenario/debugging/
   - 🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 312 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
-- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 358 · C++ MCP Server
+- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 359 · C++ MCP Server
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
-- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 205 · C++ MCP Server
+- <a href="https://github.com/drhelius/Geargrafx" target="_blank" rel="noopener"><strong>Geargrafx</strong></a> by drhelius · ★ 206 · C++ MCP Server
   - PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 37.2k · TypeScript MCP Server
-  - Chrome DevTools for coding agents

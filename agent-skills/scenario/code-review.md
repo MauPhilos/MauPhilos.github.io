@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/code-review/
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
 - <a href="https://github.com/agavra/tuicr" target="_blank" rel="noopener"><strong>tuicr</strong></a> by agavra · ★ 559 · Rust Agent Tool
   - a terminal UI for local code review
-- <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 371 · JavaScript Codex Skill
+- <a href="https://github.com/josstei/maestro-orchestrate" target="_blank" rel="noopener"><strong>maestro-orchestrate</strong></a> by josstei · ★ 377 · JavaScript Codex Skill
   - Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools
 - <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 362 · Python Agent Tool
   - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/code-review/
   - Write-time code quality enforcement system for Claude Code. Every file edit triggers automated formatting and linting through fast Rust-based linters and dedicated Claude instances that intelligently fix remaining violations
 - <a href="https://github.com/Nayjest/Gito" target="_blank" rel="noopener"><strong>Gito</strong></a> by Nayjest · ★ 209 · Python Agent Tool
   - An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.
-- <a href="https://github.com/tirth8205/code-review-graph" target="_blank" rel="noopener"><strong>code-review-graph</strong></a> by tirth8205 · ★ 12.3k · Python MCP Server
-  - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
+- <a href="https://github.com/LerianStudio/ring" target="_blank" rel="noopener"><strong>ring</strong></a> by LerianStudio · ★ 177 · Python Agent Tool
+  - 89 skills and 38 specialized agents that enforce proven engineering practices for AI-assisted development. TDD, systematic debugging, parallel code review, and 10-gate development cycles — as a Claude Code plugin marketplace.
