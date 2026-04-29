@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-database/
   - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
 - <a href="https://github.com/runekaagaard/mcp-alchemy" target="_blank" rel="noopener"><strong>mcp-alchemy</strong></a> by runekaagaard · ★ 395 · Python MCP Server
   - A MCP (model context protocol) server that gives the LLM access to and knowledge about relational databases like SQLite, Postgresql, MySQL & MariaDB, Oracle, and MS-SQL.
-- <a href="https://github.com/xpf0000/FlyEnv" target="_blank" rel="noopener"><strong>FlyEnv</strong></a> by xpf0000 · ★ 2.7k · TypeScript Codex Skill
+- <a href="https://github.com/xpf0000/FlyEnv" target="_blank" rel="noopener"><strong>FlyEnv</strong></a> by xpf0000 · ★ 2.8k · TypeScript Codex Skill
   - Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run Hermes Agent/OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...
