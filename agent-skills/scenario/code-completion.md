@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/code-completion/
   - An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.
 - <a href="https://github.com/attilaszasz/sdd-pilot" target="_blank" rel="noopener"><strong>sdd-pilot</strong></a> by attilaszasz · ★ 60 · JavaScript Codex Skill
   - Replace chaotic AI code generation with a disciplined, spec-driven workflow. SDD Pilot enforces structured development phases and quality gates, leveraging AI agents to conduct online research for best practices and plan your architecture before a single line of code is written.
-- <a href="https://github.com/safishamsi/graphify" target="_blank" rel="noopener"><strong>graphify</strong></a> by safishamsi · ★ 38.0k · Python Codex Skill
+- <a href="https://github.com/safishamsi/graphify" target="_blank" rel="noopener"><strong>graphify</strong></a> by safishamsi · ★ 38.3k · Python Codex Skill
   - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph
 - <a href="https://github.com/arunalabs/mode" target="_blank" rel="noopener"><strong>mode</strong></a> by arunalabs · ★ 71 · TypeScript Agent Tool
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/code-completion/
   - ✨ AI Coding, Vim Style
 - <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 5.0k · TypeScript Codex Skill
   - Orchestrate coding agents remotely from your phone, desktop and CLI
-- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 3.7k · TypeScript Codex Skill
+- <a href="https://github.com/nexu-io/open-design" target="_blank" rel="noopener"><strong>open-design NEW</strong></a> by nexu-io · ★ 4.3k · TypeScript Codex Skill
   - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.

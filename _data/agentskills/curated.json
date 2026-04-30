@@ -422,7 +422,7 @@
     "local_url": "/agent-skills/scenario/mcp-memory/",
     "quick_pick": {
       "name": "memora",
-      "stars": "394",
+      "stars": "397",
       "tagline": "Give your AI agents persistent memory.",
       "github_url": "https://github.com/agentic-box/memora"
     },
@@ -431,7 +431,7 @@
         "rank": 1,
         "name": "memora",
         "author": "agentic-box",
-        "stars": "394",
+        "stars": "397",
         "meta": "Python MCP Server",
         "description": "Give your AI agents persistent memory.",
         "github_url": "https://github.com/agentic-box/memora"
@@ -474,21 +474,21 @@
       },
       {
         "rank": 6,
+        "name": "swarmvault",
+        "author": "swarmclawai",
+        "stars": "281",
+        "meta": "TypeScript MCP Server",
+        "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
+        "github_url": "https://github.com/swarmclawai/swarmvault"
+      },
+      {
+        "rank": 7,
         "name": "SimpleMem",
         "author": "aiming-lab",
         "stars": "3.2k",
         "meta": "Python MCP Server",
         "description": "SimpleMem: Efficient Lifelong Memory for LLM Agents — Text & Multimodal",
         "github_url": "https://github.com/aiming-lab/SimpleMem"
-      },
-      {
-        "rank": 7,
-        "name": "swarmvault",
-        "author": "swarmclawai",
-        "stars": "275",
-        "meta": "TypeScript MCP Server",
-        "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
-        "github_url": "https://github.com/swarmclawai/swarmvault"
       },
       {
         "rank": 8,
@@ -503,19 +503,19 @@
         "rank": 9,
         "name": "yantrikdb-server",
         "author": "yantrikos",
-        "stars": "133",
-        "meta": "Python MCP Server",
+        "stars": "136",
+        "meta": "Rust MCP Server",
         "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
         "github_url": "https://github.com/yantrikos/yantrikdb-server"
       },
       {
         "rank": 10,
-        "name": "m_flow",
-        "author": "FlowElement-ai",
-        "stars": "2.1k",
-        "meta": "Python MCP Server",
-        "description": "A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.",
-        "github_url": "https://github.com/FlowElement-ai/m_flow"
+        "name": "dreamgraph",
+        "author": "mmethodz",
+        "stars": "55",
+        "meta": "TypeScript MCP Server",
+        "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
+        "github_url": "https://github.com/mmethodz/dreamgraph"
       }
     ]
   },
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "13.1k",
+        "stars": "13.2k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "29.3k",
+        "stars": "29.4k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -806,7 +806,7 @@
         "rank": 8,
         "name": "cli",
         "author": "googleworkspace",
-        "stars": "25.5k",
+        "stars": "25.6k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "38.0k",
+        "stars": "38.3k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -1032,7 +1032,7 @@
         "rank": 10,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "3.7k",
+        "stars": "4.3k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "Vibe-Trading",
         "author": "HKUDS",
-        "stars": "3.5k",
+        "stars": "3.7k",
         "meta": "Python MCP Server",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "github_url": "https://github.com/HKUDS/Vibe-Trading"
@@ -1231,7 +1231,7 @@
         "rank": 9,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "359",
+        "stars": "361",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
@@ -1240,7 +1240,7 @@
         "rank": 10,
         "name": "Geargrafx",
         "author": "drhelius",
-        "stars": "207",
+        "stars": "209",
         "meta": "C++ MCP Server",
         "description": "PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Geargrafx"
