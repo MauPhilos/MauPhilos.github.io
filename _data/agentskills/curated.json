@@ -512,7 +512,7 @@
         "rank": 10,
         "name": "dreamgraph",
         "author": "mmethodz",
-        "stars": "62",
+        "stars": "66",
         "meta": "TypeScript MCP Server",
         "description": "DreamGraph is a graph-first cognitive layer (graph → MCP → CLI → dashboard → extension) that builds a persistent knowledge graph to reason, validate changes, and generate docs.",
         "github_url": "https://github.com/mmethodz/dreamgraph"
@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "opencode-swarm",
         "author": "zaxbysauce",
-        "stars": "273",
+        "stars": "277",
         "meta": "TypeScript MCP Server",
         "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
         "github_url": "https://github.com/zaxbysauce/opencode-swarm"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "graphify",
         "author": "safishamsi",
-        "stars": "38.9k",
+        "stars": "39.0k",
         "meta": "Python Codex Skill",
         "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
         "github_url": "https://github.com/safishamsi/graphify"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "gem-team",
-      "stars": "101",
+      "stars": "102",
       "tagline": "Self-Learning Multi-agent orchestration framework for spec-driven development an",
       "github_url": "https://github.com/mubaidr/gem-team"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "101",
+        "stars": "102",
         "meta": "Agent Tool",
         "description": "Self-Learning Multi-agent orchestration framework for spec-driven development and automated verification.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1213,7 +1213,7 @@
         "rank": 7,
         "name": "opik-openclaw",
         "author": "comet-ml",
-        "stars": "561",
+        "stars": "575",
         "meta": "TypeScript Codex Skill",
         "description": "🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, cost, tokens, errors and more.",
         "github_url": "https://github.com/comet-ml/opik-openclaw"
