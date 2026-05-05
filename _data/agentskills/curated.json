@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "14.9k",
+      "stars": "15.0k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "14.9k",
+        "stars": "15.0k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "swarmvault",
         "author": "swarmclawai",
-        "stars": "375",
+        "stars": "378",
         "meta": "TypeScript MCP Server",
         "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
         "github_url": "https://github.com/swarmclawai/swarmvault"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "holaOS",
         "author": "holaboss-ai",
-        "stars": "4.7k",
+        "stars": "4.8k",
         "meta": "TypeScript MCP Server",
         "description": "An Open Agent Computer for ANY digital work.",
         "github_url": "https://github.com/holaboss-ai/holaOS"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "github-mcp-server",
         "author": "github",
-        "stars": "29.4k",
+        "stars": "29.5k",
         "meta": "Go MCP Server",
         "description": "GitHub's official MCP Server",
         "github_url": "https://github.com/github/github-mcp-server"
@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "opencode-swarm",
         "author": "zaxbysauce",
-        "stars": "297",
+        "stars": "301",
         "meta": "TypeScript MCP Server",
         "description": "Architect-centric agentic swarm plugin for OpenCode. Hub-and-spoke orchestration with SME consultation, code generation, and QA review.",
         "github_url": "https://github.com/zaxbysauce/opencode-swarm"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "501",
+        "stars": "505",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -806,7 +806,7 @@
         "rank": 8,
         "name": "cli",
         "author": "googleworkspace",
-        "stars": "25.6k",
+        "stars": "25.8k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
@@ -987,28 +987,28 @@
         "rank": 5,
         "name": "open-design NEW",
         "author": "nexu-io",
-        "stars": "24.5k",
+        "stars": "26.8k",
         "meta": "TypeScript Codex Skill",
         "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
         "github_url": "https://github.com/nexu-io/open-design"
       },
       {
         "rank": 6,
+        "name": "context-mode",
+        "author": "mksglu",
+        "stars": "12.8k",
+        "meta": "TypeScript MCP Server",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+        "github_url": "https://github.com/mksglu/context-mode"
+      },
+      {
+        "rank": 7,
         "name": "ai-guide",
         "author": "liyupi",
         "stars": "12.8k",
         "meta": "JavaScript MCP Server",
         "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站",
         "github_url": "https://github.com/liyupi/ai-guide"
-      },
-      {
-        "rank": 7,
-        "name": "context-mode",
-        "author": "mksglu",
-        "stars": "12.6k",
-        "meta": "TypeScript MCP Server",
-        "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-        "github_url": "https://github.com/mksglu/context-mode"
       },
       {
         "rank": 8,
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "prompt-optimizer",
         "author": "linshenkx",
-        "stars": "28.0k",
+        "stars": "28.1k",
         "meta": "TypeScript Agent Tool",
         "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
         "github_url": "https://github.com/linshenkx/prompt-optimizer"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "20.8k",
+        "stars": "20.9k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "Vibe-Trading",
         "author": "HKUDS",
-        "stars": "4.8k",
+        "stars": "5.1k",
         "meta": "Python MCP Server",
         "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
         "github_url": "https://github.com/HKUDS/Vibe-Trading"
