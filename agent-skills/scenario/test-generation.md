@@ -22,7 +22,7 @@ permalink: /agent-skills/scenario/test-generation/
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 118 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/rasinmuhammed/misata" target="_blank" rel="noopener"><strong>misata</strong></a> by rasinmuhammed · ★ 63 · Python MCP Server
-  - High-performance open-source synthetic data engine. Uses LLMs for schema design and vectorized NumPy for deterministic, scalable generation.
+  - Synthetic test data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server.
 - <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 23.6k · TypeScript LLM Plugin
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
 - <a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank" rel="noopener"><strong>reverse-skill</strong></a> by zhaoxuya520 · ★ 8.9k · PowerShell Agent Tool
