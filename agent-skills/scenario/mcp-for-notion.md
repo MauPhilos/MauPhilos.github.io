@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
 - <a href="https://github.com/gethuman-sh/human" target="_blank" rel="noopener"><strong>human</strong></a> by gethuman-sh · ★ 61 · Go MCP Server
   - The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.
-- <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.5k · TypeScript MCP Server
+- <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.6k · TypeScript MCP Server
   - Official Notion MCP Server
 - <a href="https://github.com/andylow92/file-system-like-github" target="_blank" rel="noopener"><strong>file-system-like-github</strong></a> by andylow92 · ★ 296 · TypeScript MCP Server
   - Self-improving, AI-native markdown vault you hand to an AI agent. GitHub-style file tree + Notion editing, exposed to Claude/Cursor via a built-in MCP server (24 tools): semantic & hybrid search, RAG, cited answers. Learns your voice from your edits; human-approved review queue. Local-first .md.
