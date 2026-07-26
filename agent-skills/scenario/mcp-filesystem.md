@@ -15,9 +15,9 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 - <a href="https://github.com/efforthye/fast-filesystem-mcp" target="_blank" rel="noopener"><strong>fast-filesystem-mcp</strong></a> by efforthye · ★ 54 · TypeScript MCP Server
   - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
-- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 8.8k · TypeScript MCP Server
+- <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank" rel="noopener"><strong>DesktopCommanderMCP</strong></a> by wonderwhy-er · ★ 8.9k · TypeScript MCP Server
   - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-- <a href="https://github.com/ASCIT31/Dark-Moon" target="_blank" rel="noopener"><strong>Dark-Moon</strong></a> by ASCIT31 · ★ 767 · Python MCP Server
+- <a href="https://github.com/ASCIT31/Dark-Moon" target="_blank" rel="noopener"><strong>Dark-Moon</strong></a> by ASCIT31 · ★ 782 · Python MCP Server
   - Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.
 - <a href="https://github.com/mark3labs/mcp-filesystem-server" target="_blank" rel="noopener"><strong>mcp-filesystem-server</strong></a> by mark3labs · ★ 613 · Go MCP Server
   - Go server implementing Model Context Protocol (MCP) for filesystem operations.
