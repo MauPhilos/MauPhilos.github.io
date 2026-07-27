@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
 - <a href="https://github.com/smixs/skill-conductor" target="_blank" rel="noopener"><strong>skill-conductor</strong></a> by smixs · ★ 113 · Python Claude Skill
   - Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.
-- <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 118 · Python MCP Server
+- <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 124 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/rasinmuhammed/misata" target="_blank" rel="noopener"><strong>misata</strong></a> by rasinmuhammed · ★ 63 · Python MCP Server
   - Synthetic test data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server.

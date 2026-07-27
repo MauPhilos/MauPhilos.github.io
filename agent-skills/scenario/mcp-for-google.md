@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - A Model Context Protocol (MCP) server that provides authenticated access to Google Workspace APIs, offering integrated Authentication, Gmail, Calendar, and Drive functionality
 - <a href="https://github.com/tanaikech/ggsrun" target="_blank" rel="noopener"><strong>ggsrun</strong></a> by tanaikech · ★ 170 · Go MCP Server
   - High-performance Google Drive CLI and Model Context Protocol (MCP) Server for LLM/AI agents. Natively execute Google Apps Script (GAS) under a secure whitelisted runtime sandbox, automate transfers, and manage Drive infrastructure.
-- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 89 · TypeScript MCP Server
+- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 94 · TypeScript MCP Server
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
 - <a href="https://github.com/capitalparser/notebooklm-wiki-pipeline" target="_blank" rel="noopener"><strong>notebooklm-wiki-pipeline</strong></a> by capitalparser · ★ 64 · Python MCP Server
   - Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context

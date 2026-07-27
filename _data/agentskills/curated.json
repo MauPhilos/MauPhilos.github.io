@@ -214,7 +214,7 @@
     "local_url": "/agent-skills/scenario/mcp-filesystem/",
     "quick_pick": {
       "name": "rust-mcp-filesystem",
-      "stars": "150",
+      "stars": "166",
       "tagline": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
       "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
     },
@@ -223,7 +223,7 @@
         "rank": 1,
         "name": "rust-mcp-filesystem",
         "author": "rust-mcp-stack",
-        "stars": "150",
+        "stars": "166",
         "meta": "Rust MCP Server",
         "description": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
         "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "Dark-Moon",
         "author": "ASCIT31",
-        "stars": "782",
+        "stars": "783",
         "meta": "Python MCP Server",
         "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.",
         "github_url": "https://github.com/ASCIT31/Dark-Moon"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "378",
+        "stars": "380",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -589,7 +589,7 @@
         "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "89",
+        "stars": "94",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -797,7 +797,7 @@
         "rank": 7,
         "name": "OpenDocuments",
         "author": "joungminsung",
-        "stars": "89",
+        "stars": "94",
         "meta": "TypeScript MCP Server",
         "description": "Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.",
         "github_url": "https://github.com/joungminsung/OpenDocuments"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "30.7k",
+        "stars": "31.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "118",
+        "stars": "124",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"

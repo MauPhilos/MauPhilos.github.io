@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - 368 AI skills, 76 expert agents, and 859 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.
 - <a href="https://github.com/danhilse/notion_mcp" target="_blank" rel="noopener"><strong>notion_mcp</strong></a> by danhilse · ★ 206 · Python MCP Server
   - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
-- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 89 · TypeScript MCP Server
+- <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 94 · TypeScript MCP Server
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
 - <a href="https://github.com/gethuman-sh/human" target="_blank" rel="noopener"><strong>human</strong></a> by gethuman-sh · ★ 61 · Go MCP Server
   - The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.
