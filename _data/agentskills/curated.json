@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "47.6k",
+        "stars": "47.7k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
-        "stars": "61",
+        "stars": "63",
         "meta": "Shell MCP Server",
         "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
@@ -155,7 +155,7 @@
         "rank": 5,
         "name": "stagehand",
         "author": "browserbase",
-        "stars": "23.6k",
+        "stars": "23.7k",
         "meta": "TypeScript LLM Plugin",
         "description": "The SDK For Browser Agents",
         "github_url": "https://github.com/browserbase/stagehand"
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "107",
+      "stars": "110",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "107",
+        "stars": "110",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "14.3k",
+        "stars": "14.6k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "31.5k",
+        "stars": "31.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "202",
+      "stars": "203",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "202",
+        "stars": "203",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "23.6k",
+        "stars": "23.7k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
