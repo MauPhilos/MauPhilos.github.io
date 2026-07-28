@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "19.7k",
+        "stars": "19.8k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -815,7 +815,7 @@
         "rank": 9,
         "name": "google-docs-mcp",
         "author": "a-bonus",
-        "stars": "617",
+        "stars": "620",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "31.9k",
+        "stars": "32.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "198",
+        "stars": "199",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
