@@ -24,7 +24,7 @@
         "rank": 2,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "3.9k",
+        "stars": "4.0k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -144,6 +144,15 @@
       },
       {
         "rank": 4,
+        "name": "mcp-playwright-cdp",
+        "author": "lars-hagen",
+        "stars": "51",
+        "meta": "TypeScript MCP Server",
+        "description": "Model Context Protocol server for Playwright with Chrome DevTools Protocol support",
+        "github_url": "https://github.com/lars-hagen/mcp-playwright-cdp"
+      },
+      {
+        "rank": 5,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
         "stars": "63",
@@ -152,7 +161,7 @@
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "stagehand",
         "author": "browserbase",
         "stars": "23.7k",
@@ -161,7 +170,7 @@
         "github_url": "https://github.com/browserbase/stagehand"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "open-browser-use",
         "author": "iFurySt",
         "stars": "194",
@@ -170,7 +179,7 @@
         "github_url": "https://github.com/iFurySt/open-browser-use"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "bluebox",
         "author": "VectorlyApp",
         "stars": "191",
@@ -179,7 +188,7 @@
         "github_url": "https://github.com/VectorlyApp/bluebox"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "nanobrowser",
         "author": "nanobrowser",
         "stars": "12.4k",
@@ -188,22 +197,13 @@
         "github_url": "https://github.com/nanobrowser/nanobrowser"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
         "stars": "88",
         "meta": "TypeScript MCP Server",
         "description": "Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
-      },
-      {
-        "rank": 10,
-        "name": "coral",
-        "author": "noelschwarz",
-        "stars": "59",
-        "meta": "Python MCP Server",
-        "description": "Coral is an open-source, local-first session bridge that lets AI agents borrow a user's already-authenticated browser sessions on a per-site, per-action, fully audited basis.",
-        "github_url": "https://github.com/noelschwarz/coral"
       }
     ]
   },
@@ -286,7 +286,7 @@
         "rank": 8,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
-        "stars": "144",
+        "stars": "145",
         "meta": "Python MCP Server",
         "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "386",
+        "stars": "388",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -526,7 +526,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-notion/",
     "quick_pick": {
       "name": "notion-mcp-server",
-      "stars": "160",
+      "stars": "164",
       "tagline": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agent",
       "github_url": "https://github.com/awkoy/notion-mcp-server"
     },
@@ -535,7 +535,7 @@
         "rank": 1,
         "name": "notion-mcp-server",
         "author": "awkoy",
-        "stars": "160",
+        "stars": "164",
         "meta": "TypeScript MCP Server",
         "description": "Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.",
         "github_url": "https://github.com/awkoy/notion-mcp-server"
@@ -666,7 +666,7 @@
         "rank": 4,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
-        "stars": "14.5k",
+        "stars": "14.6k",
         "meta": "Python MCP Server",
         "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "9.5k",
+        "stars": "9.6k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "15.4k",
+        "stars": "15.6k",
         "meta": "Go Agent Tool",
         "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "33.1k",
+        "stars": "33.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
