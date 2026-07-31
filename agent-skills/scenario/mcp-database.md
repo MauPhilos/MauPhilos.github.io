@@ -16,7 +16,7 @@ permalink: /agent-skills/scenario/mcp-database/
 - <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 4.0k · TypeScript MCP Server
   - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.3k · TypeScript MCP Server
-  - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+  - Token efficient, zero-dependency database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
   - The agentic server framework.
 - <a href="https://github.com/ClaugeHQ/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ClaugeHQ · ★ 806 · Svelte Codex Skill
