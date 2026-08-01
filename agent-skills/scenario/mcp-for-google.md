@@ -7,12 +7,12 @@ permalink: /agent-skills/scenario/mcp-for-google/
 # Best AI Agent Skills for MCP Tools for Google Services in 2026
 
 ## Quick Pick
-<a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> · ★ 2.9k · Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search
+<a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> · ★ 3.0k · Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search
 
 ## 工具列表
 
-- <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> by taylorwilsdon · ★ 2.9k · Python MCP Server
-  - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool
+- <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> by taylorwilsdon · ★ 3.0k · Python MCP Server
+  - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
 - <a href="https://github.com/klemensgc/modular-context-obsidian-plugin" target="_blank" rel="noopener"><strong>modular-context-obsidian-plugin</strong></a> by klemensgc · ★ 93 · TypeScript MCP Server
   - Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first
 - <a href="https://github.com/xing5/mcp-google-sheets" target="_blank" rel="noopener"><strong>mcp-google-sheets</strong></a> by xing5 · ★ 859 · Python MCP Server

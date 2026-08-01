@@ -7,10 +7,12 @@ permalink: /agent-skills/scenario/mcp-filesystem/
 # Best AI Agent Skills for MCP Filesystem Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> · ★ 166 · Blazing-fast, asynchronous MCP server for seamless filesystem operations.
+<a href="https://github.com/MarcusJellinghaus/mcp-workspace" target="_blank" rel="noopener"><strong>mcp-workspace</strong></a> · ★ 50 · MCP Workspace Server: A secure Model Context Protocol server providing file, git
 
 ## 工具列表
 
+- <a href="https://github.com/MarcusJellinghaus/mcp-workspace" target="_blank" rel="noopener"><strong>mcp-workspace</strong></a> by MarcusJellinghaus · ★ 50 · Python MCP Server
+  - MCP Workspace Server: A secure Model Context Protocol server providing file, git, and GitHub tools for AI assistants within a sandboxed project directory.
 - <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 166 · Rust MCP Server
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 - <a href="https://github.com/efforthye/fast-filesystem-mcp" target="_blank" rel="noopener"><strong>fast-filesystem-mcp</strong></a> by efforthye · ★ 54 · TypeScript MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-filesystem/
   - 💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.
 - <a href="https://github.com/answerlink/MCP-Workspace-Server" target="_blank" rel="noopener"><strong>MCP-Workspace-Server</strong></a> by answerlink · ★ 122 · Python MCP Server
   - 🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用
-- <a href="https://github.com/steipete/conduit-mcp" target="_blank" rel="noopener"><strong>conduit-mcp</strong></a> by steipete · ★ 74 · TypeScript MCP Server
-  - MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.

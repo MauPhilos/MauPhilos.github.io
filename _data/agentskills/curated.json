@@ -213,14 +213,23 @@
     "slug": "mcp-filesystem",
     "local_url": "/agent-skills/scenario/mcp-filesystem/",
     "quick_pick": {
-      "name": "rust-mcp-filesystem",
-      "stars": "166",
-      "tagline": "Blazing-fast, asynchronous MCP server for seamless filesystem operations.",
-      "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
+      "name": "mcp-workspace",
+      "stars": "50",
+      "tagline": "MCP Workspace Server: A secure Model Context Protocol server providing file, git",
+      "github_url": "https://github.com/MarcusJellinghaus/mcp-workspace"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "mcp-workspace",
+        "author": "MarcusJellinghaus",
+        "stars": "50",
+        "meta": "Python MCP Server",
+        "description": "MCP Workspace Server: A secure Model Context Protocol server providing file, git, and GitHub tools for AI assistants within a sandboxed project directory.",
+        "github_url": "https://github.com/MarcusJellinghaus/mcp-workspace"
+      },
+      {
+        "rank": 2,
         "name": "rust-mcp-filesystem",
         "author": "rust-mcp-stack",
         "stars": "166",
@@ -229,7 +238,7 @@
         "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "fast-filesystem-mcp",
         "author": "efforthye",
         "stars": "54",
@@ -238,7 +247,7 @@
         "github_url": "https://github.com/efforthye/fast-filesystem-mcp"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
         "stars": "9.0k",
@@ -247,7 +256,7 @@
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Dark-Moon",
         "author": "ASCIT31",
         "stars": "783",
@@ -256,7 +265,7 @@
         "github_url": "https://github.com/ASCIT31/Dark-Moon"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "mcp-filesystem-server",
         "author": "mark3labs",
         "stars": "613",
@@ -265,7 +274,7 @@
         "github_url": "https://github.com/mark3labs/mcp-filesystem-server"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
         "stars": "629",
@@ -274,7 +283,7 @@
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "BloodHound-MCP-AI",
         "author": "MorDavid",
         "stars": "340",
@@ -283,7 +292,7 @@
         "github_url": "https://github.com/MorDavid/BloodHound-MCP-AI"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
         "stars": "145",
@@ -292,22 +301,13 @@
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "MCP-Workspace-Server",
         "author": "answerlink",
         "stars": "122",
         "meta": "Python MCP Server",
         "description": "🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用",
         "github_url": "https://github.com/answerlink/MCP-Workspace-Server"
-      },
-      {
-        "rank": 10,
-        "name": "conduit-mcp",
-        "author": "steipete",
-        "stars": "74",
-        "meta": "TypeScript MCP Server",
-        "description": "MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.",
-        "github_url": "https://github.com/steipete/conduit-mcp"
       }
     ]
   },
@@ -734,7 +734,7 @@
     "local_url": "/agent-skills/scenario/mcp-for-google/",
     "quick_pick": {
       "name": "google_workspace_mcp",
-      "stars": "2.9k",
+      "stars": "3.0k",
       "tagline": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search",
       "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
     },
@@ -743,9 +743,9 @@
         "rank": 1,
         "name": "google_workspace_mcp",
         "author": "taylorwilsdon",
-        "stars": "2.9k",
+        "stars": "3.0k",
         "meta": "Python MCP Server",
-        "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool",
+        "description": "Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool",
         "github_url": "https://github.com/taylorwilsdon/google_workspace_mcp"
       },
       {
@@ -872,21 +872,21 @@
       },
       {
         "rank": 4,
+        "name": "tuicr",
+        "author": "agavra",
+        "stars": "2.2k",
+        "meta": "Rust Agent Tool",
+        "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
+        "github_url": "https://github.com/agavra/tuicr"
+      },
+      {
+        "rank": 5,
         "name": "shippie",
         "author": "mattzcarey",
         "stars": "2.5k",
         "meta": "TypeScript MCP Server",
         "description": "extendable code review and QA agent 🚢",
         "github_url": "https://github.com/mattzcarey/shippie"
-      },
-      {
-        "rank": 5,
-        "name": "tuicr",
-        "author": "agavra",
-        "stars": "1.7k",
-        "meta": "Rust Agent Tool",
-        "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
-        "github_url": "https://github.com/agavra/tuicr"
       },
       {
         "rank": 6,
@@ -908,6 +908,15 @@
       },
       {
         "rank": 8,
+        "name": "opencode-power-pack",
+        "author": "waybarrios",
+        "stars": "454",
+        "meta": "JavaScript MCP Server",
+        "description": "Eleven rigorous Claude Code workflows for Codex, OpenCode, and Pi: code review, security audit, feature development, frontend design, MCP tools, and more.",
+        "github_url": "https://github.com/waybarrios/opencode-power-pack"
+      },
+      {
+        "rank": 9,
         "name": "ai-review",
         "author": "Nikita-Filonov",
         "stars": "521",
@@ -916,22 +925,13 @@
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "maestro-orchestrate",
         "author": "josstei",
         "stars": "432",
         "meta": "JavaScript Codex Skill",
         "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-orchestrate"
-      },
-      {
-        "rank": 10,
-        "name": "Gito",
-        "author": "Nayjest",
-        "stars": "381",
-        "meta": "Python Agent Tool",
-        "description": "An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns.",
-        "github_url": "https://github.com/Nayjest/Gito"
       }
     ]
   },
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "35.8k",
+        "stars": "36.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1046,7 +1046,7 @@
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
       "name": "jumpstarter",
-      "stars": "204",
+      "stars": "205",
       "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
       "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
     },
@@ -1055,7 +1055,7 @@
         "rank": 1,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "204",
+        "stars": "205",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "199",
+        "stars": "203",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
