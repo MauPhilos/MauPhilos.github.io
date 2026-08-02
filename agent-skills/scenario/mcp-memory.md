@@ -19,7 +19,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
 - <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 399 · Python MCP Server
   - Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
-- <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 170 · Python MCP Server
+- <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 192 · Python MCP Server
   - Persistent memory for AI coding agents
 - <a href="https://github.com/MihaiBuilds/memory-vault" target="_blank" rel="noopener"><strong>memory-vault</strong></a> by MihaiBuilds · ★ 58 · Python MCP Server
   - A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.
