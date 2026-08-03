@@ -259,7 +259,7 @@
         "rank": 5,
         "name": "Dark-Moon",
         "author": "ASCIT31",
-        "stars": "798",
+        "stars": "800",
         "meta": "Python MCP Server",
         "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD & Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.",
         "github_url": "https://github.com/ASCIT31/Dark-Moon"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "memory-vault",
         "author": "MihaiBuilds",
-        "stars": "58",
+        "stars": "60",
         "meta": "Python MCP Server",
         "description": "A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.",
         "github_url": "https://github.com/MihaiBuilds/memory-vault"
@@ -908,21 +908,21 @@
       },
       {
         "rank": 8,
-        "name": "opencode-power-pack",
-        "author": "waybarrios",
-        "stars": "454",
-        "meta": "JavaScript MCP Server",
-        "description": "Eleven rigorous Claude Code workflows for Codex, OpenCode, and Pi: code review, security audit, feature development, frontend design, MCP tools, and more.",
-        "github_url": "https://github.com/waybarrios/opencode-power-pack"
-      },
-      {
-        "rank": 9,
         "name": "ai-review",
         "author": "Nikita-Filonov",
         "stars": "521",
         "meta": "Python Agent Tool",
         "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
+      },
+      {
+        "rank": 9,
+        "name": "opencode-power-pack",
+        "author": "waybarrios",
+        "stars": "455",
+        "meta": "Python MCP Server",
+        "description": "45 rigorous skills for Codex, OpenCode, and Pi: code review, security audit, feature development, frontend design, MCP tools, Hugging Face ML/training, and more.",
+        "github_url": "https://github.com/waybarrios/opencode-power-pack"
       },
       {
         "rank": 10,
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "37.6k",
+        "stars": "37.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "23.8k",
+        "stars": "23.9k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "cheatengine-mcp-bridge",
         "author": "miscusi-peek",
-        "stars": "1.0k",
+        "stars": "1.1k",
         "meta": "Lua MCP Server",
         "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
         "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
@@ -1213,7 +1213,7 @@
         "rank": 7,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "382",
+        "stars": "383",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"

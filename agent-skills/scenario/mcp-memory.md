@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 192 · Python MCP Server
   - Persistent memory for AI coding agents
-- <a href="https://github.com/MihaiBuilds/memory-vault" target="_blank" rel="noopener"><strong>memory-vault</strong></a> by MihaiBuilds · ★ 58 · Python MCP Server
+- <a href="https://github.com/MihaiBuilds/memory-vault" target="_blank" rel="noopener"><strong>memory-vault</strong></a> by MihaiBuilds · ★ 60 · Python MCP Server
   - A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.
 - <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 10.5k · TypeScript MCP Server
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
