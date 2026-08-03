@@ -35,7 +35,7 @@
         "author": "bytebase",
         "stars": "3.3k",
         "meta": "TypeScript MCP Server",
-        "description": "Token efficient, zero-dependency database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
+        "description": "Minimal database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
         "github_url": "https://github.com/bytebase/dbhub"
       },
       {
@@ -202,7 +202,7 @@
         "author": "olo-dot-io",
         "stars": "90",
         "meta": "TypeScript MCP Server",
-        "description": "Operation-first Agent-Computer Interface for real software—discover one executable path across APIs, browsers, desktops, local tools, and MCP.",
+        "description": "One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       }
     ]
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "403",
+        "stars": "405",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -485,7 +485,7 @@
         "rank": 7,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "10.5k",
+        "stars": "10.6k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -865,9 +865,9 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "17.8k",
+        "stars": "18.2k",
         "meta": "Go Agent Tool",
-        "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+        "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
       },
       {
@@ -908,21 +908,21 @@
       },
       {
         "rank": 8,
-        "name": "ai-review",
-        "author": "Nikita-Filonov",
-        "stars": "521",
-        "meta": "Python Agent Tool",
-        "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
-        "github_url": "https://github.com/Nikita-Filonov/ai-review"
-      },
-      {
-        "rank": 9,
         "name": "opencode-power-pack",
         "author": "waybarrios",
         "stars": "455",
         "meta": "Python MCP Server",
         "description": "45 rigorous skills for Codex, OpenCode, and Pi: code review, security audit, feature development, frontend design, MCP tools, Hugging Face ML/training, and more.",
         "github_url": "https://github.com/waybarrios/opencode-power-pack"
+      },
+      {
+        "rank": 9,
+        "name": "ai-review",
+        "author": "Nikita-Filonov",
+        "stars": "521",
+        "meta": "Python Agent Tool",
+        "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
+        "github_url": "https://github.com/Nikita-Filonov/ai-review"
       },
       {
         "rank": 10,
@@ -960,13 +960,22 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "37.9k",
+        "stars": "38.2k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "26.4k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
+        "rank": 4,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
@@ -975,22 +984,13 @@
         "github_url": "https://github.com/arunalabs/mode"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "9router",
         "author": "decolua",
         "stars": "24.1k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
-      },
-      {
-        "rank": 5,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "26.4k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 6,
@@ -1045,14 +1045,23 @@
     "slug": "test-generation",
     "local_url": "/agent-skills/scenario/test-generation/",
     "quick_pick": {
-      "name": "jumpstarter",
-      "stars": "205",
-      "tagline": "Hardware testing for the software world. Real or virtual, local or remote, human",
-      "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
+      "name": "ai-api-test-skill",
+      "stars": "119",
+      "tagline": "AI接口自动化测试 Skill：面向 Python + pytest + requests，驱动 Codex / Claude Code 生成、维护和调试接口用",
+      "github_url": "https://github.com/buer2233/ai-api-test-skill"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "ai-api-test-skill",
+        "author": "buer2233",
+        "stars": "119",
+        "meta": "Python Codex Skill",
+        "description": "AI接口自动化测试 Skill：面向 Python + pytest + requests，驱动 Codex / Claude Code 生成、维护和调试接口用例（AI API test automation skill for Python + pytest + requests）",
+        "github_url": "https://github.com/buer2233/ai-api-test-skill"
+      },
+      {
+        "rank": 2,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
         "stars": "205",
@@ -1061,7 +1070,7 @@
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
         "stars": "203",
@@ -1070,22 +1079,13 @@
         "github_url": "https://github.com/mubaidr/gem-team"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "facts",
         "author": "av",
         "stars": "181",
         "meta": "Rust Codex Skill",
         "description": "Antidote for fluffy specs, a toolkit for fact-driven development with AI agents",
         "github_url": "https://github.com/av/facts"
-      },
-      {
-        "rank": 4,
-        "name": "skill-conductor",
-        "author": "smixs",
-        "stars": "113",
-        "meta": "Python Claude Skill",
-        "description": "Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.",
-        "github_url": "https://github.com/smixs/skill-conductor"
       },
       {
         "rank": 5,
@@ -1100,7 +1100,7 @@
         "rank": 6,
         "name": "misata",
         "author": "rasinmuhammed",
-        "stars": "63",
+        "stars": "64",
         "meta": "Python MCP Server",
         "description": "Synthetic test data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server.",
         "github_url": "https://github.com/rasinmuhammed/misata"
@@ -1118,7 +1118,7 @@
         "rank": 8,
         "name": "reverse-skill",
         "author": "zhaoxuya520",
-        "stars": "12.9k",
+        "stars": "14.6k",
         "meta": "PowerShell Agent Tool",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "github_url": "https://github.com/zhaoxuya520/reverse-skill"
@@ -1136,7 +1136,7 @@
         "rank": 10,
         "name": "agent-device",
         "author": "callstack",
-        "stars": "3.8k",
+        "stars": "3.9k",
         "meta": "TypeScript MCP Server",
         "description": "CLI to control iOS and Android devices for AI agents",
         "github_url": "https://github.com/callstack/agent-device"
