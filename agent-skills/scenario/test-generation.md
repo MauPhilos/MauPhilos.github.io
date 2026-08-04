@@ -13,9 +13,9 @@ permalink: /agent-skills/scenario/test-generation/
 
 - <a href="https://github.com/buer2233/ai-api-test-skill" target="_blank" rel="noopener"><strong>ai-api-test-skill</strong></a> by buer2233 · ★ 119 · Python Codex Skill
   - AI接口自动化测试 Skill：面向 Python + pytest + requests，驱动 Codex / Claude Code 生成、维护和调试接口用例（AI API test automation skill for Python + pytest + requests）
-- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 205 · Python MCP Server
+- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 206 · Python MCP Server
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
-- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 203 · Agent Tool
+- <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 204 · Agent Tool
   - Turn AI coding into an engineering process.
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 181 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/test-generation/
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
 - <a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank" rel="noopener"><strong>reverse-skill</strong></a> by zhaoxuya520 · ★ 15.2k · PowerShell Agent Tool
   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+- <a href="https://github.com/modelcontextprotocol/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by modelcontextprotocol · ★ 10.6k · TypeScript MCP Server
+  - Visual testing tool for MCP servers
 - <a href="https://github.com/antiwork/shortest" target="_blank" rel="noopener"><strong>shortest</strong></a> by antiwork · ★ 5.6k · TypeScript Agent Tool
   - QA via natural language AI tests
-- <a href="https://github.com/callstack/agent-device" target="_blank" rel="noopener"><strong>agent-device</strong></a> by callstack · ★ 3.9k · TypeScript MCP Server
-  - CLI to control iOS and Android devices for AI agents

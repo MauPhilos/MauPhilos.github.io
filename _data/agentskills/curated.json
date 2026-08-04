@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "902",
+        "stars": "903",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents: local + GitHub search, LSP semantics, AST patterns, and compact context. one toolset as MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -960,22 +960,13 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "38.6k",
+        "stars": "38.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "26.5k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
-      },
-      {
-        "rank": 4,
         "name": "mode",
         "author": "arunalabs",
         "stars": "71",
@@ -984,13 +975,22 @@
         "github_url": "https://github.com/arunalabs/mode"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "9router",
         "author": "decolua",
         "stars": "24.1k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
+      },
+      {
+        "rank": 5,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "26.5k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 6,
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "205",
+        "stars": "206",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
-        "stars": "203",
+        "stars": "204",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
@@ -1125,21 +1125,21 @@
       },
       {
         "rank": 9,
+        "name": "inspector",
+        "author": "modelcontextprotocol",
+        "stars": "10.6k",
+        "meta": "TypeScript MCP Server",
+        "description": "Visual testing tool for MCP servers",
+        "github_url": "https://github.com/modelcontextprotocol/inspector"
+      },
+      {
+        "rank": 10,
         "name": "shortest",
         "author": "antiwork",
         "stars": "5.6k",
         "meta": "TypeScript Agent Tool",
         "description": "QA via natural language AI tests",
         "github_url": "https://github.com/antiwork/shortest"
-      },
-      {
-        "rank": 10,
-        "name": "agent-device",
-        "author": "callstack",
-        "stars": "3.9k",
-        "meta": "TypeScript MCP Server",
-        "description": "CLI to control iOS and Android devices for AI agents",
-        "github_url": "https://github.com/callstack/agent-device"
       }
     ]
   },
@@ -1193,6 +1193,15 @@
       },
       {
         "rank": 5,
+        "name": "bug-hunter",
+        "author": "codexstar69",
+        "stars": "473",
+        "meta": "JavaScript Claude Skill",
+        "description": "Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.",
+        "github_url": "https://github.com/codexstar69/bug-hunter"
+      },
+      {
+        "rank": 6,
         "name": "embeddedskills",
         "author": "zhinkgit",
         "stars": "430",
@@ -1201,7 +1210,7 @@
         "github_url": "https://github.com/zhinkgit/embeddedskills"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "DebugMCP",
         "author": "microsoft",
         "stars": "443",
@@ -1210,7 +1219,7 @@
         "github_url": "https://github.com/microsoft/DebugMCP"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Gearsystem",
         "author": "drhelius",
         "stars": "382",
@@ -1219,22 +1228,13 @@
         "github_url": "https://github.com/drhelius/Gearsystem"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "x64dbg-mcp",
         "author": "SetsunaYukiOvO",
         "stars": "304",
         "meta": "C++ MCP Server",
         "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE",
         "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
-      },
-      {
-        "rank": 9,
-        "name": "bug-hunter",
-        "author": "codexstar69",
-        "stars": "209",
-        "meta": "JavaScript Claude Skill",
-        "description": "Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.",
-        "github_url": "https://github.com/codexstar69/bug-hunter"
       },
       {
         "rank": 10,
