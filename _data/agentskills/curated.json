@@ -440,7 +440,7 @@
         "rank": 2,
         "name": "pensyve",
         "author": "major7apps",
-        "stars": "61",
+        "stars": "64",
         "meta": "Rust MCP Server",
         "description": "Universal memory runtime for AI agents",
         "github_url": "https://github.com/major7apps/pensyve"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "408",
+        "stars": "411",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "18.6k",
+        "stars": "18.7k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "39.1k",
+        "stars": "39.4k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1062,21 +1062,21 @@
       },
       {
         "rank": 2,
-        "name": "jumpstarter",
-        "author": "jumpstarter-dev",
-        "stars": "206",
-        "meta": "Python MCP Server",
-        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
-        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
-      },
-      {
-        "rank": 3,
         "name": "gem-team",
         "author": "mubaidr",
         "stars": "204",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
+      },
+      {
+        "rank": 3,
+        "name": "jumpstarter",
+        "author": "jumpstarter-dev",
+        "stars": "207",
+        "meta": "Python MCP Server",
+        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
       },
       {
         "rank": 4,

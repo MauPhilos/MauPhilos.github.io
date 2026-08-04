@@ -13,10 +13,10 @@ permalink: /agent-skills/scenario/test-generation/
 
 - <a href="https://github.com/buer2233/ai-api-test-skill" target="_blank" rel="noopener"><strong>ai-api-test-skill</strong></a> by buer2233 · ★ 119 · Python Codex Skill
   - AI接口自动化测试 Skill：面向 Python + pytest + requests，驱动 Codex / Claude Code 生成、维护和调试接口用例（AI API test automation skill for Python + pytest + requests）
-- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 206 · Python MCP Server
-  - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
 - <a href="https://github.com/mubaidr/gem-team" target="_blank" rel="noopener"><strong>gem-team</strong></a> by mubaidr · ★ 204 · Agent Tool
   - Turn AI coding into an engineering process.
+- <a href="https://github.com/jumpstarter-dev/jumpstarter" target="_blank" rel="noopener"><strong>jumpstarter</strong></a> by jumpstarter-dev · ★ 207 · Python MCP Server
+  - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 181 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
 - <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 124 · Python MCP Server
