@@ -15,9 +15,9 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Allow LLMs to control a browser with Browserbase and Stagehand
 - <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 48.7k · TypeScript MCP Server
   - Chrome DevTools for coding agents
-- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 20.6k · Rust Agent Tool
+- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 20.7k · Rust Agent Tool
   - The headless browser for AI agents and web scraping
-- <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro NEW</strong></a> by dondai44423 · ★ 51 · Rust MCP Server
+- <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro NEW</strong></a> by dondai44423 · ★ 57 · Rust MCP Server
   - An agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
 - <a href="https://github.com/lars-hagen/mcp-playwright-cdp" target="_blank" rel="noopener"><strong>mcp-playwright-cdp</strong></a> by lars-hagen · ★ 51 · TypeScript MCP Server
   - Model Context Protocol server for Playwright with Chrome DevTools Protocol support
