@@ -17,6 +17,8 @@ permalink: /agent-skills/scenario/mcp-database/
   - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.3k · TypeScript MCP Server
   - Minimal database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+- <a href="https://github.com/Syngnat/GoNavi" target="_blank" rel="noopener"><strong>GoNavi</strong></a> by Syngnat · ★ 1.8k · TypeScript MCP Server
+  - High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。
 - <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
   - The agentic server framework.
 - <a href="https://github.com/ClaugeHQ/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ClaugeHQ · ★ 806 · Svelte Codex Skill
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-database/
   - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
-- <a href="https://github.com/ystemsrx/sql_to_ER" target="_blank" rel="noopener"><strong>sql_to_ER</strong></a> by ystemsrx · ★ 180 · JavaScript Agent Tool
-  - 【在线免费使用】 简单快速将SQL或DBML转换为美观的ER图（支持 Agent Skill）/ The best SQL to ER Diagram converter (Support Agent Skill).
