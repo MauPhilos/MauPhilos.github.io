@@ -892,7 +892,7 @@
         "rank": 6,
         "name": "code-review-skill",
         "author": "awesome-skills",
-        "stars": "1.4k",
+        "stars": "1.7k",
         "meta": "HTML Claude Skill",
         "description": "A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.",
         "github_url": "https://github.com/awesome-skills/code-review-skill"
