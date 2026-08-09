@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "bladebro NEW",
         "author": "dondai44423",
-        "stars": "78",
+        "stars": "80",
         "meta": "Rust MCP Server",
         "description": "An agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
@@ -189,21 +189,21 @@
       },
       {
         "rank": 9,
+        "name": "bluebox",
+        "author": "VectorlyApp",
+        "stars": "200",
+        "meta": "Python MCP Server",
+        "description": "Index the world's undocumented APIs",
+        "github_url": "https://github.com/VectorlyApp/bluebox"
+      },
+      {
+        "rank": 10,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
         "stars": "134",
         "meta": "TypeScript MCP Server",
         "description": "One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
-      },
-      {
-        "rank": 10,
-        "name": "bluebox",
-        "author": "VectorlyApp",
-        "stars": "191",
-        "meta": "Python MCP Server",
-        "description": "Index the world's undocumented APIs",
-        "github_url": "https://github.com/VectorlyApp/bluebox"
       }
     ]
   },
@@ -241,7 +241,7 @@
         "rank": 3,
         "name": "fast-filesystem-mcp",
         "author": "efforthye",
-        "stars": "54",
+        "stars": "59",
         "meta": "TypeScript MCP Server",
         "description": "A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.",
         "github_url": "https://github.com/efforthye/fast-filesystem-mcp"
@@ -259,7 +259,7 @@
         "rank": 5,
         "name": "mcp-filesystem-server",
         "author": "mark3labs",
-        "stars": "613",
+        "stars": "675",
         "meta": "Go MCP Server",
         "description": "Go server implementing Model Context Protocol (MCP) for filesystem operations.",
         "github_url": "https://github.com/mark3labs/mcp-filesystem-server"
@@ -277,7 +277,7 @@
         "rank": 7,
         "name": "BloodHound-MCP-AI",
         "author": "MorDavid",
-        "stars": "340",
+        "stars": "372",
         "meta": "Python MCP Server",
         "description": "BloodHound-MCP-AI is integration that connects BloodHound with AI through Model Context Protocol, allowing security professionals to analyze Active Directory attack paths using natural language instead of complex Cypher queries.",
         "github_url": "https://github.com/MorDavid/BloodHound-MCP-AI"
@@ -286,7 +286,7 @@
         "rank": 8,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
-        "stars": "155",
+        "stars": "156",
         "meta": "Python MCP Server",
         "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
@@ -295,7 +295,7 @@
         "rank": 9,
         "name": "MCP-Workspace-Server",
         "author": "answerlink",
-        "stars": "122",
+        "stars": "132",
         "meta": "Python MCP Server",
         "description": "🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用",
         "github_url": "https://github.com/answerlink/MCP-Workspace-Server"
@@ -449,7 +449,7 @@
         "rank": 3,
         "name": "mcp-knowledge-graph",
         "author": "shaneholloman",
-        "stars": "863",
+        "stars": "882",
         "meta": "JavaScript MCP Server",
         "description": "MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development",
         "github_url": "https://github.com/shaneholloman/mcp-knowledge-graph"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "192",
+        "stars": "198",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -580,7 +580,7 @@
         "rank": 6,
         "name": "notion_mcp",
         "author": "danhilse",
-        "stars": "206",
+        "stars": "208",
         "meta": "Python MCP Server",
         "description": "A simple MCP integration that allows Claude to read and manage a personal Notion todo list",
         "github_url": "https://github.com/danhilse/notion_mcp"
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "903",
+        "stars": "904",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "skylos",
         "author": "duriantaco",
-        "stars": "418",
+        "stars": "521",
         "meta": "Python MCP Server",
         "description": "Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.",
         "github_url": "https://github.com/duriantaco/skylos"
@@ -761,7 +761,7 @@
         "rank": 3,
         "name": "mcp-google-sheets",
         "author": "xing5",
-        "stars": "859",
+        "stars": "977",
         "meta": "Python MCP Server",
         "description": "This MCP server integrates with your Google Drive and Google Sheets, to enable creating and modifying spreadsheets.",
         "github_url": "https://github.com/xing5/mcp-google-sheets"
@@ -770,7 +770,7 @@
         "rank": 4,
         "name": "mcp-gdrive",
         "author": "isaacphi",
-        "stars": "270",
+        "stars": "284",
         "meta": "TypeScript MCP Server",
         "description": "Model Context Protocol (MCP) Server for reading from Google Drive and editing Google Sheets",
         "github_url": "https://github.com/isaacphi/mcp-gdrive"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "19.7k",
+        "stars": "19.8k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -901,7 +901,7 @@
         "rank": 7,
         "name": "Claude-Command-Suite",
         "author": "qdhenry",
-        "stars": "978",
+        "stars": "1.3k",
         "meta": "Shell Claude Skill",
         "description": "Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.",
         "github_url": "https://github.com/qdhenry/Claude-Command-Suite"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "43.5k",
+        "stars": "43.7k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "mode",
         "author": "arunalabs",
-        "stars": "71",
+        "stars": "69",
         "meta": "TypeScript Agent Tool",
         "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
         "github_url": "https://github.com/arunalabs/mode"
@@ -1116,21 +1116,21 @@
       },
       {
         "rank": 8,
+        "name": "reverse-skill",
+        "author": "zhaoxuya520",
+        "stars": "21.9k",
+        "meta": "PowerShell Agent Tool",
+        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+        "github_url": "https://github.com/zhaoxuya520/reverse-skill"
+      },
+      {
+        "rank": 9,
         "name": "promptfoo",
         "author": "promptfoo",
         "stars": "24.1k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
-      },
-      {
-        "rank": 9,
-        "name": "reverse-skill",
-        "author": "zhaoxuya520",
-        "stars": "21.0k",
-        "meta": "PowerShell Agent Tool",
-        "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-        "github_url": "https://github.com/zhaoxuya520/reverse-skill"
       },
       {
         "rank": 10,
@@ -1229,21 +1229,21 @@
       },
       {
         "rank": 9,
+        "name": "x64dbg-mcp",
+        "author": "SetsunaYukiOvO",
+        "stars": "361",
+        "meta": "C++ MCP Server",
+        "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE",
+        "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
+      },
+      {
+        "rank": 10,
         "name": "agent-inspect",
         "author": "rajudandigam",
         "stars": "342",
         "meta": "TypeScript MCP Server",
         "description": "Local execution trees for TypeScript AI agents. agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal. It is built for TypeScript/Node.js developers..",
         "github_url": "https://github.com/rajudandigam/agent-inspect"
-      },
-      {
-        "rank": 10,
-        "name": "x64dbg-mcp",
-        "author": "SetsunaYukiOvO",
-        "stars": "304",
-        "meta": "C++ MCP Server",
-        "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE",
-        "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
       }
     ]
   }
