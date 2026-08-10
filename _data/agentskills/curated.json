@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "20.9k",
+        "stars": "21.1k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "bladebro NEW",
         "author": "dondai44423",
-        "stars": "80",
+        "stars": "88",
         "meta": "Rust MCP Server",
         "description": "An agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "146",
+        "stars": "156",
         "meta": "TypeScript MCP Server",
         "description": "One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "19.8k",
+        "stars": "19.9k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -928,7 +928,7 @@
         "rank": 10,
         "name": "maestro-orchestrate",
         "author": "josstei",
-        "stars": "453",
+        "stars": "454",
         "meta": "JavaScript Codex Skill",
         "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-orchestrate"
@@ -960,22 +960,13 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "44.3k",
+        "stars": "44.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "26.8k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
-      },
-      {
-        "rank": 4,
         "name": "9router",
         "author": "decolua",
         "stars": "24.7k",
@@ -984,7 +975,7 @@
         "github_url": "https://github.com/decolua/9router"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "name": "mode",
         "author": "arunalabs",
         "stars": "69",
@@ -993,10 +984,19 @@
         "github_url": "https://github.com/arunalabs/mode"
       },
       {
+        "rank": 5,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "26.8k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "19.7k",
+        "stars": "19.8k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "13.0k",
+        "stars": "13.1k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1193,6 +1193,15 @@
       },
       {
         "rank": 5,
+        "name": "embeddedskills",
+        "author": "zhinkgit",
+        "stars": "551",
+        "meta": "Python Claude Skill",
+        "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
+        "github_url": "https://github.com/zhinkgit/embeddedskills"
+      },
+      {
+        "rank": 6,
         "name": "bug-hunter",
         "author": "codexstar69",
         "stars": "473",
@@ -1201,22 +1210,13 @@
         "github_url": "https://github.com/codexstar69/bug-hunter"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "DebugMCP",
         "author": "microsoft",
         "stars": "452",
         "meta": "TypeScript MCP Server",
         "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
         "github_url": "https://github.com/microsoft/DebugMCP"
-      },
-      {
-        "rank": 7,
-        "name": "embeddedskills",
-        "author": "zhinkgit",
-        "stars": "430",
-        "meta": "Python Claude Skill",
-        "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
-        "github_url": "https://github.com/zhinkgit/embeddedskills"
       },
       {
         "rank": 8,
