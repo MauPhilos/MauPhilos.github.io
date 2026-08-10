@@ -13,9 +13,9 @@ permalink: /agent-skills/scenario/mcp-browser/
 
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.4k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 48.7k · TypeScript MCP Server
+- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 48.8k · TypeScript MCP Server
   - Chrome DevTools for coding agents
-- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 20.8k · Rust Agent Tool
+- <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 20.9k · Rust Agent Tool
   - The headless browser for AI agents and web scraping
 - <a href="https://github.com/dondai44423/bladebro" target="_blank" rel="noopener"><strong>bladebro NEW</strong></a> by dondai44423 · ★ 80 · Rust MCP Server
   - An agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - The SDK For Browser Agents
 - <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 194 · JavaScript MCP Server
   - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
+- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 146 · TypeScript MCP Server
+  - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.
 - <a href="https://github.com/VectorlyApp/bluebox" target="_blank" rel="noopener"><strong>bluebox</strong></a> by VectorlyApp · ★ 200 · Python MCP Server
   - Index the world's undocumented APIs
-- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 134 · TypeScript MCP Server
-  - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.

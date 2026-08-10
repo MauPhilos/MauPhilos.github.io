@@ -13,13 +13,13 @@ permalink: /agent-skills/scenario/mcp-database/
 
 - <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 16.1k · Go MCP Server
   - MCP Toolbox for Databases is an open source MCP server for databases.
-- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 4.0k · TypeScript MCP Server
+- <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 4.1k · TypeScript MCP Server
   - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
 - <a href="https://github.com/bytebase/dbhub" target="_blank" rel="noopener"><strong>dbhub</strong></a> by bytebase · ★ 3.3k · TypeScript MCP Server
   - Minimal database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - <a href="https://github.com/Syngnat/GoNavi" target="_blank" rel="noopener"><strong>GoNavi</strong></a> by Syngnat · ★ 1.8k · TypeScript MCP Server
   - High-performance multi-data-source database client — ~30MB, AI & MCP ready, zero Electron bloat. | 高性能多数据源数据库客户端：约 30MB，AI 与 MCP 就绪，告别 Electron 膨胀。
-- <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 80 · Go MCP Server
+- <a href="https://github.com/hyperterse/hyperterse" target="_blank" rel="noopener"><strong>hyperterse</strong></a> by hyperterse · ★ 84 · Go MCP Server
   - The agentic server framework.
 - <a href="https://github.com/ClaugeHQ/Clauge" target="_blank" rel="noopener"><strong>Clauge</strong></a> by ClaugeHQ · ★ 806 · Svelte Codex Skill
   - The AI-powered super-app for developers.
