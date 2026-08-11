@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Universal memory runtime for AI agents
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 882 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 420 · Python MCP Server
+- <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 423 · Python MCP Server
   - Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 198 · Python MCP Server
   - Persistent memory for AI coding agents
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - <a href="https://github.com/mordechaipotash/brain-mcp" target="_blank" rel="noopener"><strong>brain-mcp</strong></a> by mordechaipotash · ★ 65 · Python MCP Server
   - Your AI has amnesia. Persistent memory and cognitive context for AI. 25 MCP tools. 12ms recall.
-- <a href="https://github.com/sachitrafa/YourMemory" target="_blank" rel="noopener"><strong>YourMemory</strong></a> by sachitrafa · ★ 255 · Python MCP Server
+- <a href="https://github.com/sachitrafa/YourMemory" target="_blank" rel="noopener"><strong>YourMemory</strong></a> by sachitrafa · ★ 262 · Python MCP Server
   - Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.
 - <a href="https://github.com/alibaizhanov/mengram" target="_blank" rel="noopener"><strong>mengram</strong></a> by alibaizhanov · ★ 187 · Python MCP Server
   - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.
