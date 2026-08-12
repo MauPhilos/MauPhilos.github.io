@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/code-completion/
 
 - <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 44.9k · Python Agent Tool
   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
-- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 45.9k · TypeScript MCP Server
+- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 46.2k · TypeScript MCP Server
   - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors
 - <a href="https://github.com/decolua/9router" target="_blank" rel="noopener"><strong>9router</strong></a> by decolua · ★ 24.7k · JavaScript Codex Skill
   - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
