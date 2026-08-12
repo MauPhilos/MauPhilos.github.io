@@ -25,7 +25,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 521 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
-- <a href="https://github.com/UiPath/coder_eval" target="_blank" rel="noopener"><strong>coder_eval</strong></a> by UiPath · ★ 109 · Python MCP Server
+- <a href="https://github.com/UiPath/coder_eval" target="_blank" rel="noopener"><strong>coder_eval</strong></a> by UiPath · ★ 110 · Python MCP Server
   - Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.
 - <a href="https://github.com/ThreeMoonsLab/agents-shipgate" target="_blank" rel="noopener"><strong>agents-shipgate</strong></a> by ThreeMoonsLab · ★ 98 · Python MCP Server
   - The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.

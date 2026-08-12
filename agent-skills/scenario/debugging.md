@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/debugging/
   - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis
 - <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.1k · TypeScript MCP Server
   - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
-- <a href="https://github.com/miscusi-peek/cheatengine-mcp-bridge" target="_blank" rel="noopener"><strong>cheatengine-mcp-bridge</strong></a> by miscusi-peek · ★ 1.1k · Lua MCP Server
+- <a href="https://github.com/miscusi-peek/cheatengine-mcp-bridge" target="_blank" rel="noopener"><strong>cheatengine-mcp-bridge</strong></a> by miscusi-peek · ★ 1.2k · Lua MCP Server
   - Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.
 - <a href="https://github.com/drhelius/Gearboy" target="_blank" rel="noopener"><strong>Gearboy</strong></a> by drhelius · ★ 1.2k · C++ MCP Server
   - Game Boy / Game Boy Color / Super Game Boy emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.

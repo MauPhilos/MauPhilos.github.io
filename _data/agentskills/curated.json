@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "mcp-toolbox",
-      "stars": "16.1k",
+      "stars": "16.2k",
       "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "github_url": "https://github.com/googleapis/mcp-toolbox"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "mcp-toolbox",
         "author": "googleapis",
-        "stars": "16.1k",
+        "stars": "16.2k",
         "meta": "Go MCP Server",
         "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
         "github_url": "https://github.com/googleapis/mcp-toolbox"
@@ -144,7 +144,7 @@
       },
       {
         "rank": 4,
-        "name": "bladebro NEW",
+        "name": "bladebro",
         "author": "dondai44423",
         "stars": "92",
         "meta": "Rust MCP Server",
@@ -182,7 +182,7 @@
         "rank": 8,
         "name": "stagehand",
         "author": "browserbase",
-        "stars": "23.8k",
+        "stars": "23.9k",
         "meta": "TypeScript LLM Plugin",
         "description": "The SDK For Browser Agents",
         "github_url": "https://github.com/browserbase/stagehand"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "Uni-CLI",
         "author": "olo-dot-io",
-        "stars": "157",
+        "stars": "167",
         "meta": "TypeScript MCP Server",
         "description": "One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
         "github_url": "https://github.com/olo-dot-io/Uni-CLI"
@@ -293,21 +293,21 @@
       },
       {
         "rank": 9,
+        "name": "vertex-ai-mcp-server",
+        "author": "shariqriazz",
+        "stars": "87",
+        "meta": "TypeScript MCP Server",
+        "description": "MCP server for Vertex AI and Gemini tools, including grounded answers, documentation research, and filesystem workflows.",
+        "github_url": "https://github.com/shariqriazz/vertex-ai-mcp-server"
+      },
+      {
+        "rank": 10,
         "name": "MCP-Workspace-Server",
         "author": "answerlink",
         "stars": "132",
         "meta": "Python MCP Server",
         "description": "🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用",
         "github_url": "https://github.com/answerlink/MCP-Workspace-Server"
-      },
-      {
-        "rank": 10,
-        "name": "conduit-mcp",
-        "author": "steipete",
-        "stars": "74",
-        "meta": "TypeScript MCP Server",
-        "description": "MCP server to read, write, find, and list across filesystems & web; includes webpage-to-Markdown, image processing, diffing, and archiving.",
-        "github_url": "https://github.com/steipete/conduit-mcp"
       }
     ]
   },
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "caura-memclaw",
         "author": "caura-ai",
-        "stars": "424",
+        "stars": "430",
         "meta": "Python MCP Server",
         "description": "Governed shared memory for AI agent fleets — multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura-memclaw"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "198",
+        "stars": "199",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -702,7 +702,7 @@
         "rank": 8,
         "name": "coder_eval",
         "author": "UiPath",
-        "stars": "109",
+        "stars": "110",
         "meta": "Python MCP Server",
         "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
         "github_url": "https://github.com/UiPath/coder_eval"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "20.0k",
+        "stars": "20.1k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "45.4k",
+        "stars": "45.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "13.3k",
+        "stars": "13.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "html-anything",
         "author": "nexu-io",
-        "stars": "8.0k",
+        "stars": "8.2k",
         "meta": "HTML Claude Skill",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "github_url": "https://github.com/nexu-io/html-anything"
@@ -1023,7 +1023,7 @@
         "rank": 9,
         "name": "superpowers-zh",
         "author": "jnMetaCode",
-        "stars": "7.5k",
+        "stars": "7.6k",
         "meta": "JavaScript MCP Server",
         "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
         "github_url": "https://github.com/jnMetaCode/superpowers-zh"
@@ -1071,21 +1071,21 @@
       },
       {
         "rank": 3,
-        "name": "jumpstarter",
-        "author": "jumpstarter-dev",
-        "stars": "208",
-        "meta": "Python MCP Server",
-        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
-        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
-      },
-      {
-        "rank": 4,
         "name": "gem-team",
         "author": "mubaidr",
         "stars": "206",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
+      },
+      {
+        "rank": 4,
+        "name": "jumpstarter",
+        "author": "jumpstarter-dev",
+        "stars": "209",
+        "meta": "Python MCP Server",
+        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
       },
       {
         "rank": 5,
@@ -1118,7 +1118,7 @@
         "rank": 8,
         "name": "reverse-skill",
         "author": "zhaoxuya520",
-        "stars": "23.4k",
+        "stars": "23.9k",
         "meta": "PowerShell Agent Tool",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "github_url": "https://github.com/zhaoxuya520/reverse-skill"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "cheatengine-mcp-bridge",
         "author": "miscusi-peek",
-        "stars": "1.1k",
+        "stars": "1.2k",
         "meta": "Lua MCP Server",
         "description": "Connect Cursor, Copilot & Claude AI directly to Cheat Engine via MCP. Automate reverse engineering, pointer scanning, and memory analysis using natural language.",
         "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"

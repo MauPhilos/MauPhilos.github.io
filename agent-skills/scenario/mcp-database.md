@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/mcp-database/
 # Best AI Agent Skills for MCP Database Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> · ★ 16.1k · MCP Toolbox for Databases is an open source MCP server for databases.
+<a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> · ★ 16.2k · MCP Toolbox for Databases is an open source MCP server for databases.
 
 ## 工具列表
 
-- <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 16.1k · Go MCP Server
+- <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 16.2k · Go MCP Server
   - MCP Toolbox for Databases is an open source MCP server for databases.
 - <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 4.1k · TypeScript MCP Server
   - Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.
