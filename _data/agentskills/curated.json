@@ -33,9 +33,9 @@
         "rank": 3,
         "name": "dbhub",
         "author": "bytebase",
-        "stars": "3.3k",
+        "stars": "3.4k",
         "meta": "TypeScript MCP Server",
-        "description": "Minimal database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
+        "description": "Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
         "github_url": "https://github.com/bytebase/dbhub"
       },
       {
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "430",
+        "stars": "428",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -824,7 +824,7 @@
         "rank": 10,
         "name": "cli",
         "author": "googleworkspace",
-        "stars": "30.1k",
+        "stars": "30.4k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
@@ -928,7 +928,7 @@
         "rank": 10,
         "name": "maestro-orchestrate",
         "author": "josstei",
-        "stars": "454",
+        "stars": "455",
         "meta": "JavaScript Codex Skill",
         "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
         "github_url": "https://github.com/josstei/maestro-orchestrate"
@@ -960,13 +960,22 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "48.2k",
+        "stars": "48.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 339 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
+        "name": "agentmemory",
+        "author": "rohitg00",
+        "stars": "27.1k",
+        "meta": "TypeScript Codex Skill",
+        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+        "github_url": "https://github.com/rohitg00/agentmemory"
+      },
+      {
+        "rank": 4,
         "name": "9router",
         "author": "decolua",
         "stars": "25.4k",
@@ -975,22 +984,13 @@
         "github_url": "https://github.com/decolua/9router"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "mode",
         "author": "arunalabs",
         "stars": "69",
         "meta": "TypeScript Agent Tool",
         "description": "Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.",
         "github_url": "https://github.com/arunalabs/mode"
-      },
-      {
-        "rank": 5,
-        "name": "agentmemory",
-        "author": "rohitg00",
-        "stars": "26.8k",
-        "meta": "TypeScript Codex Skill",
-        "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-        "github_url": "https://github.com/rohitg00/agentmemory"
       },
       {
         "rank": 6,
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "13.7k",
+        "stars": "13.8k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1071,21 +1071,21 @@
       },
       {
         "rank": 3,
-        "name": "jumpstarter",
-        "author": "jumpstarter-dev",
-        "stars": "210",
-        "meta": "Python MCP Server",
-        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
-        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
-      },
-      {
-        "rank": 4,
         "name": "gem-team",
         "author": "mubaidr",
         "stars": "208",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
+      },
+      {
+        "rank": 4,
+        "name": "jumpstarter",
+        "author": "jumpstarter-dev",
+        "stars": "210",
+        "meta": "Python MCP Server",
+        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
       },
       {
         "rank": 5,
@@ -1127,7 +1127,7 @@
         "rank": 9,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "24.2k",
+        "stars": "24.3k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1204,7 +1204,7 @@
         "rank": 6,
         "name": "bug-hunter",
         "author": "codexstar69",
-        "stars": "473",
+        "stars": "484",
         "meta": "JavaScript Claude Skill",
         "description": "Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.",
         "github_url": "https://github.com/codexstar69/bug-hunter"
