@@ -372,7 +372,7 @@
         "rank": 6,
         "name": "mcp2cli",
         "author": "knowsuchagency",
-        "stars": "2.3k",
+        "stars": "2.4k",
         "meta": "Python MCP Server",
         "description": "Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen Quick Start: ```bash # Run directly without installing uvx mcp2cli --help # Or install globally uv tool install mcp2cli ```",
         "github_url": "https://github.com/knowsuchagency/mcp2cli"
@@ -648,7 +648,7 @@
         "rank": 2,
         "name": "template-repo",
         "author": "AndrewAltimit",
-        "stars": "130",
+        "stars": "131",
         "meta": "Rust MCP Server",
         "description": "Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via CLI wrappers",
         "github_url": "https://github.com/AndrewAltimit/template-repo"
@@ -691,6 +691,15 @@
       },
       {
         "rank": 7,
+        "name": "aeon",
+        "author": "aeonfun",
+        "stars": "666",
+        "meta": "TypeScript MCP Server",
+        "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
+        "github_url": "https://github.com/aeonfun/aeon"
+      },
+      {
+        "rank": 8,
         "name": "skylos",
         "author": "duriantaco",
         "stars": "521",
@@ -699,7 +708,7 @@
         "github_url": "https://github.com/duriantaco/skylos"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "coder_eval",
         "author": "UiPath",
         "stars": "115",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/UiPath/coder_eval"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "aguara",
         "author": "garagon",
         "stars": "85",
         "meta": "Go MCP Server",
         "description": "Security scanner for AI agents and software supply chains. Detects prompt injection, MCP risks, tool poisoning, unsafe GitHub Actions, secret exfiltration, and compromised packages across npm, pnpm, PyPI, Go, Rust, PHP, Ruby, Java, and .NET. Local-first, no SaaS or LLM calls.",
         "github_url": "https://github.com/garagon/aguara"
-      },
-      {
-        "rank": 10,
-        "name": "agents-shipgate",
-        "author": "ThreeMoonsLab",
-        "stars": "88",
-        "meta": "Python MCP Server",
-        "description": "The deterministic merge gate for AI-generated agent capability changes — a local-first, static Tool-Use Readiness review for MCP, OpenAPI, and SDK tool surfaces. Open-source CLI + GitHub Action.",
-        "github_url": "https://github.com/ThreeMoonsLab/agents-shipgate"
       }
     ]
   },
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "20.6k",
+        "stars": "20.7k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "49.4k",
+      "stars": "49.6k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "49.4k",
+        "stars": "49.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "13.9k",
+        "stars": "14.1k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "210",
+        "stars": "211",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1204,7 +1204,7 @@
         "rank": 6,
         "name": "bug-hunter",
         "author": "codexstar69",
-        "stars": "486",
+        "stars": "487",
         "meta": "JavaScript Claude Skill",
         "description": "Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.",
         "github_url": "https://github.com/codexstar69/bug-hunter"

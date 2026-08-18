@@ -21,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-api/
   - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - <a href="https://github.com/spectral-mcp/spectral" target="_blank" rel="noopener"><strong>spectral</strong></a> by spectral-mcp · ★ 111 · Python MCP Server
   - Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.
-- <a href="https://github.com/knowsuchagency/mcp2cli" target="_blank" rel="noopener"><strong>mcp2cli</strong></a> by knowsuchagency · ★ 2.3k · Python MCP Server
+- <a href="https://github.com/knowsuchagency/mcp2cli" target="_blank" rel="noopener"><strong>mcp2cli</strong></a> by knowsuchagency · ★ 2.4k · Python MCP Server
   - Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen Quick Start: ```bash # Run directly without installing uvx mcp2cli --help # Or install globally uv tool install mcp2cli ```
 - <a href="https://github.com/EvilFreelancer/openapi-to-cli" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 249 · TypeScript Codex Skill
   - Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.

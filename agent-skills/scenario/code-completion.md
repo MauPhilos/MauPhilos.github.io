@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/code-completion/
 # Best AI Agent Skills for Code Completion & Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> · ★ 49.4k · Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free),
+<a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> · ★ 49.6k · Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free),
 
 ## 工具列表
 
-- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 49.4k · TypeScript MCP Server
+- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 49.6k · TypeScript MCP Server
   - Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors
 - <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 48.0k · Python Agent Tool
   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
@@ -23,7 +23,7 @@ permalink: /agent-skills/scenario/code-completion/
   - Personal and autonomous AI coding agent. Writes and edits code automatically. No third-party servers, token limits, or upgrade fees.
 - <a href="https://github.com/mksglu/context-mode" target="_blank" rel="noopener"><strong>context-mode</strong></a> by mksglu · ★ 19.9k · TypeScript MCP Server
   - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
-- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 13.9k · TypeScript Codex Skill
+- <a href="https://github.com/getpaseo/paseo" target="_blank" rel="noopener"><strong>paseo</strong></a> by getpaseo · ★ 14.1k · TypeScript Codex Skill
   - Orchestrate multiple coding agents from desktop and mobile
 - <a href="https://github.com/nexu-io/html-anything" target="_blank" rel="noopener"><strong>html-anything</strong></a> by nexu-io · ★ 8.2k · HTML Claude Skill
   - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
