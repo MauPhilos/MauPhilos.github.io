@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "21.5k",
+        "stars": "21.6k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -496,7 +496,7 @@
         "author": "MemTensor",
         "stars": "10.8k",
         "meta": "TypeScript MCP Server",
-        "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
+        "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
         "github_url": "https://github.com/MemTensor/MemOS"
       },
       {
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "667",
+        "stars": "668",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -711,7 +711,7 @@
         "rank": 9,
         "name": "coder_eval",
         "author": "UiPath",
-        "stars": "115",
+        "stars": "116",
         "meta": "Python MCP Server",
         "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
         "github_url": "https://github.com/UiPath/coder_eval"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "49.8k",
+      "stars": "50.1k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "49.8k",
+        "stars": "50.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "html-anything",
         "author": "nexu-io",
-        "stars": "8.2k",
+        "stars": "8.3k",
         "meta": "HTML Claude Skill",
         "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
         "github_url": "https://github.com/nexu-io/html-anything"
@@ -1071,21 +1071,21 @@
       },
       {
         "rank": 3,
+        "name": "gem-team",
+        "author": "mubaidr",
+        "stars": "210",
+        "meta": "Agent Tool",
+        "description": "Turn AI coding into an engineering process.",
+        "github_url": "https://github.com/mubaidr/gem-team"
+      },
+      {
+        "rank": 4,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
         "stars": "211",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
-      },
-      {
-        "rank": 4,
-        "name": "gem-team",
-        "author": "mubaidr",
-        "stars": "209",
-        "meta": "Agent Tool",
-        "description": "Turn AI coding into an engineering process.",
-        "github_url": "https://github.com/mubaidr/gem-team"
       },
       {
         "rank": 5,
