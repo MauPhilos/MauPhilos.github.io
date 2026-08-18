@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/mcp-browser/
   - The SDK For Browser Agents
 - <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 269 · TypeScript MCP Server
   - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.
-- <a href="https://github.com/VectorlyApp/bluebox" target="_blank" rel="noopener"><strong>bluebox</strong></a> by VectorlyApp · ★ 200 · Python MCP Server
-  - Index the world's undocumented APIs
+- <a href="https://github.com/nanobrowser/nanobrowser" target="_blank" rel="noopener"><strong>nanobrowser</strong></a> by nanobrowser · ★ 13.6k · TypeScript Agent Tool
+  - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.

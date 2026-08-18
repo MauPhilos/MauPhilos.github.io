@@ -19,13 +19,13 @@ permalink: /agent-skills/scenario/mcp-memory/
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
 - <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 430 · Python MCP Server
   - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
-- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 430 · Python MCP Server
+- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 428 · Python MCP Server
   - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/omega-memory/omega-memory" target="_blank" rel="noopener"><strong>omega-memory</strong></a> by omega-memory · ★ 204 · Python MCP Server
   - Persistent memory for AI coding agents
 - <a href="https://github.com/MihaiBuilds/memory-vault" target="_blank" rel="noopener"><strong>memory-vault</strong></a> by MihaiBuilds · ★ 60 · Python MCP Server
   - A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.
-- <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 10.7k · TypeScript MCP Server
+- <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 10.8k · TypeScript MCP Server
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - <a href="https://github.com/mordechaipotash/brain-mcp" target="_blank" rel="noopener"><strong>brain-mcp</strong></a> by mordechaipotash · ★ 65 · Python MCP Server
   - Your AI has amnesia. Persistent memory and cognitive context for AI. 25 MCP tools. 12ms recall.

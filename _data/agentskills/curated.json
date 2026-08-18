@@ -198,12 +198,12 @@
       },
       {
         "rank": 10,
-        "name": "bluebox",
-        "author": "VectorlyApp",
-        "stars": "200",
-        "meta": "Python MCP Server",
-        "description": "Index the world's undocumented APIs",
-        "github_url": "https://github.com/VectorlyApp/bluebox"
+        "name": "nanobrowser",
+        "author": "nanobrowser",
+        "stars": "13.6k",
+        "meta": "TypeScript Agent Tool",
+        "description": "Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.",
+        "github_url": "https://github.com/nanobrowser/nanobrowser"
       }
     ]
   },
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "430",
+        "stars": "428",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "10.7k",
+        "stars": "10.8k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "666",
+        "stars": "667",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "49.6k",
+      "stars": "49.8k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "49.6k",
+        "stars": "49.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1071,21 +1071,21 @@
       },
       {
         "rank": 3,
-        "name": "gem-team",
-        "author": "mubaidr",
-        "stars": "208",
-        "meta": "Agent Tool",
-        "description": "Turn AI coding into an engineering process.",
-        "github_url": "https://github.com/mubaidr/gem-team"
-      },
-      {
-        "rank": 4,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
         "stars": "211",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
+      },
+      {
+        "rank": 4,
+        "name": "gem-team",
+        "author": "mubaidr",
+        "stars": "209",
+        "meta": "Agent Tool",
+        "description": "Turn AI coding into an engineering process.",
+        "github_url": "https://github.com/mubaidr/gem-team"
       },
       {
         "rank": 5,
