@@ -15,6 +15,8 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Notion MCP server for Claude, Cursor, ChatGPT & Claude Desktop. Connect AI agents to Notion via Model Context Protocol — pages, databases, blocks, comments, files.
 - <a href="https://github.com/suekou/mcp-notion-server" target="_blank" rel="noopener"><strong>mcp-notion-server</strong></a> by suekou · ★ 919 · TypeScript MCP Server
   - A Model Context Protocol server for connecting Notion to MCP-compatible clients Quick Start: Add this server to an MCP host such as Claude Desktop: Restart your MCP host after saving the configuration. ```json { "mcpServers": { "notion": { "command": "npx", "args": ["-y", "@suekou/mcp-notion-server"], "env": { "NOTION_API_TOKEN": "your-integration-token" } } } } ```
+- <a href="https://github.com/Balneario-de-Cofrentes/notion-cli-agent" target="_blank" rel="noopener"><strong>notion-cli-agent</strong></a> by Balneario-de-Cofrentes · ★ 88 · TypeScript MCP Server
+  - Notion CLI with AI agent support. Smart queries, Obsidian sync, batch ops, backups, validation and more.
 - <a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener"><strong>macro</strong></a> by macro-inc · ★ 780 · TypeScript MCP Server
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.
 - <a href="https://github.com/makenotion/notion-mcp-server" target="_blank" rel="noopener"><strong>notion-mcp-server</strong></a> by makenotion · ★ 4.6k · TypeScript MCP Server
   - Official Notion MCP Server
-- <a href="https://github.com/andylow92/file-system-like-github" target="_blank" rel="noopener"><strong>file-system-like-github</strong></a> by andylow92 · ★ 296 · TypeScript MCP Server
-  - Self-improving, AI-native markdown vault you hand to an AI agent. GitHub-style file tree + Notion editing, exposed to Claude/Cursor via a built-in MCP server (24 tools): semantic & hybrid search, RAG, cited answers. Learns your voice from your edits; human-approved review queue. Local-first .md.
