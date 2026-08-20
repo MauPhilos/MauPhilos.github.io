@@ -5,14 +5,32 @@
     "slug": "mcp-database",
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
-      "name": "mcp-toolbox",
-      "stars": "16.2k",
-      "tagline": "MCP Toolbox for Databases is an open source MCP server for databases.",
-      "github_url": "https://github.com/googleapis/mcp-toolbox"
+      "name": "dbx",
+      "stars": "15.9k",
+      "tagline": "20 MB lightweight cross-platform database client for 80+ databases, including My",
+      "github_url": "https://github.com/t8y2/dbx"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "dbx",
+        "author": "t8y2",
+        "stars": "15.9k",
+        "meta": "Rust MCP Server",
+        "description": "20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+        "github_url": "https://github.com/t8y2/dbx"
+      },
+      {
+        "rank": 2,
+        "name": "graphjin",
+        "author": "dosco",
+        "stars": "3.1k",
+        "meta": "Go MCP Server",
+        "description": "One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code",
+        "github_url": "https://github.com/dosco/graphjin"
+      },
+      {
+        "rank": 3,
         "name": "mcp-toolbox",
         "author": "googleapis",
         "stars": "16.2k",
@@ -21,7 +39,7 @@
         "github_url": "https://github.com/googleapis/mcp-toolbox"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
         "stars": "4.1k",
@@ -30,7 +48,7 @@
         "github_url": "https://github.com/TabularisDB/tabularis"
       },
       {
-        "rank": 3,
+        "rank": 5,
         "name": "dbhub",
         "author": "bytebase",
         "stars": "3.4k",
@@ -39,7 +57,7 @@
         "github_url": "https://github.com/bytebase/dbhub"
       },
       {
-        "rank": 4,
+        "rank": 6,
         "name": "GoNavi",
         "author": "Syngnat",
         "stars": "1.9k",
@@ -48,7 +66,7 @@
         "github_url": "https://github.com/Syngnat/GoNavi"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "name": "hyperterse",
         "author": "hyperterse",
         "stars": "84",
@@ -57,7 +75,7 @@
         "github_url": "https://github.com/hyperterse/hyperterse"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "name": "Clauge",
         "author": "ClaugeHQ",
         "stars": "806",
@@ -66,7 +84,7 @@
         "github_url": "https://github.com/ClaugeHQ/Clauge"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "name": "Clauge",
         "author": "ansxuman",
         "stars": "736",
@@ -75,31 +93,13 @@
         "github_url": "https://github.com/ansxuman/Clauge"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "name": "tabularis",
         "author": "debba",
         "stars": "1.2k",
         "meta": "TypeScript MCP Server",
         "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
         "github_url": "https://github.com/debba/tabularis"
-      },
-      {
-        "rank": 9,
-        "name": "phpMyFAQ",
-        "author": "thorsten",
-        "stars": "619",
-        "meta": "PHP MCP Server",
-        "description": "phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases",
-        "github_url": "https://github.com/thorsten/phpMyFAQ"
-      },
-      {
-        "rank": 10,
-        "name": "anyquery",
-        "author": "julien040",
-        "stars": "1.7k",
-        "meta": "Go MCP Server",
-        "description": "One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.",
-        "github_url": "https://github.com/julien040/anyquery"
       }
     ]
   },
@@ -180,6 +180,15 @@
       },
       {
         "rank": 8,
+        "name": "playwriter",
+        "author": "remorses",
+        "stars": "3.8k",
+        "meta": "HTML MCP Server",
+        "description": "Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP",
+        "github_url": "https://github.com/remorses/playwriter"
+      },
+      {
+        "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
         "stars": "238",
@@ -188,22 +197,13 @@
         "github_url": "https://github.com/iFurySt/open-browser-use"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "stagehand",
         "author": "browserbase",
         "stars": "24.0k",
         "meta": "TypeScript LLM Plugin",
         "description": "The SDK For Browser Agents",
         "github_url": "https://github.com/browserbase/stagehand"
-      },
-      {
-        "rank": 10,
-        "name": "Uni-CLI",
-        "author": "olo-dot-io",
-        "stars": "269",
-        "meta": "TypeScript MCP Server",
-        "description": "One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
-        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       }
     ]
   },
@@ -250,7 +250,7 @@
         "rank": 4,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
-        "stars": "9.3k",
+        "stars": "9.4k",
         "meta": "TypeScript MCP Server",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
@@ -440,7 +440,7 @@
         "rank": 2,
         "name": "pensyve",
         "author": "major7apps",
-        "stars": "68",
+        "stars": "69",
         "meta": "Rust MCP Server",
         "description": "Universal memory runtime for AI agents",
         "github_url": "https://github.com/major7apps/pensyve"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "434",
+        "stars": "435",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "673",
+        "stars": "675",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -863,6 +863,15 @@
       },
       {
         "rank": 3,
+        "name": "habit-hooks",
+        "author": "habit-hooks",
+        "stars": "58",
+        "meta": "Python Agent Tool",
+        "description": "Automated quality checks that nudge AI coding agents toward better habits",
+        "github_url": "https://github.com/habit-hooks/habit-hooks"
+      },
+      {
+        "rank": 4,
         "name": "open-code-review",
         "author": "alibaba",
         "stars": "20.8k",
@@ -871,7 +880,7 @@
         "github_url": "https://github.com/alibaba/open-code-review"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "tuicr",
         "author": "agavra",
         "stars": "2.8k",
@@ -880,7 +889,7 @@
         "github_url": "https://github.com/agavra/tuicr"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "shippie",
         "author": "mattzcarey",
         "stars": "2.5k",
@@ -889,7 +898,7 @@
         "github_url": "https://github.com/mattzcarey/shippie"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "code-review-skill",
         "author": "awesome-skills",
         "stars": "1.7k",
@@ -898,7 +907,7 @@
         "github_url": "https://github.com/awesome-skills/code-review-skill"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "Claude-Command-Suite",
         "author": "qdhenry",
         "stars": "1.3k",
@@ -907,7 +916,7 @@
         "github_url": "https://github.com/qdhenry/Claude-Command-Suite"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "ai-review",
         "author": "Nikita-Filonov",
         "stars": "542",
@@ -916,22 +925,13 @@
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "opencode-power-pack",
         "author": "waybarrios",
         "stars": "471",
         "meta": "Python MCP Server",
         "description": "54 rigorous skills for Codex, OpenCode, and Pi: code review, security audit, feature development, frontend design, MCP tools, Hugging Face ML/training, and more.",
         "github_url": "https://github.com/waybarrios/opencode-power-pack"
-      },
-      {
-        "rank": 10,
-        "name": "maestro-orchestrate",
-        "author": "josstei",
-        "stars": "454",
-        "meta": "JavaScript Codex Skill",
-        "description": "Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools",
-        "github_url": "https://github.com/josstei/maestro-orchestrate"
       }
     ]
   },
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "51.0k",
+        "stars": "51.2k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1005,13 +1005,22 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "14.3k",
+        "stars": "14.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
       },
       {
         "rank": 8,
+        "name": "copilot-cli",
+        "author": "github",
+        "stars": "11.1k",
+        "meta": "Shell Agent Tool",
+        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+        "github_url": "https://github.com/github/copilot-cli"
+      },
+      {
+        "rank": 9,
         "name": "html-anything",
         "author": "nexu-io",
         "stars": "8.3k",
@@ -1020,22 +1029,13 @@
         "github_url": "https://github.com/nexu-io/html-anything"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "superpowers-zh",
         "author": "jnMetaCode",
         "stars": "7.7k",
         "meta": "JavaScript MCP Server",
         "description": "🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活",
         "github_url": "https://github.com/jnMetaCode/superpowers-zh"
-      },
-      {
-        "rank": 10,
-        "name": "codecompanion.nvim",
-        "author": "olimorris",
-        "stars": "6.8k",
-        "meta": "Lua Agent Tool",
-        "description": "✨ AI Coding, Vim Style",
-        "github_url": "https://github.com/olimorris/codecompanion.nvim"
       }
     ]
   },

@@ -7,10 +7,14 @@ permalink: /agent-skills/scenario/mcp-database/
 # Best AI Agent Skills for MCP Database Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> · ★ 16.2k · MCP Toolbox for Databases is an open source MCP server for databases.
+<a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> · ★ 15.9k · 20 MB lightweight cross-platform database client for 80+ databases, including My
 
 ## 工具列表
 
+- <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> by t8y2 · ★ 15.9k · Rust MCP Server
+  - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+- <a href="https://github.com/dosco/graphjin" target="_blank" rel="noopener"><strong>graphjin</strong></a> by dosco · ★ 3.1k · Go MCP Server
+  - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 16.2k · Go MCP Server
   - MCP Toolbox for Databases is an open source MCP server for databases.
 - <a href="https://github.com/TabularisDB/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by TabularisDB · ★ 4.1k · TypeScript MCP Server
@@ -27,7 +31,3 @@ permalink: /agent-skills/scenario/mcp-database/
   - One window. Every dev tool.
 - <a href="https://github.com/debba/tabularis" target="_blank" rel="noopener"><strong>tabularis</strong></a> by debba · ★ 1.2k · TypeScript MCP Server
   - A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.
-- <a href="https://github.com/thorsten/phpMyFAQ" target="_blank" rel="noopener"><strong>phpMyFAQ</strong></a> by thorsten · ★ 619 · PHP MCP Server
-  - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
-- <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
-  - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.

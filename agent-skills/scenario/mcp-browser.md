@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.
 - <a href="https://github.com/michaljach/opencode-browser" target="_blank" rel="noopener"><strong>opencode-browser</strong></a> by michaljach · ★ 82 · TypeScript MCP Server
   - Browser automation plugin for OpenCode AI editor - Control Chrome/Edge with AI, automate web testing, scraping & form filling via MCP integration
+- <a href="https://github.com/remorses/playwriter" target="_blank" rel="noopener"><strong>playwriter</strong></a> by remorses · ★ 3.8k · HTML MCP Server
+  - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 238 · JavaScript MCP Server
   - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
 - <a href="https://github.com/browserbase/stagehand" target="_blank" rel="noopener"><strong>stagehand</strong></a> by browserbase · ★ 24.0k · TypeScript LLM Plugin
   - The SDK For Browser Agents
-- <a href="https://github.com/olo-dot-io/Uni-CLI" target="_blank" rel="noopener"><strong>Uni-CLI</strong></a> by olo-dot-io · ★ 269 · TypeScript MCP Server
-  - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.
