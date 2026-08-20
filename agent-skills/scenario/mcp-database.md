@@ -7,12 +7,12 @@ permalink: /agent-skills/scenario/mcp-database/
 # Best AI Agent Skills for MCP Database Tools in 2026
 
 ## Quick Pick
-<a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> · ★ 15.9k · 20 MB lightweight cross-platform database client for 80+ databases, including My
+<a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> · ★ 16.0k · 20 MB lightweight cross-platform database client for 90+ databases, including My
 
 ## 工具列表
 
-- <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> by t8y2 · ★ 15.9k · Rust MCP Server
-  - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
+- <a href="https://github.com/t8y2/dbx" target="_blank" rel="noopener"><strong>dbx</strong></a> by t8y2 · ★ 16.0k · Rust MCP Server
+  - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。
 - <a href="https://github.com/dosco/graphjin" target="_blank" rel="noopener"><strong>graphjin</strong></a> by dosco · ★ 3.1k · Go MCP Server
   - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - <a href="https://github.com/googleapis/mcp-toolbox" target="_blank" rel="noopener"><strong>mcp-toolbox</strong></a> by googleapis · ★ 16.2k · Go MCP Server
