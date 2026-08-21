@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "4.1k",
+        "stars": "4.2k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "21.7k",
+        "stars": "21.9k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "238",
+        "stars": "239",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -286,7 +286,7 @@
         "rank": 8,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
-        "stars": "170",
+        "stars": "171",
         "meta": "Python MCP Server",
         "description": "💾 Model Context Protocol (MCP) server for Synology NAS - Enables AI assistants (Claude, Cursor, Continue) to manage files, downloads, and system operations through secure API integration. Features Docker deployment, auto-authentication, and comprehensive file system tools.",
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
@@ -370,6 +370,15 @@
       },
       {
         "rank": 6,
+        "name": "unraid-management-agent",
+        "author": "ruaan-deysel",
+        "stars": "52",
+        "meta": "Go MCP Server",
+        "description": "Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.",
+        "github_url": "https://github.com/ruaan-deysel/unraid-management-agent"
+      },
+      {
+        "rank": 7,
         "name": "openapi-to-cli",
         "author": "EvilFreelancer",
         "stars": "254",
@@ -378,7 +387,7 @@
         "github_url": "https://github.com/EvilFreelancer/openapi-to-cli"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "mcp2cli",
         "author": "knowsuchagency",
         "stars": "2.4k",
@@ -387,7 +396,7 @@
         "github_url": "https://github.com/knowsuchagency/mcp2cli"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "fusio",
         "author": "apioo",
         "stars": "2.1k",
@@ -396,22 +405,13 @@
         "github_url": "https://github.com/apioo/fusio"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "kubb",
         "author": "kubb-labs",
         "stars": "1.8k",
         "meta": "TypeScript MCP Server",
         "description": "🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine. Quick Start: ```bash bun add kubb # or pnpm add kubb # or npm install kubb ```",
         "github_url": "https://github.com/kubb-labs/kubb"
-      },
-      {
-        "rank": 10,
-        "name": "sourcey",
-        "author": "sourcey",
-        "stars": "1.4k",
-        "meta": "TypeScript MCP Server",
-        "description": "Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.",
-        "github_url": "https://github.com/sourcey/sourcey"
       }
     ]
   },
@@ -440,7 +440,7 @@
         "rank": 2,
         "name": "pensyve",
         "author": "major7apps",
-        "stars": "69",
+        "stars": "70",
         "meta": "Rust MCP Server",
         "description": "Universal memory runtime for AI agents",
         "github_url": "https://github.com/major7apps/pensyve"
@@ -467,7 +467,7 @@
         "rank": 5,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "435",
+        "stars": "434",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "MemOS",
         "author": "MemTensor",
-        "stars": "10.8k",
+        "stars": "10.9k",
         "meta": "TypeScript MCP Server",
         "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
         "github_url": "https://github.com/MemTensor/MemOS"
@@ -614,12 +614,12 @@
       },
       {
         "rank": 10,
-        "name": "notion-mcp-server",
-        "author": "makenotion",
-        "stars": "4.6k",
-        "meta": "TypeScript MCP Server",
-        "description": "Official Notion MCP Server",
-        "github_url": "https://github.com/makenotion/notion-mcp-server"
+        "name": "SoDam-WikiMate",
+        "author": "sodam-ai",
+        "stars": "51",
+        "meta": "JavaScript MCP Server",
+        "description": "AI에게 '정리해줘'라고 하면 흩어진 자료를 옵시디언(원본)에 노트로 정리하고, 관련 노트끼리 연결·분류·요약하고, 선택적으로 노션에 색인하는 Claude Code 플러그인 + 이식형 MCP 코어. 보관함 자동탐지·정리·자동 링크/MOC·자동 분류·요약(원자 노트)·검색(가짜 인용 방지)·볼트 건강검진(중복·깨진 링크·고아 탐지, 삭제 없는 안전 수정)·작업 로그. 사람 승인 게이트·원문 보존 알림·경로/프롬프트 인젝션 방어·무의존.",
+        "github_url": "https://github.com/sodam-ai/SoDam-WikiMate"
       }
     ]
   },
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "675",
+        "stars": "677",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -838,7 +838,7 @@
     "local_url": "/agent-skills/scenario/code-review/",
     "quick_pick": {
       "name": "brooks-lint",
-      "stars": "1.3k",
+      "stars": "1.4k",
       "tagline": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostic",
       "github_url": "https://github.com/hyhmrright/brooks-lint"
     },
@@ -847,7 +847,7 @@
         "rank": 1,
         "name": "brooks-lint",
         "author": "hyhmrright",
-        "stars": "1.3k",
+        "stars": "1.4k",
         "meta": "JavaScript Codex Skill",
         "description": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
         "github_url": "https://github.com/hyhmrright/brooks-lint"
@@ -865,22 +865,31 @@
         "rank": 3,
         "name": "habit-hooks",
         "author": "habit-hooks",
-        "stars": "58",
+        "stars": "78",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
       },
       {
         "rank": 4,
+        "name": "procoder NEW",
+        "author": "azrtydxb",
+        "stars": "74",
+        "meta": "Go MCP Server",
+        "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+        "github_url": "https://github.com/azrtydxb/procoder"
+      },
+      {
+        "rank": 5,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "20.9k",
+        "stars": "21.0k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "tuicr",
         "author": "agavra",
         "stars": "2.8k",
@@ -889,7 +898,7 @@
         "github_url": "https://github.com/agavra/tuicr"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "shippie",
         "author": "mattzcarey",
         "stars": "2.5k",
@@ -898,7 +907,7 @@
         "github_url": "https://github.com/mattzcarey/shippie"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "code-review-skill",
         "author": "awesome-skills",
         "stars": "1.7k",
@@ -907,7 +916,7 @@
         "github_url": "https://github.com/awesome-skills/code-review-skill"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Claude-Command-Suite",
         "author": "qdhenry",
         "stars": "1.3k",
@@ -916,22 +925,13 @@
         "github_url": "https://github.com/qdhenry/Claude-Command-Suite"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "ai-review",
         "author": "Nikita-Filonov",
         "stars": "542",
         "meta": "Python Agent Tool",
         "description": "🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI",
         "github_url": "https://github.com/Nikita-Filonov/ai-review"
-      },
-      {
-        "rank": 10,
-        "name": "opencode-power-pack",
-        "author": "waybarrios",
-        "stars": "471",
-        "meta": "Python MCP Server",
-        "description": "54 rigorous skills for Codex, OpenCode, and Pi: code review, security audit, feature development, frontend design, MCP tools, Hugging Face ML/training, and more.",
-        "github_url": "https://github.com/waybarrios/opencode-power-pack"
       }
     ]
   },
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "51.5k",
+        "stars": "52.0k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1003,21 +1003,21 @@
       },
       {
         "rank": 7,
-        "name": "paseo",
-        "author": "getpaseo",
-        "stars": "14.4k",
-        "meta": "TypeScript Codex Skill",
-        "description": "Orchestrate multiple coding agents from desktop and mobile",
-        "github_url": "https://github.com/getpaseo/paseo"
-      },
-      {
-        "rank": 8,
         "name": "copilot-cli",
         "author": "github",
         "stars": "11.1k",
         "meta": "Shell Agent Tool",
         "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
         "github_url": "https://github.com/github/copilot-cli"
+      },
+      {
+        "rank": 8,
+        "name": "paseo",
+        "author": "getpaseo",
+        "stars": "14.5k",
+        "meta": "TypeScript Codex Skill",
+        "description": "Orchestrate multiple coding agents from desktop and mobile",
+        "github_url": "https://github.com/getpaseo/paseo"
       },
       {
         "rank": 9,
@@ -1071,21 +1071,21 @@
       },
       {
         "rank": 3,
-        "name": "gem-team",
-        "author": "mubaidr",
-        "stars": "210",
-        "meta": "Agent Tool",
-        "description": "Turn AI coding into an engineering process.",
-        "github_url": "https://github.com/mubaidr/gem-team"
-      },
-      {
-        "rank": 4,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
         "stars": "211",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
+      },
+      {
+        "rank": 4,
+        "name": "gem-team",
+        "author": "mubaidr",
+        "stars": "210",
+        "meta": "Agent Tool",
+        "description": "Turn AI coding into an engineering process.",
+        "github_url": "https://github.com/mubaidr/gem-team"
       },
       {
         "rank": 5,
@@ -1166,15 +1166,24 @@
       },
       {
         "rank": 2,
+        "name": "MemWhale",
+        "author": "wuisabel-gif",
+        "stars": "50",
+        "meta": "Rust MCP Server",
+        "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
+        "github_url": "https://github.com/wuisabel-gif/MemWhale"
+      },
+      {
+        "rank": 3,
         "name": "inspector",
         "author": "MCPJam",
-        "stars": "2.1k",
+        "stars": "2.2k",
         "meta": "TypeScript MCP Server",
         "description": "Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.",
         "github_url": "https://github.com/MCPJam/inspector"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "cheatengine-mcp-bridge",
         "author": "miscusi-peek",
         "stars": "1.2k",
@@ -1183,7 +1192,7 @@
         "github_url": "https://github.com/miscusi-peek/cheatengine-mcp-bridge"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Gearboy",
         "author": "drhelius",
         "stars": "1.2k",
@@ -1192,7 +1201,7 @@
         "github_url": "https://github.com/drhelius/Gearboy"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "embeddedskills",
         "author": "zhinkgit",
         "stars": "579",
@@ -1201,7 +1210,7 @@
         "github_url": "https://github.com/zhinkgit/embeddedskills"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "bug-hunter",
         "author": "codexstar69",
         "stars": "487",
@@ -1210,16 +1219,16 @@
         "github_url": "https://github.com/codexstar69/bug-hunter"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "DebugMCP",
         "author": "microsoft",
-        "stars": "472",
+        "stars": "476",
         "meta": "TypeScript MCP Server",
         "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
         "github_url": "https://github.com/microsoft/DebugMCP"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "Gearsystem",
         "author": "drhelius",
         "stars": "384",
@@ -1228,22 +1237,13 @@
         "github_url": "https://github.com/drhelius/Gearsystem"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "x64dbg-mcp",
         "author": "SetsunaYukiOvO",
         "stars": "361",
         "meta": "C++ MCP Server",
         "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE",
         "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
-      },
-      {
-        "rank": 10,
-        "name": "agent-inspect",
-        "author": "rajudandigam",
-        "stars": "342",
-        "meta": "TypeScript MCP Server",
-        "description": "Local execution trees for TypeScript AI agents. agent-inspect helps you understand what happened inside an AI agent run — locally. It turns manual steps, tool calls, LLM calls, structured logs, failures, durations, and run metadata into readable execution trees you can inspect from the terminal. It is built for TypeScript/Node.js developers..",
-        "github_url": "https://github.com/rajudandigam/agent-inspect"
       }
     ]
   }

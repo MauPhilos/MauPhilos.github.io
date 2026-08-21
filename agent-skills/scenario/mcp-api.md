@@ -21,6 +21,8 @@ permalink: /agent-skills/scenario/mcp-api/
   - A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC
 - <a href="https://github.com/spectral-mcp/spectral" target="_blank" rel="noopener"><strong>spectral</strong></a> by spectral-mcp · ★ 111 · Python MCP Server
   - Browse any app normally. Spectral captures the traffic, understands what each API call does, and generates MCP tools that AI agents can call directly.
+- <a href="https://github.com/ruaan-deysel/unraid-management-agent" target="_blank" rel="noopener"><strong>unraid-management-agent</strong></a> by ruaan-deysel · ★ 52 · Go MCP Server
+  - Go-based Unraid plugin monitor and control your Unraid system via REST API, WebSocket, MCP, Prometheus, and MQTT. Supports Docker/VM control, real-time metrics, Home Assistant integration, and AI agent tooling.
 - <a href="https://github.com/EvilFreelancer/openapi-to-cli" target="_blank" rel="noopener"><strong>openapi-to-cli</strong></a> by EvilFreelancer · ★ 254 · TypeScript Codex Skill
   - Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.
 - <a href="https://github.com/knowsuchagency/mcp2cli" target="_blank" rel="noopener"><strong>mcp2cli</strong></a> by knowsuchagency · ★ 2.4k · Python MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-api/
   - Self-Hosted API Management for Builders
 - <a href="https://github.com/kubb-labs/kubb" target="_blank" rel="noopener"><strong>kubb</strong></a> by kubb-labs · ★ 1.8k · TypeScript MCP Server
   - 🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine. Quick Start: ```bash bun add kubb # or pnpm add kubb # or npm install kubb ```
-- <a href="https://github.com/sourcey/sourcey" target="_blank" rel="noopener"><strong>sourcey</strong></a> by sourcey · ★ 1.4k · TypeScript MCP Server
-  - Precision documentation from OpenAPI, MCP, Doxygen, and Markdown guides. Static HTML you own.
