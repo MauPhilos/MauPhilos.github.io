@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/debugging/
 
 - <a href="https://github.com/Adancurusul/embedded-debugger-mcp" target="_blank" rel="noopener"><strong>embedded-debugger-mcp</strong></a> by Adancurusul · ★ 141 · Rust MCP Server
   - MCP server + CLI + Codex/Claude skill for embedded debugging via probe-rs or OpenOCD — ARM Cortex-M, RISC-V, and Xtensa (ESP32), with AI crash diagnosis
-- <a href="https://github.com/wuisabel-gif/MemWhale" target="_blank" rel="noopener"><strong>MemWhale</strong></a> by wuisabel-gif · ★ 50 · Rust MCP Server
+- <a href="https://github.com/wuisabel-gif/MemWhale" target="_blank" rel="noopener"><strong>MemWhale</strong></a> by wuisabel-gif · ★ 53 · Rust MCP Server
   - Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.
 - <a href="https://github.com/MCPJam/inspector" target="_blank" rel="noopener"><strong>inspector</strong></a> by MCPJam · ★ 2.2k · TypeScript MCP Server
   - Testing and evaluation platform to chat, inspect, and debug MCP servers, MCP apps, and ChatGPT apps.
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/debugging/
   - Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.
 - <a href="https://github.com/microsoft/DebugMCP" target="_blank" rel="noopener"><strong>DebugMCP</strong></a> by microsoft · ★ 476 · TypeScript MCP Server
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
+- <a href="https://github.com/SetsunaYukiOvO/x64dbg-mcp" target="_blank" rel="noopener"><strong>x64dbg-mcp</strong></a> by SetsunaYukiOvO · ★ 401 · C++ MCP Server
+  - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE
 - <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 384 · C++ MCP Server
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.
-- <a href="https://github.com/SetsunaYukiOvO/x64dbg-mcp" target="_blank" rel="noopener"><strong>x64dbg-mcp</strong></a> by SetsunaYukiOvO · ★ 361 · C++ MCP Server
-  - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE

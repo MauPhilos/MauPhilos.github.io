@@ -25,9 +25,9 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Persistent memory for AI coding agents
 - <a href="https://github.com/MihaiBuilds/memory-vault" target="_blank" rel="noopener"><strong>memory-vault</strong></a> by MihaiBuilds · ★ 60 · Python MCP Server
   - A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.
+- <a href="https://github.com/mtrnix/metronix-memory" target="_blank" rel="noopener"><strong>metronix-memory</strong></a> by mtrnix · ★ 53 · Python MCP Server
+  - Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context
 - <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 10.9k · TypeScript MCP Server
   - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
 - <a href="https://github.com/sachitrafa/YourMemory" target="_blank" rel="noopener"><strong>YourMemory</strong></a> by sachitrafa · ★ 262 · Python MCP Server
   - Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.
-- <a href="https://github.com/alibaizhanov/mengram" target="_blank" rel="noopener"><strong>mengram</strong></a> by alibaizhanov · ★ 189 · Python MCP Server
-  - Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.

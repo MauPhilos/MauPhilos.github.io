@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "16.0k",
+      "stars": "16.1k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "16.0k",
+        "stars": "16.1k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -381,7 +381,7 @@
         "rank": 7,
         "name": "openapi-to-cli",
         "author": "EvilFreelancer",
-        "stars": "254",
+        "stars": "255",
         "meta": "TypeScript Codex Skill",
         "description": "Turns any OpenAPI/Swagger API into an CLI with set of commands. One CLI command per endpoint.",
         "github_url": "https://github.com/EvilFreelancer/openapi-to-cli"
@@ -492,6 +492,15 @@
       },
       {
         "rank": 8,
+        "name": "metronix-memory",
+        "author": "mtrnix",
+        "stars": "53",
+        "meta": "Python MCP Server",
+        "description": "Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context",
+        "github_url": "https://github.com/mtrnix/metronix-memory"
+      },
+      {
+        "rank": 9,
         "name": "MemOS",
         "author": "MemTensor",
         "stars": "10.9k",
@@ -500,22 +509,13 @@
         "github_url": "https://github.com/MemTensor/MemOS"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "YourMemory",
         "author": "sachitrafa",
         "stars": "262",
         "meta": "Python MCP Server",
         "description": "Agentic AI memory with Ebbinghaus forgetting curve decay. +16pp better recall than Mem0 on LoCoMo.",
         "github_url": "https://github.com/sachitrafa/YourMemory"
-      },
-      {
-        "rank": 10,
-        "name": "mengram",
-        "author": "alibaizhanov",
-        "stars": "189",
-        "meta": "Python MCP Server",
-        "description": "Human-like memory for AI agents — semantic, episodic & procedural. Experience-driven procedures that learn from failures. Free API, Python & JS SDKs, LangChain, CrewAI & OpenClaw integrations.",
-        "github_url": "https://github.com/alibaizhanov/mengram"
       }
     ]
   },
@@ -854,6 +854,15 @@
       },
       {
         "rank": 2,
+        "name": "procoder NEW",
+        "author": "azrtydxb",
+        "stars": "96",
+        "meta": "Go MCP Server",
+        "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
+        "github_url": "https://github.com/azrtydxb/procoder"
+      },
+      {
+        "rank": 3,
         "name": "api-doctor",
         "author": "qualtyco",
         "stars": "67",
@@ -862,22 +871,13 @@
         "github_url": "https://github.com/qualtyco/api-doctor"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "habit-hooks",
         "author": "habit-hooks",
         "stars": "78",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
-      },
-      {
-        "rank": 4,
-        "name": "procoder NEW",
-        "author": "azrtydxb",
-        "stars": "74",
-        "meta": "Go MCP Server",
-        "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
-        "github_url": "https://github.com/azrtydxb/procoder"
       },
       {
         "rank": 5,
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "52.0k",
+        "stars": "52.2k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1168,7 +1168,7 @@
         "rank": 2,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "50",
+        "stars": "53",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"
@@ -1229,21 +1229,21 @@
       },
       {
         "rank": 9,
+        "name": "x64dbg-mcp",
+        "author": "SetsunaYukiOvO",
+        "stars": "401",
+        "meta": "C++ MCP Server",
+        "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE",
+        "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
+      },
+      {
+        "rank": 10,
         "name": "Gearsystem",
         "author": "drhelius",
         "stars": "384",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
-      },
-      {
-        "rank": 10,
-        "name": "x64dbg-mcp",
-        "author": "SetsunaYukiOvO",
-        "stars": "361",
-        "meta": "C++ MCP Server",
-        "description": "MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE",
-        "github_url": "https://github.com/SetsunaYukiOvO/x64dbg-mcp"
       }
     ]
   }
