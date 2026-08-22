@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/code-review/
 
 - <a href="https://github.com/hyhmrright/brooks-lint" target="_blank" rel="noopener"><strong>brooks-lint</strong></a> by hyhmrright · ★ 1.4k · JavaScript Codex Skill
   - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
-- <a href="https://github.com/azrtydxb/procoder" target="_blank" rel="noopener"><strong>procoder NEW</strong></a> by azrtydxb · ★ 127 · Go MCP Server
+- <a href="https://github.com/azrtydxb/procoder" target="_blank" rel="noopener"><strong>procoder NEW</strong></a> by azrtydxb · ★ 135 · Go MCP Server
   - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.
 - <a href="https://github.com/habit-hooks/habit-hooks" target="_blank" rel="noopener"><strong>habit-hooks</strong></a> by habit-hooks · ★ 87 · Python Agent Tool
   - Automated quality checks that nudge AI coding agents toward better habits
