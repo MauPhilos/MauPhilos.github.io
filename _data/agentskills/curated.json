@@ -164,7 +164,7 @@
         "rank": 6,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
-        "stars": "66",
+        "stars": "72",
         "meta": "Python MCP Server",
         "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "240",
+        "stars": "242",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -422,7 +422,7 @@
     "local_url": "/agent-skills/scenario/mcp-memory/",
     "quick_pick": {
       "name": "yantrikdb",
-      "stars": "51",
+      "stars": "52",
       "tagline": "Cognitive memory engine for AI agents — temporal decay, contradiction detection,",
       "github_url": "https://github.com/yantrikos/yantrikdb"
     },
@@ -431,7 +431,7 @@
         "rank": 1,
         "name": "yantrikdb",
         "author": "yantrikos",
-        "stars": "51",
+        "stars": "52",
         "meta": "Rust MCP Server",
         "description": "Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge graph, ANN recall via HNSW. Embeddable Rust library with Python bindings; powers yantrikdb-server (HTTP gateway, MCP server, openraft cluster). Apache-2.0.",
         "github_url": "https://github.com/yantrikos/yantrikdb"
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "917",
+        "stars": "919",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "10.5k",
+        "stars": "10.6k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "21.1k",
+        "stars": "21.2k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "53.3k",
+        "stars": "53.4k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "misata",
         "author": "rasinmuhammed",
-        "stars": "67",
+        "stars": "68",
         "meta": "Python MCP Server",
         "description": "Synthetic test data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server.",
         "github_url": "https://github.com/rasinmuhammed/misata"
@@ -1134,12 +1134,12 @@
       },
       {
         "rank": 10,
-        "name": "inspector",
-        "author": "modelcontextprotocol",
-        "stars": "10.7k",
-        "meta": "TypeScript MCP Server",
-        "description": "Visual testing tool for MCP servers",
-        "github_url": "https://github.com/modelcontextprotocol/inspector"
+        "name": "midscene",
+        "author": "web-infra-dev",
+        "stars": "14.7k",
+        "meta": "TypeScript Agent Tool",
+        "description": "GUI Agent for E2E Testing",
+        "github_url": "https://github.com/web-infra-dev/midscene"
       }
     ]
   },
