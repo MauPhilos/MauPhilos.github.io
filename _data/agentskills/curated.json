@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "16.2k",
+      "stars": "16.3k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "16.2k",
+        "stars": "16.3k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -421,14 +421,23 @@
     "slug": "mcp-memory",
     "local_url": "/agent-skills/scenario/mcp-memory/",
     "quick_pick": {
-      "name": "Dragon-Brain",
-      "stars": "50",
-      "tagline": "Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context",
-      "github_url": "https://github.com/iikarus/Dragon-Brain"
+      "name": "yantrikdb",
+      "stars": "51",
+      "tagline": "Cognitive memory engine for AI agents — temporal decay, contradiction detection,",
+      "github_url": "https://github.com/yantrikos/yantrikdb"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "yantrikdb",
+        "author": "yantrikos",
+        "stars": "51",
+        "meta": "Rust MCP Server",
+        "description": "Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge graph, ANN recall via HNSW. Embeddable Rust library with Python bindings; powers yantrikdb-server (HTTP gateway, MCP server, openraft cluster). Apache-2.0.",
+        "github_url": "https://github.com/yantrikos/yantrikdb"
+      },
+      {
+        "rank": 2,
         "name": "Dragon-Brain",
         "author": "iikarus",
         "stars": "50",
@@ -437,7 +446,7 @@
         "github_url": "https://github.com/iikarus/Dragon-Brain"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "name": "mind",
         "author": "Da7-Tech",
         "stars": "65",
@@ -446,7 +455,7 @@
         "github_url": "https://github.com/Da7-Tech/mind"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "pensyve",
         "author": "major7apps",
         "stars": "70",
@@ -455,7 +464,7 @@
         "github_url": "https://github.com/major7apps/pensyve"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "mcp-knowledge-graph",
         "author": "shaneholloman",
         "stars": "882",
@@ -464,16 +473,16 @@
         "github_url": "https://github.com/shaneholloman/mcp-knowledge-graph"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "437",
+        "stars": "439",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "caura-memclaw",
         "author": "caura-ai",
         "stars": "430",
@@ -482,7 +491,7 @@
         "github_url": "https://github.com/caura-ai/caura-memclaw"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "omega-memory",
         "author": "omega-memory",
         "stars": "205",
@@ -491,7 +500,7 @@
         "github_url": "https://github.com/omega-memory/omega-memory"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "memory-vault",
         "author": "MihaiBuilds",
         "stars": "60",
@@ -500,22 +509,13 @@
         "github_url": "https://github.com/MihaiBuilds/memory-vault"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "metronix-memory",
         "author": "mtrnix",
         "stars": "53",
         "meta": "Python MCP Server",
         "description": "Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context",
         "github_url": "https://github.com/mtrnix/metronix-memory"
-      },
-      {
-        "rank": 10,
-        "name": "MemOS",
-        "author": "MemTensor",
-        "stars": "10.9k",
-        "meta": "TypeScript MCP Server",
-        "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
-        "github_url": "https://github.com/MemTensor/MemOS"
       }
     ]
   },
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "677",
+        "stars": "678",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OpenMontage",
-      "stars": "48.7k",
+      "stars": "49.5k",
       "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
       "github_url": "https://github.com/calesthio/OpenMontage"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OpenMontage",
         "author": "calesthio",
-        "stars": "48.7k",
+        "stars": "49.5k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "53.1k",
+        "stars": "53.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1014,7 +1014,7 @@
         "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "14.6k",
+        "stars": "14.7k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1071,21 +1071,21 @@
       },
       {
         "rank": 3,
-        "name": "jumpstarter",
-        "author": "jumpstarter-dev",
-        "stars": "211",
-        "meta": "Python MCP Server",
-        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
-        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
-      },
-      {
-        "rank": 4,
         "name": "gem-team",
         "author": "mubaidr",
         "stars": "210",
         "meta": "Agent Tool",
         "description": "Turn AI coding into an engineering process.",
         "github_url": "https://github.com/mubaidr/gem-team"
+      },
+      {
+        "rank": 4,
+        "name": "jumpstarter",
+        "author": "jumpstarter-dev",
+        "stars": "211",
+        "meta": "Python MCP Server",
+        "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
+        "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
       },
       {
         "rank": 5,

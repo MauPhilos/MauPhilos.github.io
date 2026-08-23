@@ -7,10 +7,12 @@ permalink: /agent-skills/scenario/mcp-memory/
 # Best AI Agent Skills for MCP Memory & Knowledge in 2026
 
 ## Quick Pick
-<a href="https://github.com/iikarus/Dragon-Brain" target="_blank" rel="noopener"><strong>Dragon-Brain</strong></a> · ★ 50 · Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context
+<a href="https://github.com/yantrikos/yantrikdb" target="_blank" rel="noopener"><strong>yantrikdb</strong></a> · ★ 51 · Cognitive memory engine for AI agents — temporal decay, contradiction detection,
 
 ## 工具列表
 
+- <a href="https://github.com/yantrikos/yantrikdb" target="_blank" rel="noopener"><strong>yantrikdb</strong></a> by yantrikos · ★ 51 · Rust MCP Server
+  - Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge graph, ANN recall via HNSW. Embeddable Rust library with Python bindings; powers yantrikdb-server (HTTP gateway, MCP server, openraft cluster). Apache-2.0.
 - <a href="https://github.com/iikarus/Dragon-Brain" target="_blank" rel="noopener"><strong>Dragon-Brain</strong></a> by iikarus · ★ 50 · Python MCP Server
   - Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.
 - <a href="https://github.com/Da7-Tech/mind" target="_blank" rel="noopener"><strong>mind</strong></a> by Da7-Tech · ★ 65 · Python MCP Server
@@ -19,7 +21,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Universal memory runtime for AI agents
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 882 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
-- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 437 · Python MCP Server
+- <a href="https://github.com/caura-ai/caura" target="_blank" rel="noopener"><strong>caura</strong></a> by caura-ai · ★ 439 · Python MCP Server
   - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
 - <a href="https://github.com/caura-ai/caura-memclaw" target="_blank" rel="noopener"><strong>caura-memclaw</strong></a> by caura-ai · ★ 430 · Python MCP Server
   - Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-memory/
   - A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.
 - <a href="https://github.com/mtrnix/metronix-memory" target="_blank" rel="noopener"><strong>metronix-memory</strong></a> by mtrnix · ★ 53 · Python MCP Server
   - Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context
-- <a href="https://github.com/MemTensor/MemOS" target="_blank" rel="noopener"><strong>MemOS</strong></a> by MemTensor · ★ 10.9k · TypeScript MCP Server
-  - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
