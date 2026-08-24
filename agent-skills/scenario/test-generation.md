@@ -21,11 +21,11 @@ permalink: /agent-skills/scenario/test-generation/
   - Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.
 - <a href="https://github.com/av/facts" target="_blank" rel="noopener"><strong>facts</strong></a> by av · ★ 198 · Rust Codex Skill
   - Antidote for fluffy specs, a toolkit for fact-driven development with AI agents
-- <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 128 · Python MCP Server
+- <a href="https://github.com/hidai25/eval-view" target="_blank" rel="noopener"><strong>eval-view</strong></a> by hidai25 · ★ 129 · Python MCP Server
   - Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.
 - <a href="https://github.com/rasinmuhammed/misata" target="_blank" rel="noopener"><strong>misata</strong></a> by rasinmuhammed · ★ 68 · Python MCP Server
-  - Synthetic test data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server.
-- <a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank" rel="noopener"><strong>reverse-skill</strong></a> by zhaoxuya520 · ★ 27.3k · PowerShell Agent Tool
+  - Synthetic/Demo/Fake/Test data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server.
+- <a href="https://github.com/zhaoxuya520/reverse-skill" target="_blank" rel="noopener"><strong>reverse-skill</strong></a> by zhaoxuya520 · ★ 27.7k · PowerShell Agent Tool
   - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 - <a href="https://github.com/promptfoo/promptfoo" target="_blank" rel="noopener"><strong>promptfoo</strong></a> by promptfoo · ★ 24.5k · TypeScript LLM Plugin
   - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
