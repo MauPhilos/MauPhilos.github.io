@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Browser automation plugin for OpenCode AI editor - Control Chrome/Edge with AI, automate web testing, scraping & form filling via MCP integration
 - <a href="https://github.com/remorses/playwriter" target="_blank" rel="noopener"><strong>playwriter</strong></a> by remorses · ★ 3.8k · HTML MCP Server
   - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP Quick Start: Install Extension from Chrome Web Store Click extension icon on a tab → turns green when connected Install the CLI and start automating the browser: I... ```bash npm i -g playwriter playwriter -s 1 -e 'await page.goto("https://example.com")' ```
-- <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 242 · JavaScript MCP Server
+- <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 241 · JavaScript MCP Server
   - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
 - <a href="https://github.com/browserbase/stagehand" target="_blank" rel="noopener"><strong>stagehand</strong></a> by browserbase · ★ 24.0k · TypeScript LLM Plugin
   - The SDK For Browser Agents
