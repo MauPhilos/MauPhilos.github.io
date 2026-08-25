@@ -941,29 +941,29 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "OmniRoute",
-      "stars": "54.5k",
-      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free),",
-      "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      "name": "OpenMontage",
+      "stars": "49.5k",
+      "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
+      "github_url": "https://github.com/calesthio/OpenMontage"
     },
     "tools": [
       {
         "rank": 1,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "54.5k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
-      },
-      {
-        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "49.5k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
+      },
+      {
+        "rank": 2,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "54.5k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
@@ -1003,21 +1003,21 @@
       },
       {
         "rank": 7,
-        "name": "paseo",
-        "author": "getpaseo",
-        "stars": "14.9k",
-        "meta": "TypeScript Codex Skill",
-        "description": "Orchestrate multiple coding agents from desktop and mobile",
-        "github_url": "https://github.com/getpaseo/paseo"
-      },
-      {
-        "rank": 8,
         "name": "copilot-cli",
         "author": "github",
         "stars": "11.1k",
         "meta": "Shell Agent Tool",
         "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
         "github_url": "https://github.com/github/copilot-cli"
+      },
+      {
+        "rank": 8,
+        "name": "paseo",
+        "author": "getpaseo",
+        "stars": "14.9k",
+        "meta": "TypeScript Codex Skill",
+        "description": "Orchestrate multiple coding agents from desktop and mobile",
+        "github_url": "https://github.com/getpaseo/paseo"
       },
       {
         "rank": 9,
