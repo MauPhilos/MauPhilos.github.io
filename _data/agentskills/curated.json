@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "16.5k",
+      "stars": "16.6k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "16.5k",
+        "stars": "16.6k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "bladebro",
         "author": "dondai44423",
-        "stars": "132",
+        "stars": "133",
         "meta": "Rust MCP Server",
         "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "242",
+        "stars": "247",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -200,7 +200,7 @@
         "rank": 10,
         "name": "stagehand",
         "author": "browserbase",
-        "stars": "24.0k",
+        "stars": "24.1k",
         "meta": "TypeScript LLM Plugin",
         "description": "The SDK For Browser Agents",
         "github_url": "https://github.com/browserbase/stagehand"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "448",
+        "stars": "452",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "687",
+        "stars": "691",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -824,7 +824,7 @@
         "rank": 10,
         "name": "cli",
         "author": "googleworkspace",
-        "stars": "30.5k",
+        "stars": "30.6k",
         "meta": "Rust Agent Tool",
         "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
         "github_url": "https://github.com/googleworkspace/cli"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "procoder NEW",
         "author": "azrtydxb",
-        "stars": "178",
+        "stars": "180",
         "meta": "Go MCP Server",
         "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
         "github_url": "https://github.com/azrtydxb/procoder"
@@ -892,7 +892,7 @@
         "rank": 6,
         "name": "tuicr",
         "author": "agavra",
-        "stars": "2.8k",
+        "stars": "2.9k",
         "meta": "Rust Agent Tool",
         "description": "a code review TUI with vim keybindings Quick Start: Other install methods (cargo, mise, nix, binaries, source) Pre-built binaries: GitHub Releases From source: ```bash curl -fsSL tuicr.dev/install.sh | sh # or brew install agavra/tap/tuicr ```",
         "github_url": "https://github.com/agavra/tuicr"
@@ -941,29 +941,29 @@
     "slug": "code-completion",
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
-      "name": "OpenMontage",
-      "stars": "49.5k",
-      "tagline": "World's first open-source, agentic video production system. 12 production pipeli",
-      "github_url": "https://github.com/calesthio/OpenMontage"
+      "name": "OmniRoute",
+      "stars": "55.2k",
+      "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free),",
+      "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
     "tools": [
       {
         "rank": 1,
+        "name": "OmniRoute",
+        "author": "diegosouzapw",
+        "stars": "55.2k",
+        "meta": "TypeScript MCP Server",
+        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+        "github_url": "https://github.com/diegosouzapw/OmniRoute"
+      },
+      {
+        "rank": 2,
         "name": "OpenMontage",
         "author": "calesthio",
         "stars": "49.5k",
         "meta": "Python Agent Tool",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "github_url": "https://github.com/calesthio/OpenMontage"
-      },
-      {
-        "rank": 2,
-        "name": "OmniRoute",
-        "author": "diegosouzapw",
-        "stars": "54.7k",
-        "meta": "TypeScript MCP Server",
-        "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
-        "github_url": "https://github.com/diegosouzapw/OmniRoute"
       },
       {
         "rank": 3,
@@ -1003,21 +1003,21 @@
       },
       {
         "rank": 7,
-        "name": "copilot-cli",
-        "author": "github",
-        "stars": "11.1k",
-        "meta": "Shell Agent Tool",
-        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-        "github_url": "https://github.com/github/copilot-cli"
-      },
-      {
-        "rank": 8,
         "name": "paseo",
         "author": "getpaseo",
         "stars": "15.0k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
+      },
+      {
+        "rank": 8,
+        "name": "copilot-cli",
+        "author": "github",
+        "stars": "11.1k",
+        "meta": "Shell Agent Tool",
+        "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+        "github_url": "https://github.com/github/copilot-cli"
       },
       {
         "rank": 9,
@@ -1168,7 +1168,7 @@
         "rank": 2,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "61",
+        "stars": "55",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"
