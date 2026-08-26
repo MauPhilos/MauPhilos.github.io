@@ -164,7 +164,7 @@
         "rank": 6,
         "name": "docker-stealthy-auto-browse",
         "author": "psyb0t",
-        "stars": "72",
+        "stars": "73",
         "meta": "Python MCP Server",
         "description": "Stealth browser automation that actually works. Runs Camoufox (custom Firefox) in Docker with zero Chrome DevTools Protocol exposure, real OS-level mouse and keyboard input via PyAutoGUI, and a JSON HTTP API + MCP server to control it all remotely. Watch it live via noVNC.",
         "github_url": "https://github.com/psyb0t/docker-stealthy-auto-browse"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "247",
+        "stars": "248",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -494,7 +494,7 @@
         "rank": 8,
         "name": "omega-memory",
         "author": "omega-memory",
-        "stars": "205",
+        "stars": "206",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents",
         "github_url": "https://github.com/omega-memory/omega-memory"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "10.6k",
+        "stars": "10.7k",
         "meta": "JavaScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "procoder NEW",
         "author": "azrtydxb",
-        "stars": "180",
+        "stars": "184",
         "meta": "Go MCP Server",
         "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
         "github_url": "https://github.com/azrtydxb/procoder"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "55.2k",
+      "stars": "55.6k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "55.2k",
+        "stars": "55.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "15.0k",
+        "stars": "15.1k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "awesome-ai-testing",
         "author": "tugkanboz",
-        "stars": "73",
+        "stars": "79",
         "meta": "MCP Server",
         "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
         "github_url": "https://github.com/tugkanboz/awesome-ai-testing"
