@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/code-review/
 
 - <a href="https://github.com/hyhmrright/brooks-lint" target="_blank" rel="noopener"><strong>brooks-lint</strong></a> by hyhmrright · ★ 1.4k · JavaScript Codex Skill
   - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
-- <a href="https://github.com/azrtydxb/procoder" target="_blank" rel="noopener"><strong>procoder NEW</strong></a> by azrtydxb · ★ 189 · Go MCP Server
+- <a href="https://github.com/azrtydxb/procoder" target="_blank" rel="noopener"><strong>procoder NEW</strong></a> by azrtydxb · ★ 190 · Go MCP Server
   - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.
 - <a href="https://github.com/habit-hooks/habit-hooks" target="_blank" rel="noopener"><strong>habit-hooks</strong></a> by habit-hooks · ★ 87 · Python Agent Tool
   - Automated quality checks that nudge AI coding agents toward better habits
@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/code-review/
   - A comprehensive code review skill for Claude Code, covering React 19, Vue 3, Rust, TypeScript, TanStack Query v5, and more.
 - <a href="https://github.com/qdhenry/Claude-Command-Suite" target="_blank" rel="noopener"><strong>Claude-Command-Suite</strong></a> by qdhenry · ★ 1.3k · Shell Claude Skill
   - Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.
-- <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 542 · Python Agent Tool
+- <a href="https://github.com/Nikita-Filonov/ai-review" target="_blank" rel="noopener"><strong>ai-review</strong></a> by Nikita-Filonov · ★ 560 · Python Agent Tool
   - 🚀 AI-powered code review tool for GitHub, GitLab, Bitbucket Cloud, Bitbucket Server, Azure DevOps and Gitea — built with LLMs like OpenAI, Claude, Gemini, Ollama, Bedrock, OpenRouter and Azure OpenAI
