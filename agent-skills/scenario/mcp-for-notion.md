@@ -18,7 +18,7 @@ permalink: /agent-skills/scenario/mcp-for-notion/
 - <a href="https://github.com/Balneario-de-Cofrentes/notion-cli-agent" target="_blank" rel="noopener"><strong>notion-cli-agent</strong></a> by Balneario-de-Cofrentes · ★ 88 · TypeScript MCP Server
   - Notion CLI with AI agent support. Smart queries, Obsidian sync, batch ops, backups, validation and more.
 - <a href="https://github.com/Grey-Iris/easy-notion-mcp" target="_blank" rel="noopener"><strong>easy-notion-mcp</strong></a> by Grey-Iris · ★ 50 · TypeScript MCP Server
-  - Markdown-first Notion MCP server. 42 tools, ~6–7× fewer response tokens vs the official Notion MCP, full round-trip fidelity
+  - Markdown-first Notion MCP server. ~6-7x fewer response tokens vs official Notion MCP. 43 tools.
 - <a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener"><strong>macro</strong></a> by macro-inc · ★ 780 · TypeScript MCP Server
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
