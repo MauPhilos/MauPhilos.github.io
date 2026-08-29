@@ -29,5 +29,5 @@ permalink: /agent-skills/scenario/debugging/
   - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
 - <a href="https://github.com/SetsunaYukiOvO/x64dbg-mcp" target="_blank" rel="noopener"><strong>x64dbg-mcp</strong></a> by SetsunaYukiOvO · ★ 401 · C++ MCP Server
   - MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging via JSON-RPC 2.0 over HTTP/SSE
-- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 384 · C++ MCP Server
+- <a href="https://github.com/drhelius/Gearsystem" target="_blank" rel="noopener"><strong>Gearsystem</strong></a> by drhelius · ★ 385 · C++ MCP Server
   - Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.

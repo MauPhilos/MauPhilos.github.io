@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "17.3k",
+      "stars": "17.4k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "17.3k",
+        "stars": "17.4k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -146,7 +146,7 @@
         "rank": 4,
         "name": "bladebro",
         "author": "dondai44423",
-        "stars": "142",
+        "stars": "155",
         "meta": "Rust MCP Server",
         "description": "A Fully free agentic browser driver for AI , few tools, full control, real stealth, top-tier token efficiency.",
         "github_url": "https://github.com/dondai44423/bladebro"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "252",
+        "stars": "253",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -616,7 +616,7 @@
         "rank": 10,
         "name": "human",
         "author": "gethuman-sh",
-        "stars": "62",
+        "stars": "63",
         "meta": "Go MCP Server",
         "description": "The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.",
         "github_url": "https://github.com/gethuman-sh/human"
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "700",
+        "stars": "704",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -856,7 +856,7 @@
         "rank": 2,
         "name": "procoder NEW",
         "author": "azrtydxb",
-        "stars": "191",
+        "stars": "195",
         "meta": "Go MCP Server",
         "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.",
         "github_url": "https://github.com/azrtydxb/procoder"
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "habit-hooks",
         "author": "habit-hooks",
-        "stars": "134",
+        "stars": "142",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "57.5k",
+      "stars": "57.8k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "57.5k",
+        "stars": "57.8k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "9router",
         "author": "decolua",
-        "stars": "25.4k",
+        "stars": "26.6k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1082,7 +1082,7 @@
         "rank": 4,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "213",
+        "stars": "214",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1127,7 +1127,7 @@
         "rank": 9,
         "name": "promptfoo",
         "author": "promptfoo",
-        "stars": "24.6k",
+        "stars": "24.7k",
         "meta": "TypeScript LLM Plugin",
         "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.",
         "github_url": "https://github.com/promptfoo/promptfoo"
@@ -1240,7 +1240,7 @@
         "rank": 10,
         "name": "Gearsystem",
         "author": "drhelius",
-        "stars": "384",
+        "stars": "385",
         "meta": "C++ MCP Server",
         "description": "Sega Master System / Game Gear / SG-1000 emulator, debugger and embedded MCP server for macOS, Windows, Linux, BSD and RetroArch.",
         "github_url": "https://github.com/drhelius/Gearsystem"
