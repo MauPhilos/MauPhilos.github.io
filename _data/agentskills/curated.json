@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "17.2k",
+      "stars": "17.3k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "17.2k",
+        "stars": "17.3k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -24,7 +24,7 @@
         "rank": 2,
         "name": "graphjin",
         "author": "dosco",
-        "stars": "3.1k",
+        "stars": "3.2k",
         "meta": "Go MCP Server",
         "description": "One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code",
         "github_url": "https://github.com/dosco/graphjin"
@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "4.2k",
+        "stars": "4.4k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "49.8k",
+        "stars": "50.0k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "250",
+        "stars": "252",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "116",
+      "stars": "117",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "116",
+        "stars": "117",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -458,7 +458,7 @@
         "rank": 4,
         "name": "pensyve",
         "author": "major7apps",
-        "stars": "70",
+        "stars": "72",
         "meta": "Rust MCP Server",
         "description": "Universal memory runtime for AI agents",
         "github_url": "https://github.com/major7apps/pensyve"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "465",
+        "stars": "467",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -501,21 +501,21 @@
       },
       {
         "rank": 9,
+        "name": "metronix-memory",
+        "author": "mtrnix",
+        "stars": "87",
+        "meta": "Python MCP Server",
+        "description": "Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context",
+        "github_url": "https://github.com/mtrnix/metronix-memory"
+      },
+      {
+        "rank": 10,
         "name": "memory-vault",
         "author": "MihaiBuilds",
         "stars": "60",
         "meta": "Python MCP Server",
         "description": "A local-first AI memory system with hybrid search, MCP integration, and a knowledge graph.",
         "github_url": "https://github.com/MihaiBuilds/memory-vault"
-      },
-      {
-        "rank": 10,
-        "name": "metronix-memory",
-        "author": "mtrnix",
-        "stars": "53",
-        "meta": "Python MCP Server",
-        "description": "Metronix Memory is self-hosted memory infrastructure for AI agents: MCP-native, local-model friendly, with hybrid RAG, a temporal knowledge graph and ontology layer, durable memory, freshness checks, and agent-scoped context",
-        "github_url": "https://github.com/mtrnix/metronix-memory"
       }
     ]
   },
@@ -693,7 +693,7 @@
         "rank": 7,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "696",
+        "stars": "700",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -720,7 +720,7 @@
         "rank": 10,
         "name": "coder_eval",
         "author": "UiPath",
-        "stars": "116",
+        "stars": "118",
         "meta": "Python MCP Server",
         "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
         "github_url": "https://github.com/UiPath/coder_eval"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "57.2k",
+      "stars": "57.5k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "57.2k",
+        "stars": "57.5k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 350 providers (90+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "15.3k",
+        "stars": "15.4k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "misata",
         "author": "rasinmuhammed",
-        "stars": "68",
+        "stars": "67",
         "meta": "Python MCP Server",
         "description": "Synthetic data that hits the numbers you declare, exactly. Multi-table with verified foreign-key integrity, deterministic, no model in the data path. Python + MCP server. In simple terms, a powerful demo data generator for sales/demos/seed data.",
         "github_url": "https://github.com/rasinmuhammed/misata"
