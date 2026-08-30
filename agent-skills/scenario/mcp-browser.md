@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-browser/
 
 - <a href="https://github.com/browserbase/mcp-server-browserbase" target="_blank" rel="noopener"><strong>mcp-server-browserbase</strong></a> by browserbase · ★ 3.4k · TypeScript MCP Server
   - Allow LLMs to control a browser with Browserbase and Stagehand
-- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 50.0k · TypeScript MCP Server
+- <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank" rel="noopener"><strong>chrome-devtools-mcp</strong></a> by ChromeDevTools · ★ 50.2k · TypeScript MCP Server
   - Chrome DevTools for coding agents
 - <a href="https://github.com/h4ckf0r0day/obscura" target="_blank" rel="noopener"><strong>obscura</strong></a> by h4ckf0r0day · ★ 22.4k · Rust Agent Tool
   - The headless browser for AI agents and web scraping
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-browser/
   - Browser automation plugin for OpenCode AI editor - Control Chrome/Edge with AI, automate web testing, scraping & form filling via MCP integration
 - <a href="https://github.com/remorses/playwriter" target="_blank" rel="noopener"><strong>playwriter</strong></a> by remorses · ★ 3.8k · HTML MCP Server
   - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP Quick Start: Install Extension from Chrome Web Store Click extension icon on a tab → turns green when connected Install the CLI and start automating the browser: I... ```bash npm i -g playwriter playwriter -s 1 -e 'await page.goto("https://example.com")' ```
-- <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 253 · JavaScript MCP Server
+- <a href="https://github.com/iFurySt/open-browser-use" target="_blank" rel="noopener"><strong>open-browser-use</strong></a> by iFurySt · ★ 255 · JavaScript MCP Server
   - 🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.
 - <a href="https://github.com/browserbase/stagehand" target="_blank" rel="noopener"><strong>stagehand</strong></a> by browserbase · ★ 24.1k · TypeScript LLM Plugin
   - The SDK For Browser Agents

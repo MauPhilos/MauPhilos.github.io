@@ -13,7 +13,7 @@ permalink: /agent-skills/scenario/mcp-filesystem/
 
 - <a href="https://github.com/MarcusJellinghaus/mcp-workspace" target="_blank" rel="noopener"><strong>mcp-workspace</strong></a> by MarcusJellinghaus · ★ 50 · Python MCP Server
   - MCP Workspace Server: A secure Model Context Protocol server providing file, git, and GitHub tools for AI assistants within a sandboxed project directory.
-- <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 170 · Rust MCP Server
+- <a href="https://github.com/rust-mcp-stack/rust-mcp-filesystem" target="_blank" rel="noopener"><strong>rust-mcp-filesystem</strong></a> by rust-mcp-stack · ★ 172 · Rust MCP Server
   - Blazing-fast, asynchronous MCP server for seamless filesystem operations.
 - <a href="https://github.com/efforthye/fast-filesystem-mcp" target="_blank" rel="noopener"><strong>fast-filesystem-mcp</strong></a> by efforthye · ★ 59 · TypeScript MCP Server
   - A high-performance Model Context Protocol (MCP) server that provides secure filesystem access for Claude and other AI assistants.
