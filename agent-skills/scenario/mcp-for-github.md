@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 521 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
-- <a href="https://github.com/Juror-AI/juror" target="_blank" rel="noopener"><strong>juror</strong></a> by Juror-AI · ★ 145 · TypeScript MCP Server
-  - Cheaper and better Greptile alternative runs on your own github actions.
 - <a href="https://github.com/UiPath/coder_eval" target="_blank" rel="noopener"><strong>coder_eval</strong></a> by UiPath · ★ 118 · Python MCP Server
   - Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.
+- <a href="https://github.com/Juror-AI/juror" target="_blank" rel="noopener"><strong>juror</strong></a> by Juror-AI · ★ 122 · TypeScript MCP Server
+  - Cheaper and better Greptile alternative runs on your own github actions.

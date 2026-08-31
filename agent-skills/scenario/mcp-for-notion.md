@@ -21,6 +21,8 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - Markdown-first Notion MCP server. ~6-7x fewer response tokens vs official Notion MCP. 43 tools.
 - <a href="https://github.com/macro-inc/macro" target="_blank" rel="noopener"><strong>macro</strong></a> by macro-inc · ★ 780 · TypeScript MCP Server
   - Macro is a unified interface for email, messaging, tasks, calls, agents, docs, diagrams, CRM — linked together with shared AI memory.
+- <a href="https://github.com/busabase/busabase" target="_blank" rel="noopener"><strong>busabase</strong></a> by busabase · ★ 55 · TypeScript MCP Server
+  - Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
 - <a href="https://github.com/borghei/Claude-Skills" target="_blank" rel="noopener"><strong>Claude-Skills</strong></a> by borghei · ★ 475 · HTML MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-for-notion/
   - A simple MCP integration that allows Claude to read and manage a personal Notion todo list
 - <a href="https://github.com/joungminsung/OpenDocuments" target="_blank" rel="noopener"><strong>OpenDocuments</strong></a> by joungminsung · ★ 103 · TypeScript MCP Server
   - Self-hosted RAG platform for AI document search across GitHub, Notion, Google Drive, local files, and web sources with citations.
-- <a href="https://github.com/gethuman-sh/human" target="_blank" rel="noopener"><strong>human</strong></a> by gethuman-sh · ★ 63 · Go MCP Server
-  - The AI Software Factory. Tickets, docs, designs, and analytics in. Shipped code out. One secure pipeline from idea to review — Claude on the line, human on the floor.
