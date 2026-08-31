@@ -17,7 +17,7 @@ permalink: /agent-skills/scenario/mcp-memory/
   - Dragon Brain — persistent long-term memory for AI agents via MCP (Model Context Protocol). Knowledge graph (FalkorDB) + vector search (Qdrant) + CUDA GPU embeddings. Works with Claude, Gemini CLI, Cursor, Windsurf, VS Code Copilot. 30 tools, 1121 tests.
 - <a href="https://github.com/Da7-Tech/mind" target="_blank" rel="noopener"><strong>mind</strong></a> by Da7-Tech · ★ 65 · Python MCP Server
   - Persistent memory for AI coding agents: automatic capture, explainable recall, knowledge consolidation, privacy controls, and portable offline storage. One Python file, zero dependencies.
-- <a href="https://github.com/major7apps/pensyve" target="_blank" rel="noopener"><strong>pensyve</strong></a> by major7apps · ★ 72 · Rust MCP Server
+- <a href="https://github.com/major7apps/pensyve" target="_blank" rel="noopener"><strong>pensyve</strong></a> by major7apps · ★ 73 · Rust MCP Server
   - Universal memory runtime for AI agents
 - <a href="https://github.com/shaneholloman/mcp-knowledge-graph" target="_blank" rel="noopener"><strong>mcp-knowledge-graph</strong></a> by shaneholloman · ★ 882 · JavaScript MCP Server
   - MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development
