@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "17.6k",
+      "stars": "17.7k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "17.6k",
+        "stars": "17.7k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -76,6 +76,15 @@
       },
       {
         "rank": 8,
+        "name": "alibabacloud-dms-mcp-server",
+        "author": "aliyun",
+        "stars": "52",
+        "meta": "Python MCP Server",
+        "description": "A universal multi-cloud data MCP Server supporting over 40 types of data source connections, providing secure, unified data access in a single platform. Supports full range of Alibaba Cloud services and Mainstream databases/data warehouses.",
+        "github_url": "https://github.com/aliyun/alibabacloud-dms-mcp-server"
+      },
+      {
+        "rank": 9,
         "name": "Clauge",
         "author": "ClaugeHQ",
         "stars": "806",
@@ -84,22 +93,13 @@
         "github_url": "https://github.com/ClaugeHQ/Clauge"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "Clauge",
         "author": "ansxuman",
         "stars": "736",
         "meta": "Svelte Codex Skill",
         "description": "One window. Every dev tool.",
         "github_url": "https://github.com/ansxuman/Clauge"
-      },
-      {
-        "rank": 10,
-        "name": "tabularis",
-        "author": "debba",
-        "stars": "1.2k",
-        "meta": "TypeScript MCP Server",
-        "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-        "github_url": "https://github.com/debba/tabularis"
       }
     ]
   },
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "50.3k",
+        "stars": "50.4k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "22.8k",
+        "stars": "23.3k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "open-browser-use",
         "author": "iFurySt",
-        "stars": "255",
+        "stars": "256",
         "meta": "JavaScript MCP Server",
         "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
         "github_url": "https://github.com/iFurySt/open-browser-use"
@@ -682,6 +682,15 @@
       },
       {
         "rank": 6,
+        "name": "drawio-skill",
+        "author": "Agents365-ai",
+        "stars": "8.9k",
+        "meta": "Python MCP Server",
+        "description": "From text & real sources to maintainable .drawio architecture models: Diagram IR with source-kind profiles, incremental sync preserving manual layout, multi-view projection, architecture-as-test with a CI action, query/review, what-if, accessible Story Mode, and a built-in MCP server",
+        "github_url": "https://github.com/Agents365-ai/drawio-skill"
+      },
+      {
+        "rank": 7,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -690,16 +699,16 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "711",
+        "stars": "712",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "skylos",
         "author": "duriantaco",
         "stars": "521",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/duriantaco/skylos"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "coder_eval",
         "author": "UiPath",
         "stars": "118",
         "meta": "Python MCP Server",
         "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
         "github_url": "https://github.com/UiPath/coder_eval"
-      },
-      {
-        "rank": 10,
-        "name": "juror",
-        "author": "Juror-AI",
-        "stars": "122",
-        "meta": "TypeScript MCP Server",
-        "description": "Cheaper and better Greptile alternative runs on your own github actions.",
-        "github_url": "https://github.com/Juror-AI/juror"
       }
     ]
   },
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "21.7k",
+        "stars": "21.8k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "59.4k",
+      "stars": "59.6k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "59.4k",
+        "stars": "59.6k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "15.6k",
+        "stars": "15.7k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1064,7 +1064,7 @@
         "rank": 2,
         "name": "awesome-ai-testing",
         "author": "tugkanboz",
-        "stars": "82",
+        "stars": "83",
         "meta": "MCP Server",
         "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
         "github_url": "https://github.com/tugkanboz/awesome-ai-testing"
