@@ -7,11 +7,11 @@ permalink: /agent-skills/scenario/code-completion/
 # Best AI Agent Skills for Code Completion & Generation in 2026
 
 ## Quick Pick
-<a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> · ★ 59.9k · Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
+<a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> · ★ 60.1k · Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),
 
 ## 工具列表
 
-- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 59.9k · TypeScript MCP Server
+- <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener"><strong>OmniRoute</strong></a> by diegosouzapw · ★ 60.1k · TypeScript MCP Server
   - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors
 - <a href="https://github.com/calesthio/OpenMontage" target="_blank" rel="noopener"><strong>OpenMontage</strong></a> by calesthio · ★ 49.5k · Python Agent Tool
   - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.
@@ -27,7 +27,7 @@ permalink: /agent-skills/scenario/code-completion/
   - Orchestrate multiple coding agents from desktop and mobile
 - <a href="https://github.com/github/copilot-cli" target="_blank" rel="noopener"><strong>copilot-cli</strong></a> by github · ★ 11.1k · Shell Agent Tool
   - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+- <a href="https://github.com/jnMetaCode/superpowers-zh" target="_blank" rel="noopener"><strong>superpowers-zh</strong></a> by jnMetaCode · ★ 7.9k · JavaScript MCP Server
+  - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
 - <a href="https://github.com/nexu-io/html-anything" target="_blank" rel="noopener"><strong>html-anything</strong></a> by nexu-io · ★ 8.4k · HTML Claude Skill
   - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
-- <a href="https://github.com/jnMetaCode/superpowers-zh" target="_blank" rel="noopener"><strong>superpowers-zh</strong></a> by jnMetaCode · ★ 7.7k · JavaScript MCP Server
-  - 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
