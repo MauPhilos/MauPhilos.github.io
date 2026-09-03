@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "17.8k",
+      "stars": "17.9k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "17.8k",
+        "stars": "17.9k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "4.6k",
+        "stars": "4.7k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "50.7k",
+        "stars": "50.8k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "24.1k",
+        "stars": "24.4k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -182,28 +182,28 @@
         "rank": 8,
         "name": "playwriter",
         "author": "remorses",
-        "stars": "3.8k",
+        "stars": "3.9k",
         "meta": "HTML MCP Server",
         "description": "Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP Quick Start: Install Extension from Chrome Web Store Click extension icon on a tab → turns green when connected Install the CLI and start automating the browser: I... ```bash npm i -g playwriter playwriter -s 1 -e 'await page.goto(\"https://example.com\")' ```",
         "github_url": "https://github.com/remorses/playwriter"
       },
       {
         "rank": 9,
-        "name": "open-browser-use",
-        "author": "iFurySt",
-        "stars": "258",
-        "meta": "JavaScript MCP Server",
-        "description": "🔮 Platform-neutral Browser Use for AI agents: real Chrome automation with a CLI + SDKs, no lock-in, dead simple.",
-        "github_url": "https://github.com/iFurySt/open-browser-use"
-      },
-      {
-        "rank": 10,
         "name": "stagehand",
         "author": "browserbase",
         "stars": "24.1k",
         "meta": "TypeScript LLM Plugin",
         "description": "The SDK For Browser Agents",
         "github_url": "https://github.com/browserbase/stagehand"
+      },
+      {
+        "rank": 10,
+        "name": "Uni-CLI",
+        "author": "olo-dot-io",
+        "stars": "270",
+        "meta": "TypeScript MCP Server",
+        "description": "One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.",
+        "github_url": "https://github.com/olo-dot-io/Uni-CLI"
       }
     ]
   },
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "474",
+        "stars": "475",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -580,7 +580,7 @@
         "rank": 6,
         "name": "busabase",
         "author": "busabase",
-        "stars": "55",
+        "stars": "86",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.",
         "github_url": "https://github.com/busabase/busabase"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "10.8k",
+        "stars": "10.9k",
         "meta": "TypeScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -684,7 +684,7 @@
         "rank": 6,
         "name": "drawio-skill",
         "author": "Agents365-ai",
-        "stars": "8.9k",
+        "stars": "9.0k",
         "meta": "Python MCP Server",
         "description": "From text & real sources to maintainable .drawio architecture models: Diagram IR with source-kind profiles, incremental sync preserving manual layout, multi-view projection, architecture-as-test with a CI action, query/review, what-if, accessible Story Mode, and a built-in MCP server",
         "github_url": "https://github.com/Agents365-ai/drawio-skill"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "21.8k",
+        "stars": "21.9k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "60.4k",
+      "stars": "60.7k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "60.4k",
+        "stars": "60.7k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -978,7 +978,7 @@
         "rank": 4,
         "name": "9router",
         "author": "decolua",
-        "stars": "26.6k",
+        "stars": "27.0k",
         "meta": "JavaScript Codex Skill",
         "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
         "github_url": "https://github.com/decolua/9router"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "15.8k",
+        "stars": "15.9k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1073,7 +1073,7 @@
         "rank": 3,
         "name": "awesome-ai-testing",
         "author": "tugkanboz",
-        "stars": "83",
+        "stars": "86",
         "meta": "MCP Server",
         "description": "A curated list of AI-powered testing tools, frameworks, and resources for QA engineers. From test generation to self-healing automation, MCP-based testing, LLM evaluation, and more.",
         "github_url": "https://github.com/tugkanboz/awesome-ai-testing"
@@ -1127,7 +1127,7 @@
         "rank": 9,
         "name": "reverse-skill",
         "author": "zhaoxuya520",
-        "stars": "32.9k",
+        "stars": "34.3k",
         "meta": "PowerShell Agent Tool",
         "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
         "github_url": "https://github.com/zhaoxuya520/reverse-skill"
@@ -1213,28 +1213,28 @@
         "rank": 7,
         "name": "embeddedskills",
         "author": "zhinkgit",
-        "stars": "579",
+        "stars": "619",
         "meta": "Python Claude Skill",
         "description": "An open-source collection of embedded development and debugging skills for Claude Code, Copilot, TRAE, and other AI coding assistants that support the Skill protocol. Once installed, the AI assistant can directly operate compilers, debuggers, and communication buses, automating the full workflow from code generation to hardware verification.",
         "github_url": "https://github.com/zhinkgit/embeddedskills"
       },
       {
         "rank": 8,
+        "name": "DebugMCP",
+        "author": "microsoft",
+        "stars": "492",
+        "meta": "TypeScript MCP Server",
+        "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
+        "github_url": "https://github.com/microsoft/DebugMCP"
+      },
+      {
+        "rank": 9,
         "name": "bug-hunter",
         "author": "codexstar69",
         "stars": "487",
         "meta": "JavaScript Claude Skill",
         "description": "Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI, Kiro CLI, Opencode, Pi Coding Agent, and more. Multi-agent pipeline finds security vulnerabilities, logic errors, and runtime bugs — then fixes them autonomously on a safe branch.",
         "github_url": "https://github.com/codexstar69/bug-hunter"
-      },
-      {
-        "rank": 9,
-        "name": "DebugMCP",
-        "author": "microsoft",
-        "stars": "482",
-        "meta": "TypeScript MCP Server",
-        "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
-        "github_url": "https://github.com/microsoft/DebugMCP"
       },
       {
         "rank": 10,
