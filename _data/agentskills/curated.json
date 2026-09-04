@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "24.4k",
+        "stars": "24.6k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -447,21 +447,21 @@
       },
       {
         "rank": 3,
-        "name": "pensyve",
-        "author": "major7apps",
-        "stars": "75",
-        "meta": "Rust MCP Server",
-        "description": "Universal memory runtime for AI agents",
-        "github_url": "https://github.com/major7apps/pensyve"
-      },
-      {
-        "rank": 4,
         "name": "mind",
         "author": "Da7-Tech",
         "stars": "65",
         "meta": "Python MCP Server",
         "description": "Persistent memory for AI coding agents: automatic capture, explainable recall, knowledge consolidation, privacy controls, and portable offline storage. One Python file, zero dependencies.",
         "github_url": "https://github.com/Da7-Tech/mind"
+      },
+      {
+        "rank": 4,
+        "name": "pensyve",
+        "author": "major7apps",
+        "stars": "75",
+        "meta": "Rust MCP Server",
+        "description": "Universal memory runtime for AI agents",
+        "github_url": "https://github.com/major7apps/pensyve"
       },
       {
         "rank": 5,
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "475",
+        "stars": "476",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -580,7 +580,7 @@
         "rank": 6,
         "name": "busabase",
         "author": "busabase",
-        "stars": "86",
+        "stars": "91",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.",
         "github_url": "https://github.com/busabase/busabase"
@@ -750,6 +750,15 @@
       },
       {
         "rank": 2,
+        "name": "backlot",
+        "author": "brekkylab",
+        "stars": "58",
+        "meta": "Python MCP Server",
+        "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.",
+        "github_url": "https://github.com/brekkylab/backlot"
+      },
+      {
+        "rank": 3,
         "name": "modular-context-obsidian-plugin",
         "author": "klemensgc",
         "stars": "94",
@@ -758,7 +767,7 @@
         "github_url": "https://github.com/klemensgc/modular-context-obsidian-plugin"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "mcp-google-sheets",
         "author": "xing5",
         "stars": "977",
@@ -767,7 +776,7 @@
         "github_url": "https://github.com/xing5/mcp-google-sheets"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "mcp-gdrive",
         "author": "isaacphi",
         "stars": "284",
@@ -776,7 +785,7 @@
         "github_url": "https://github.com/isaacphi/mcp-gdrive"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "google-workspace-mcp",
         "author": "aaronsb",
         "stars": "171",
@@ -785,7 +794,7 @@
         "github_url": "https://github.com/aaronsb/google-workspace-mcp"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "ggsrun",
         "author": "tanaikech",
         "stars": "171",
@@ -794,7 +803,7 @@
         "github_url": "https://github.com/tanaikech/ggsrun"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "OpenDocuments",
         "author": "joungminsung",
         "stars": "103",
@@ -803,7 +812,7 @@
         "github_url": "https://github.com/joungminsung/OpenDocuments"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "notebooklm-wiki-pipeline",
         "author": "capitalparser",
         "stars": "90",
@@ -812,22 +821,13 @@
         "github_url": "https://github.com/capitalparser/notebooklm-wiki-pipeline"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "google-docs-mcp",
         "author": "a-bonus",
         "stars": "650",
         "meta": "TypeScript MCP Server",
         "description": "The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.",
         "github_url": "https://github.com/a-bonus/google-docs-mcp"
-      },
-      {
-        "rank": 10,
-        "name": "cli",
-        "author": "googleworkspace",
-        "stars": "30.6k",
-        "meta": "Rust Agent Tool",
-        "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-        "github_url": "https://github.com/googleworkspace/cli"
       }
     ]
   },
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "60.7k",
+      "stars": "60.9k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "60.7k",
+        "stars": "60.9k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1091,7 +1091,7 @@
         "rank": 5,
         "name": "jumpstarter",
         "author": "jumpstarter-dev",
-        "stars": "214",
+        "stars": "215",
         "meta": "Python MCP Server",
         "description": "Hardware testing for the software world. Real or virtual, local or remote, human, automated or agentic.",
         "github_url": "https://github.com/jumpstarter-dev/jumpstarter"
@@ -1150,7 +1150,7 @@
     "local_url": "/agent-skills/scenario/debugging/",
     "quick_pick": {
       "name": "agent-inspect",
-      "stars": "457",
+      "stars": "485",
       "tagline": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: in",
       "github_url": "https://github.com/rajudandigam/agent-inspect"
     },
@@ -1159,7 +1159,7 @@
         "rank": 1,
         "name": "agent-inspect",
         "author": "rajudandigam",
-        "stars": "457",
+        "stars": "485",
         "meta": "TypeScript MCP Server",
         "description": "Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence.",
         "github_url": "https://github.com/rajudandigam/agent-inspect"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "52",
+        "stars": "51",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"
@@ -1222,7 +1222,7 @@
         "rank": 8,
         "name": "DebugMCP",
         "author": "microsoft",
-        "stars": "492",
+        "stars": "491",
         "meta": "TypeScript MCP Server",
         "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
         "github_url": "https://github.com/microsoft/DebugMCP"

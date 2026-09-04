@@ -13,6 +13,8 @@ permalink: /agent-skills/scenario/mcp-for-google/
 
 - <a href="https://github.com/taylorwilsdon/google_workspace_mcp" target="_blank" rel="noopener"><strong>google_workspace_mcp</strong></a> by taylorwilsdon · ★ 3.1k · Python MCP Server
   - Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace MCP Server & CLI Tool
+- <a href="https://github.com/brekkylab/backlot" target="_blank" rel="noopener"><strong>backlot</strong></a> by brekkylab · ★ 58 · Python MCP Server
+  - A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply.
 - <a href="https://github.com/klemensgc/modular-context-obsidian-plugin" target="_blank" rel="noopener"><strong>modular-context-obsidian-plugin</strong></a> by klemensgc · ★ 94 · TypeScript MCP Server
   - Modular Context | Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first
 - <a href="https://github.com/xing5/mcp-google-sheets" target="_blank" rel="noopener"><strong>mcp-google-sheets</strong></a> by xing5 · ★ 977 · Python MCP Server
@@ -29,5 +31,3 @@ permalink: /agent-skills/scenario/mcp-for-google/
   - Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context
 - <a href="https://github.com/a-bonus/google-docs-mcp" target="_blank" rel="noopener"><strong>google-docs-mcp</strong></a> by a-bonus · ★ 650 · TypeScript MCP Server
   - The Ultimate Google Docs, Sheets, Drive, Gmail, & Google Calendar MCP Server. This MCP (primarily for use in Claude Desktop) gains full access to your google suite and lets claude do its thing.
-- <a href="https://github.com/googleworkspace/cli" target="_blank" rel="noopener"><strong>cli</strong></a> by googleworkspace · ★ 30.6k · Rust Agent Tool
-  - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
