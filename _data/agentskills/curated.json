@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "24.8k",
+        "stars": "25.0k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -230,6 +230,15 @@
       },
       {
         "rank": 2,
+        "name": "KeibiDrop",
+        "author": "KeibiSoft",
+        "stars": "59",
+        "meta": "Go MCP Server",
+        "description": "Share files between devices on demand. They show up as a folder on your computer, available instantly while downloading.",
+        "github_url": "https://github.com/KeibiSoft/KeibiDrop"
+      },
+      {
+        "rank": 3,
         "name": "rust-mcp-filesystem",
         "author": "rust-mcp-stack",
         "stars": "172",
@@ -238,7 +247,7 @@
         "github_url": "https://github.com/rust-mcp-stack/rust-mcp-filesystem"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "name": "fast-filesystem-mcp",
         "author": "efforthye",
         "stars": "59",
@@ -247,7 +256,7 @@
         "github_url": "https://github.com/efforthye/fast-filesystem-mcp"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "DesktopCommanderMCP",
         "author": "wonderwhy-er",
         "stars": "9.5k",
@@ -256,7 +265,7 @@
         "github_url": "https://github.com/wonderwhy-er/DesktopCommanderMCP"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "oxideterm",
         "author": "AnalyseDeCircuit",
         "stars": "1.3k",
@@ -265,7 +274,7 @@
         "github_url": "https://github.com/AnalyseDeCircuit/oxideterm"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "mcp-filesystem-server",
         "author": "mark3labs",
         "stars": "675",
@@ -274,7 +283,7 @@
         "github_url": "https://github.com/mark3labs/mcp-filesystem-server"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "BloodHound-MCP-AI",
         "author": "MorDavid",
         "stars": "372",
@@ -283,7 +292,7 @@
         "github_url": "https://github.com/MorDavid/BloodHound-MCP-AI"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "mcp-server-synology",
         "author": "atom2ueki",
         "stars": "171",
@@ -292,22 +301,13 @@
         "github_url": "https://github.com/atom2ueki/mcp-server-synology"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "vertex-ai-mcp-server",
         "author": "shariqriazz",
         "stars": "87",
         "meta": "TypeScript MCP Server",
         "description": "MCP server for Vertex AI and Gemini tools, including grounded answers, documentation research, and filesystem workflows.",
         "github_url": "https://github.com/shariqriazz/vertex-ai-mcp-server"
-      },
-      {
-        "rank": 10,
-        "name": "MCP-Workspace-Server",
-        "author": "answerlink",
-        "stars": "132",
-        "meta": "Python MCP Server",
-        "description": "🚀 Beyond Filesystem - Complete AI Development Environment - One MCP Server provides full Agent capability stack: web development, code execution, data processing, image generation. No need for multiple tools, configure once. Perfect support for Dify, FastGPT, Cherry Studio. 文件操作、Python/Node.js 代码执行、Web 应用一键部署（支持泛域名）、Excel 处理、图像生成。开箱即用",
-        "github_url": "https://github.com/answerlink/MCP-Workspace-Server"
       }
     ]
   },
@@ -318,7 +318,7 @@
     "local_url": "/agent-skills/scenario/mcp-api/",
     "quick_pick": {
       "name": "reshapr",
-      "stars": "117",
+      "stars": "119",
       "tagline": "The open source, no-code MCP Server for AI-Native API Access",
       "github_url": "https://github.com/reshaprio/reshapr"
     },
@@ -327,7 +327,7 @@
         "rank": 1,
         "name": "reshapr",
         "author": "reshaprio",
-        "stars": "117",
+        "stars": "119",
         "meta": "Java MCP Server",
         "description": "The open source, no-code MCP Server for AI-Native API Access",
         "github_url": "https://github.com/reshaprio/reshapr"
@@ -476,7 +476,7 @@
         "rank": 6,
         "name": "caura",
         "author": "caura-ai",
-        "stars": "478",
+        "stars": "482",
         "meta": "Python MCP Server",
         "description": "Caura (formerly MemClaw) — governed shared memory for AI agent fleets. Multi-agent, multi-tenant, MCP-native. Trust tiers, keystone policies, audit trails, knowledge graph, self-improving retrieval. Apache 2.0.",
         "github_url": "https://github.com/caura-ai/caura"
@@ -580,7 +580,7 @@
         "rank": 6,
         "name": "busabase",
         "author": "busabase",
-        "stars": "98",
+        "stars": "102",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.",
         "github_url": "https://github.com/busabase/busabase"
@@ -675,7 +675,7 @@
         "rank": 5,
         "name": "loop-engineering",
         "author": "cobusgreyling",
-        "stars": "10.9k",
+        "stars": "11.0k",
         "meta": "TypeScript MCP Server",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
@@ -702,7 +702,7 @@
         "rank": 8,
         "name": "aeon",
         "author": "aeonfun",
-        "stars": "714",
+        "stars": "715",
         "meta": "TypeScript MCP Server",
         "description": "The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.",
         "github_url": "https://github.com/aeonfun/aeon"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "61.1k",
+      "stars": "61.3k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "61.1k",
+        "stars": "61.3k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -1005,7 +1005,7 @@
         "rank": 7,
         "name": "paseo",
         "author": "getpaseo",
-        "stars": "16.0k",
+        "stars": "16.1k",
         "meta": "TypeScript Codex Skill",
         "description": "Orchestrate multiple coding agents from desktop and mobile",
         "github_url": "https://github.com/getpaseo/paseo"
@@ -1109,7 +1109,7 @@
         "rank": 7,
         "name": "eval-view",
         "author": "hidai25",
-        "stars": "129",
+        "stars": "133",
         "meta": "Python MCP Server",
         "description": "Regression testing for AI agents. Snapshot behavior,diff tool calls,catch regressions in CI. Works with LangGraph, CrewAI, OpenAI, Anthropic.",
         "github_url": "https://github.com/hidai25/eval-view"

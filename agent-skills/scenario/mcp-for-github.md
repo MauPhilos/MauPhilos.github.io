@@ -19,13 +19,13 @@ permalink: /agent-skills/scenario/mcp-for-github/
   - Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI
 - <a href="https://github.com/yusufkaraaslan/Skill_Seekers" target="_blank" rel="noopener"><strong>Skill_Seekers</strong></a> by yusufkaraaslan · ★ 14.9k · Python MCP Server
   - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 10.9k · TypeScript MCP Server
+- <a href="https://github.com/cobusgreyling/loop-engineering" target="_blank" rel="noopener"><strong>loop-engineering</strong></a> by cobusgreyling · ★ 11.0k · TypeScript MCP Server
   - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
 - <a href="https://github.com/Agents365-ai/drawio-skill" target="_blank" rel="noopener"><strong>drawio-skill</strong></a> by Agents365-ai · ★ 9.0k · Python MCP Server
   - From text & real sources to maintainable .drawio architecture models: Diagram IR with source-kind profiles, incremental sync preserving manual layout, multi-view projection, architecture-as-test with a CI action, query/review, what-if, accessible Story Mode, and a built-in MCP server
 - <a href="https://github.com/julien040/anyquery" target="_blank" rel="noopener"><strong>anyquery</strong></a> by julien040 · ★ 1.7k · Go MCP Server
   - One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.
-- <a href="https://github.com/aeonfun/aeon" target="_blank" rel="noopener"><strong>aeon</strong></a> by aeonfun · ★ 714 · TypeScript MCP Server
+- <a href="https://github.com/aeonfun/aeon" target="_blank" rel="noopener"><strong>aeon</strong></a> by aeonfun · ★ 715 · TypeScript MCP Server
   - The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever.
 - <a href="https://github.com/duriantaco/skylos" target="_blank" rel="noopener"><strong>skylos</strong></a> by duriantaco · ★ 521 · Python MCP Server
   - Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.
