@@ -6,7 +6,7 @@
     "local_url": "/agent-skills/scenario/mcp-database/",
     "quick_pick": {
       "name": "dbx",
-      "stars": "18.0k",
+      "stars": "18.1k",
       "tagline": "20 MB lightweight cross-platform database client for 90+ databases, including My",
       "github_url": "https://github.com/t8y2/dbx"
     },
@@ -15,7 +15,7 @@
         "rank": 1,
         "name": "dbx",
         "author": "t8y2",
-        "stars": "18.0k",
+        "stars": "18.1k",
         "meta": "Rust MCP Server",
         "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
         "github_url": "https://github.com/t8y2/dbx"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "25.0k",
+        "stars": "25.2k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -191,7 +191,7 @@
         "rank": 9,
         "name": "stagehand",
         "author": "browserbase",
-        "stars": "24.1k",
+        "stars": "24.2k",
         "meta": "TypeScript LLM Plugin",
         "description": "The SDK For Browser Agents",
         "github_url": "https://github.com/browserbase/stagehand"
@@ -580,7 +580,7 @@
         "rank": 6,
         "name": "busabase",
         "author": "busabase",
-        "stars": "102",
+        "stars": "109",
         "meta": "TypeScript MCP Server",
         "description": "Open-source database & workspace for AI agents — structured data, durable knowledge, reusable skills, runnable apps, and human-reviewed changes. Local-first and self-hostable.",
         "github_url": "https://github.com/busabase/busabase"
@@ -657,7 +657,7 @@
         "rank": 3,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "923",
+        "stars": "924",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
@@ -942,7 +942,7 @@
     "local_url": "/agent-skills/scenario/code-completion/",
     "quick_pick": {
       "name": "OmniRoute",
-      "stars": "61.3k",
+      "stars": "61.4k",
       "tagline": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free),",
       "github_url": "https://github.com/diegosouzapw/OmniRoute"
     },
@@ -951,7 +951,7 @@
         "rank": 1,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "61.3k",
+        "stars": "61.4k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
