@@ -15,7 +15,7 @@ permalink: /agent-skills/scenario/code-review/
   - AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
 - <a href="https://github.com/azrtydxb/procoder" target="_blank" rel="noopener"><strong>procoder</strong></a> by azrtydxb · ★ 200 · Go MCP Server
   - Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers that refuse to call unfinished work done, and a lessons loop that closes each escaped bug's class. One Go binary, no runtime deps, works with 20+ agents.
-- <a href="https://github.com/habit-hooks/habit-hooks" target="_blank" rel="noopener"><strong>habit-hooks</strong></a> by habit-hooks · ★ 142 · Python Agent Tool
+- <a href="https://github.com/habit-hooks/habit-hooks" target="_blank" rel="noopener"><strong>habit-hooks</strong></a> by habit-hooks · ★ 158 · Python Agent Tool
   - Automated quality checks that nudge AI coding agents toward better habits
 - <a href="https://github.com/qualtyco/api-doctor" target="_blank" rel="noopener"><strong>api-doctor</strong></a> by qualtyco · ★ 67 · TypeScript Agent Tool
   - AI compiles hallucinated code that pass. This fixes it before accepting it. 100% Deterministic Quick Start: ```bash # Scan your project npx @api-doctor/cli . # Or install as an agent skill (Claude Code, Cursor, Windsurf) npx @api-doctor/cli install ```
