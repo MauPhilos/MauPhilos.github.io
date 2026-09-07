@@ -42,7 +42,7 @@
         "rank": 4,
         "name": "tabularis",
         "author": "TabularisDB",
-        "stars": "4.7k",
+        "stars": "4.8k",
         "meta": "TypeScript MCP Server",
         "description": "Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 15+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN.",
         "github_url": "https://github.com/TabularisDB/tabularis"
@@ -128,7 +128,7 @@
         "rank": 2,
         "name": "chrome-devtools-mcp",
         "author": "ChromeDevTools",
-        "stars": "51.1k",
+        "stars": "51.2k",
         "meta": "TypeScript MCP Server",
         "description": "Chrome DevTools for coding agents",
         "github_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
@@ -137,7 +137,7 @@
         "rank": 3,
         "name": "obscura",
         "author": "h4ckf0r0day",
-        "stars": "26.1k",
+        "stars": "26.2k",
         "meta": "Rust Agent Tool",
         "description": "The headless browser for AI agents and web scraping",
         "github_url": "https://github.com/h4ckf0r0day/obscura"
@@ -655,15 +655,24 @@
       },
       {
         "rank": 3,
+        "name": "coder_eval",
+        "author": "UiPath",
+        "stars": "122",
+        "meta": "Python MCP Server",
+        "description": "Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your skills, MCP servers, and CLIs work when an agent uses them. Sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
+        "github_url": "https://github.com/UiPath/coder_eval"
+      },
+      {
+        "rank": 4,
         "name": "octocode",
         "author": "bgauryy",
-        "stars": "924",
+        "stars": "926",
         "meta": "TypeScript MCP Server",
         "description": "Code research platform for AI agents; find, understand, and prove context across your code and all of GitHub, in a fraction of the tokens. One toolset, MCP or CLI",
         "github_url": "https://github.com/bgauryy/octocode"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "Skill_Seekers",
         "author": "yusufkaraaslan",
         "stars": "14.9k",
@@ -672,7 +681,7 @@
         "github_url": "https://github.com/yusufkaraaslan/Skill_Seekers"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "loop-engineering",
         "author": "cobusgreyling",
         "stars": "11.0k",
@@ -681,7 +690,7 @@
         "github_url": "https://github.com/cobusgreyling/loop-engineering"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "drawio-skill",
         "author": "Agents365-ai",
         "stars": "9.0k",
@@ -690,7 +699,7 @@
         "github_url": "https://github.com/Agents365-ai/drawio-skill"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "anyquery",
         "author": "julien040",
         "stars": "1.7k",
@@ -699,7 +708,7 @@
         "github_url": "https://github.com/julien040/anyquery"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "aeon",
         "author": "aeonfun",
         "stars": "716",
@@ -708,22 +717,13 @@
         "github_url": "https://github.com/aeonfun/aeon"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "name": "skylos",
         "author": "duriantaco",
         "stars": "521",
         "meta": "Python MCP Server",
         "description": "Open-source Python, TypeScript, and Go SAST with dead code detection. Finds secrets, exploitable flows, and AI regressions. VS Code extension, GitHub Action, and MCP server for AI agents.",
         "github_url": "https://github.com/duriantaco/skylos"
-      },
-      {
-        "rank": 10,
-        "name": "node9-proxy",
-        "author": "node9-ai",
-        "stars": "210",
-        "meta": "TypeScript MCP Server",
-        "description": "The Execution Security Layer for the Agentic Era. Providing deterministic \"Sudo\" governance and audit logs for autonomous AI agents.",
-        "github_url": "https://github.com/node9-ai/node9-proxy"
       }
     ]
   },
@@ -865,7 +865,7 @@
         "rank": 3,
         "name": "habit-hooks",
         "author": "habit-hooks",
-        "stars": "158",
+        "stars": "160",
         "meta": "Python Agent Tool",
         "description": "Automated quality checks that nudge AI coding agents toward better habits",
         "github_url": "https://github.com/habit-hooks/habit-hooks"
@@ -883,7 +883,7 @@
         "rank": 5,
         "name": "open-code-review",
         "author": "alibaba",
-        "stars": "21.9k",
+        "stars": "22.0k",
         "meta": "Go Agent Tool",
         "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
         "github_url": "https://github.com/alibaba/open-code-review"
@@ -960,7 +960,7 @@
         "rank": 2,
         "name": "OmniRoute",
         "author": "diegosouzapw",
-        "stars": "61.8k",
+        "stars": "62.1k",
         "meta": "TypeScript MCP Server",
         "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
         "github_url": "https://github.com/diegosouzapw/OmniRoute"
@@ -996,7 +996,7 @@
         "rank": 6,
         "name": "context-mode",
         "author": "mksglu",
-        "stars": "20.4k",
+        "stars": "20.5k",
         "meta": "TypeScript MCP Server",
         "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
         "github_url": "https://github.com/mksglu/context-mode"
@@ -1177,7 +1177,7 @@
         "rank": 3,
         "name": "MemWhale",
         "author": "wuisabel-gif",
-        "stars": "58",
+        "stars": "59",
         "meta": "Rust MCP Server",
         "description": "Persistent, local memory for developers and their coding agents. Records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
         "github_url": "https://github.com/wuisabel-gif/MemWhale"
